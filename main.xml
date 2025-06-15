@@ -4,6 +4,7 @@ Kodi Main Playlist
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZgUZTxoIZCmHUe5EJFKGw2XOwgG4Kei56bi6t-wDk1qm0j-cDPArLhVt&s=10</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZgUZTxoIZCmHUe5EJFKGw2XOwgG4Kei56bi6t-wDk1qm0j-cDPArLhVt&s=10</thumbnail>
 
-<name>English</name>
-<thumbnail>/storage/emulated/0/Download/blue_and_white-wallpaper-1366x768 (1).jpg</thumbnail>
-<link>https://raw.githubusercontent.com/Habib4326/Habib_Plyalist/refs/heads/main/Main-Directory/English-Movies.xml</link>
+<name>English Movies</name>
+<thumb>https://i.ibb.co/wxmy64g/1749700023689.jpg</thumb>
+<fanart>https://i.ibb.co/wxmy64g/1749700023689.jpg</fanart>
+<link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/English-Movies.xml</link>
