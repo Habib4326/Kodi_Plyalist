@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
-        <thumbnail>https://i.ibb.co/Z6Lwtjyb/1000050626-optimized.jpg</thumbnail>
-        <fanart>https://i.ibb.co/wxmy64g/1749700023689.jpg</fanart>
-    <movie>
+     <movie>
         <thumbnail>https://image.tmdb.org/t/p/w400/5IdJYUT5LB23Zfx6S2UxD5jdnwR.jpg</thumbnail>
         <fanart>https://catimages.org/images/2025/06/13/Vlcsnap.mkv-frame124228.th.jpg</fanart>
         <title>Blind Spot</title>
@@ -19,24 +17,6 @@
         <thumbnail>https://image.tmdb.org/t/p/w500/lfwUc3JT5hG6vivAquLi0CG6Sgk.jpg</thumbnail>
         <fanart>https://catimages.org/images/2025/06/13/vlcsnap-2025-06-12-14h44m06s049.th.jpg</fanart>
         <plot>A brave and skilled officer with a strong record of solving tough cases is assigned to a new.</plot>
-    </movie>
-    <movie>
-        <title>Deep Cover</title>
-        <year>2025</year>
-        <genre>Action,Comedy,Crime</genre>
-        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Deep.Cover.2025.1080p.10Bit.WEB.DL.Hindi.5.1.English.5.1.HEVC.x265.HDHub4u.Do.mkv</link>
-        <thumbnail>https://image.tmdb.org/t/p/w500/euM8fJvfH28xhjGy25LiygxfkWc.jpg</thumbnail>
-        <fanart>https://catimages.org/images/2025/06/13/vlcsnap-2025-06-12-09h16m55s979.th.jpg</fanart>
-        <plot>Three improv actors are asked to go undercover by the police in London’s criminal underworld.</plot>
-    </movie>
-    <movie>
-        <title>My Old Ass</title>
-        <year>2024</year>
-        <genre>Comedy,Drama,Romance</genre>
-        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/My.Old.Ass.2024.1080p.10Bit.WEB.DL.Hindi.5.1.English.5.1.HEVC.x265.HDHub4u.Do.mkv</link>
-        <thumbnail>https://image.tmdb.org/t/p/w500/PKZsGJqSsWiA1MdBH8eSbMrXf4.jpg</thumbnail>
-        <fanart>https://catimages.org/images/2025/06/14/vlcsnap-2025-06-13-11h04m25s834.th.jpg</fanart>
-        <plot>An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self.</plot>
     </movie>
 </movies>
       
