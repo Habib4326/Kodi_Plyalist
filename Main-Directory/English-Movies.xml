@@ -1,14 +1,24 @@
 English Movies
 
-<poster>HD English Movies</poster>
+<poster></poster>
 <thumb></thumb>
 <fanart></fanart>
 
 <item>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
+        <title>Eleven</title>
+        <year>2025</year>
+        <genre>Thriller</genre>
+        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Eleven.2025.1080p.10Bit.HEVC.WEB.DL.Hindi.5.1.Tamil.5.1.ESub.x265.HDHub4u.Do.mkv</link>
+        <thumb>https://image.tmdb.org/t/p/w500/lfwUc3JT5hG6vivAquLi0CG6Sgk.jpg</thumb>
+        <fanart>https://catimages.org/images/2025/06/13/vlcsnap-2025-06-12-14h44m06s049.th.jpg</fanart>
+        <plot>A brave and skilled officer with a strong record of solving tough cases is assigned to a new.</plot>
+</item>
+<item>
+        <title>Blind Spot</title>
+        <year>2025</year>
+        <genre>Crime,Mystery,Drama</genre>
+        <thumb>https://image.tmdb.org/t/p/w400/5IdJYUT5LB23Zfx6S2UxD5jdnwR.jpg</thumb>
+        <fanart>https://catimages.org/images/2025/06/13/Vlcsnap.mkv-frame124228.th.jpg</fanart>
+        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Blind.Spot.2025.1080p.10Bit.WEB.DL.Hindi.2.0.Telugu.5.1.HEVC.x265.HDHub4u.Do.mkv</link>
+        <plot>Officer Vikram investigates when Divya’s apparent suicide turns into a murder case.</plot>
 </item>
