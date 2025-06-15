@@ -5,8 +5,10 @@ Kodi Main Playlist
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZgUZTxoIZCmHUe5EJFKGw2XOwgG4Kei56bi6t-wDk1qm0j-cDPArLhVt&s=10</thumbnail>
 
 <movies>
+  <movie>
   <name>English Movies</name>
   <thumb>https://i.ibb.co/wxmy64g/1749700023689.jpg</thumb>
   <fanart>https://i.ibb.co/wxmy64g/1749700023689.jpg</fanart>
   <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/English-Movies.xml</link>
+  </movie>
 </movies>
