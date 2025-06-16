@@ -1,24 +1,23 @@
 <tvshow>
-    <title>TV Show Title</title>
-    <year>Start Year</year>
-    <genre>Genre Name</genre>
-    <plot>Brief description of the TV show.</plot>
-    <thumb>tvshow_poster.jpg</thumb>
-    <fanart>tvshow_fanart.jpg</fanart>
+    <title>The Naked Director (Season 1) Full Series</title>
+    <year>2019</year>
+    <genre>Comedy, Drama</genre>
+    <plot>Follows the rise of Tooru Muranishi, one of Japan’s most notorious directors of adult video.</plot>
+    <thumb>https://image.tmdb.org/t/p/w400/nbeRva0jrmJAvRflXAe89CbD3Kg.jpg</thumb>
+    <fanart>https://catimages.org/images/2025/03/23/Vlcsnap.00_00_35_13.th.jpg</fanart>
     <link>tvshow_trailer_link.com</link>
 
     <season>
-        <number>1</number>
+        <number>Season 1</number>
         <title>Season 1 Title</title>
         <plot>Brief description of Season 1.</plot>
         <thumb>season1_poster.jpg</thumb>
         <link>season1_trailer_link.com</link>
 
         <episode>
-            <number>1</number>
-            <title>Episode 1 Title</title>
-            <plot>Brief description of Episode 1.</plot>
-            <link>episode1_link.com</link>
+            <number>Episode 1</number>
+            <title>The Naked Director S01E01</title>
+            <link>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Naked%20Director%20%28TV%20Series%202019%E2%80%932021%29%20720p%20%5BDual%20Audio%5D/Season%201/The%20Naked%20Director%20S01E01%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BJapanese%205.1%2BEnglish%205.1%5D%20-MkvCage.mkv</link>
             <thumb>episode1_screenshot.jpg</thumb>
         </episode>
         <episode>
