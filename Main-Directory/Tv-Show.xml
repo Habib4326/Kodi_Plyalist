@@ -17,25 +17,5 @@
             <link>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Naked%20Director%20%28TV%20Series%202019%E2%80%932021%29%20720p%20%5BDual%20Audio%5D/Season%201/The%20Naked%20Director%20S01E01%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BJapanese%205.1%2BEnglish%205.1%5D%20-MkvCage.mkv</link>
             <thumb>http://172.16.50.12/_h5ai/public/images/themes/faenza/img-jpg.png</thumb>
         </episode>
-        <episode>
-            <number></number>
-            <title></title>
-            <link></link>
-            <thumb></thumb>
-        </episode>
-        </season>
-
-    <season>
-        <number></number>
-        <title></title>
-        <thumb></thumb>
-        <link></link>
-
-        <episode>
-            <number></number>
-            <title></title>
-            <link></link>
-            <thumb></thumb>
-        </episode>
-        </season>
-    </tvshow>
+    </season>
+</tvshow>
