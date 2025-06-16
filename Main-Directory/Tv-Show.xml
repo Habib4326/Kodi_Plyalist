@@ -5,43 +5,37 @@
     <plot>Follows the rise of Tooru Muranishi, one of Japan’s most notorious directors of adult video.</plot>
     <thumb>https://image.tmdb.org/t/p/w400/nbeRva0jrmJAvRflXAe89CbD3Kg.jpg</thumb>
     <fanart>https://catimages.org/images/2025/03/23/Vlcsnap.00_00_35_13.th.jpg</fanart>
-    <link>tvshow_trailer_link.com</link>
+    <link></link>
 
     <season>
         <number>Season 1</number>
-        <title>Season 1 Title</title>
-        <plot>Brief description of Season 1.</plot>
-        <thumb>season1_poster.jpg</thumb>
-        <link>season1_trailer_link.com</link>
+        <title>The Naked Directore</title>
 
         <episode>
             <number>Episode 1</number>
             <title>The Naked Director S01E01</title>
             <link>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Naked%20Director%20%28TV%20Series%202019%E2%80%932021%29%20720p%20%5BDual%20Audio%5D/Season%201/The%20Naked%20Director%20S01E01%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BJapanese%205.1%2BEnglish%205.1%5D%20-MkvCage.mkv</link>
-            <thumb>episode1_screenshot.jpg</thumb>
+            <thumb>http://172.16.50.12/_h5ai/public/images/themes/faenza/img-jpg.png</thumb>
         </episode>
         <episode>
-            <number>2</number>
-            <title>Episode 2 Title</title>
-            <plot>Brief description of Episode 2.</plot>
-            <link>episode2_link.com</link>
-            <thumb>episode2_screenshot.jpg</thumb>
+            <number></number>
+            <title></title>
+            <link></link>
+            <thumb></thumb>
         </episode>
         </season>
 
     <season>
-        <number>2</number>
-        <title>Season 2 Title</title>
-        <plot>Brief description of Season 2.</plot>
-        <thumb>season2_poster.jpg</thumb>
-        <link>season2_trailer_link.com</link>
+        <number></number>
+        <title></title>
+        <thumb></thumb>
+        <link></link>
 
         <episode>
-            <number>1</number>
-            <title>Episode 1 Title</title>
-            <plot>Brief description of Episode 1 of Season 2.</plot>
-            <link>season2_episode1_link.com</link>
-            <thumb>season2_episode1_screenshot.jpg</thumb>
+            <number></number>
+            <title></title>
+            <link></link>
+            <thumb></thumb>
         </episode>
         </season>
     </tvshow>
