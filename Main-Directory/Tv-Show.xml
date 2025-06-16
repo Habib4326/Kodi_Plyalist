@@ -1,21 +1,19 @@
-<tvshow>
-    <title>The Naked Director (Season 1) Full Series</title>
-    <year>2019</year>
-    <genre>Comedy, Drama</genre>
-    <plot>Follows the rise of Tooru Muranishi, one of Japan’s most notorious directors of adult video.</plot>
-    <thumb>https://image.tmdb.org/t/p/w400/nbeRva0jrmJAvRflXAe89CbD3Kg.jpg</thumb>
-    <fanart>https://catimages.org/images/2025/03/23/Vlcsnap.00_00_35_13.th.jpg</fanart>
-    <link></link>
-
-    <season>
-        <number>Season 1</number>
-        <title>The Naked Directore</title>
-
-        <episode>
-            <number>Episode 1</number>
-            <title>The Naked Director S01E01</title>
-            <link>http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Naked%20Director%20%28TV%20Series%202019%E2%80%932021%29%20720p%20%5BDual%20Audio%5D/Season%201/The%20Naked%20Director%20S01E01%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BJapanese%205.1%2BEnglish%205.1%5D%20-MkvCage.mkv</link>
-            <thumb>http://172.16.50.12/_h5ai/public/images/themes/faenza/img-jpg.png</thumb>
-        </episode>
-    </season>
+<?xml version="1.0" encoding="UTF-8"?>
+<tvshows>
+    <show>
+        <title>The Naked Director Season 1 Full Series</title>
+        <year>2019</year>
+        <genre>Comedy, Drama</genre>
+        <plot>Follows the rise of Tooru Muranishi, one of Japan’s most notorious directors of adult video.</plot>
+        <thumb>https://image.tmdb.org/t/p/w400/nbeRva0jrmJAvRflXAe89CbD3Kg.jpg</thumb>
+        <fanart>https://catimages.org/images/2025/03/23/Vlcsnap.00_00_35_13.th.jpg</fanart>
+        <episodes>
+            <episode>
+                <title>The Naked Director</title>
+                <season>S01</season>
+                <episode_number>E01</episode_number>
+                <link>http://10.1.1.1/data/TVShows/Money_Heist/S01E01.mp4</link>
+            </episode>
+        </episodes>
+    </show>
 </tvshow>
