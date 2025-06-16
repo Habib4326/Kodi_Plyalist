@@ -1,0 +1,48 @@
+<tvshow>
+    <title>TV Show Title</title>
+    <year>Start Year</year>
+    <genre>Genre Name</genre>
+    <plot>Brief description of the TV show.</plot>
+    <thumb>tvshow_poster.jpg</thumb>
+    <fanart>tvshow_fanart.jpg</fanart>
+    <link>tvshow_trailer_link.com</link>
+
+    <season>
+        <number>1</number>
+        <title>Season 1 Title</title>
+        <plot>Brief description of Season 1.</plot>
+        <thumb>season1_poster.jpg</thumb>
+        <link>season1_trailer_link.com</link>
+
+        <episode>
+            <number>1</number>
+            <title>Episode 1 Title</title>
+            <plot>Brief description of Episode 1.</plot>
+            <link>episode1_link.com</link>
+            <thumb>episode1_screenshot.jpg</thumb>
+        </episode>
+        <episode>
+            <number>2</number>
+            <title>Episode 2 Title</title>
+            <plot>Brief description of Episode 2.</plot>
+            <link>episode2_link.com</link>
+            <thumb>episode2_screenshot.jpg</thumb>
+        </episode>
+        </season>
+
+    <season>
+        <number>2</number>
+        <title>Season 2 Title</title>
+        <plot>Brief description of Season 2.</plot>
+        <thumb>season2_poster.jpg</thumb>
+        <link>season2_trailer_link.com</link>
+
+        <episode>
+            <number>1</number>
+            <title>Episode 1 Title</title>
+            <plot>Brief description of Episode 1 of Season 2.</plot>
+            <link>season2_episode1_link.com</link>
+            <thumb>season2_episode1_screenshot.jpg</thumb>
+        </episode>
+        </season>
+    </tvshow>
