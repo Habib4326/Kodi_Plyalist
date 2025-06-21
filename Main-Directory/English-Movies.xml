@@ -19,6 +19,12 @@
     </movie>
     <movie>
         <title>adult</title>
+        <year>2024</year>
+        <genre>Comedy,Drama,Romance</genre>
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/adults%20-videos.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w500/PKZsGJqSsWiA1MdBH8eSbMrXf4.jpg</thumbnail>
+        <fanart>https://catimages.org/images/2025/06/14/vlcsnap-2025-06-13-11h04m25s834.th.jpg</fanart>
+        <plot>An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self.</plot>
+        
     </movie>
 </movies>
