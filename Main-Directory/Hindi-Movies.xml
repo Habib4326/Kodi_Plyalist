@@ -4,7 +4,7 @@
     <year>2020</year>
     <genre>Action</genre>
     <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2F10%2520Things%2520We%2520Should%2520Do%2520Before%2520We%2520Break%2520Up%2520%282020%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
-    <thumb>https://image.tmdb.org/t/p/w500/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg</thumb>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg</fanart>
     <plot>No plot available.</plot>
   </movie>
@@ -14,7 +14,7 @@
     <year>2023</year>
     <genre>Action</genre>
     <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FA%2520Haunting%2520in%2520Venice%2520%282023%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
-    <thumb>https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg</thumb>
+    <thumbnail>https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg</fanart>
     <plot>No plot available.</plot>
   </movie>
@@ -24,7 +24,7 @@
     <year>2018</year>
     <genre>Action</genre>
     <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FAssassination%2520Nation%2520%282018%29%25201080p%2520Bluray%2520%28Dual%2520Audio%29%2520%28Hindi%2BEnglish%29.mkv</link>
-    <thumb>https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg</thumb>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg</fanart>
     <plot>No plot available.</plot>
   </movie>
@@ -34,7 +34,7 @@
     <year>2021</year>
     <genre>Action</genre>
     <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBartkowiak%2520%282021%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
-    <thumb>https://image.tmdb.org/t/p/w500/9jUF9fuNRaJv0uYEJ1J3srNAnX7.jpg</thumb>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9jUF9fuNRaJv0uYEJ1J3srNAnX7.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/9jUF9fuNRaJv0uYEJ1J3srNAnX7.jpg</fanart>
     <plot>No plot available.</plot>
   </movie>
@@ -44,7 +44,7 @@
     <year>2019</year>
     <genre>Action</genre>
     <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBig%2520Time%2520Adolescence%2520%282019%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
-    <thumb>https://image.tmdb.org/t/p/w500/ydpl7tqYyYFhCIJpslbvlUpVdc9.jpg</thumb>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ydpl7tqYyYFhCIJpslbvlUpVdc9.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/ydpl7tqYyYFhCIJpslbvlUpVdc9.jpg</fanart>
     <plot>No plot available.</plot>
   </movie>
