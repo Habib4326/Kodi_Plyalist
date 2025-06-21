@@ -1,1 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movies>
+  <movie>
+    <title>10 Things We Should Do Before We Break Up</title>
+    <year>2020</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2F10%2520Things%2520We%2520Should%2520Do%2520Before%2520We%2520Break%2520Up%2520%282020%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
 
+  <movie>
+    <title>A Haunting in Venice</title>
+    <year>2023</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FA%2520Haunting%2520in%2520Venice%2520%282023%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Assassination Nation</title>
+    <year>2018</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FAssassination%2520Nation%2520%282018%29%25201080p%2520Bluray%2520%28Dual%2520Audio%29%2520%28Hindi%2BEnglish%29.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bartkowiak</title>
+    <year>2021</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBartkowiak%2520%282021%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/9jUF9fuNRaJv0uYEJ1J3srNAnX7.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/9jUF9fuNRaJv0uYEJ1J3srNAnX7.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Big Time Adolescence</title>
+    <year>2019</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBig%2520Time%2520Adolescence%2520%282019%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ydpl7tqYyYFhCIJpslbvlUpVdc9.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ydpl7tqYyYFhCIJpslbvlUpVdc9.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Blue Cave</title>
+    <year>2024</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBlue%2520Cave%2520%282024%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/32hWYgxMOudSgA6tR8nlVTUtoOi.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/32hWYgxMOudSgA6tR8nlVTUtoOi.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Brian Banks</title>
+    <year>2018</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBrian%2520Banks%2520%282018%29%2520%28Hinid%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/4MnCFcFHYAEMG4NBTUKvjhf5AhU.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/4MnCFcFHYAEMG4NBTUKvjhf5AhU.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bullet Train</title>
+    <year>2022</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FBullet%2520Train%2520%282022%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/zTgMFlHG5D1EqdQDhfOTAsyzGoX.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/zTgMFlHG5D1EqdQDhfOTAsyzGoX.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Cinderella</title>
+    <year>2021</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FCinderella%2520%282021%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Company of Heroes</title>
+    <year>2013</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FCompany%2520of%2520Heroes%2520%282013%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/sWeDlrWPETZpvf04j0Wt0r3I0QJ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/sWeDlrWPETZpvf04j0Wt0r3I0QJ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Cookies & Cream</title>
+    <year>2008</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FCookies%2520%26%2520Cream%2520%282008%29%2520%28Hindi%2520%26%2520English%29%2520720p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/2jCsYxQSrcME0uznWOl6uCyPOmP.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/2jCsYxQSrcME0uznWOl6uCyPOmP.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Doctor Dolittle</title>
+    <year>1998</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FDr%2520Dolittle%2520%281998%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Dune: Part Two</title>
+    <year>2024</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FDune%2520Part%2520Two%2520%282024%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Faithfully Yours</title>
+    <year>2022</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FFaithfully%2520Yours%2520%282022%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/jGGlh6zDV6UmGFKWA1tyuQ3jNgO.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/jGGlh6zDV6UmGFKWA1tyuQ3jNgO.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Fall</title>
+    <year>2022</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FFall%2520%282022%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Fantastic Beasts and Where to Find Them</title>
+    <year>2016</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FFantastic%2520Beasts%2520and%2520Where%2520to%2520Find%2520Them%2520%282016%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>G.I. Joe: The Rise of Cobra</title>
+    <year>2009</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FG%2520I%2520Joe%2520The%2520Rise%2520of%2520Cobra%2520%282009%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/wEr0FAAKPjlZ63i2WuuB2ge8OWv.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/wEr0FAAKPjlZ63i2WuuB2ge8OWv.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Go! Go! Cory Carson: Chrissy Takes the Wheel</title>
+    <year>2021</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FGo%2520Go%2520Cory%2520Carson%2520Chrissy%2520Takes%2520the%2520Wheel%2520%282021%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/eZvpTcUk0L8paEqegXzUcJa9nG.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/eZvpTcUk0L8paEqegXzUcJa9nG.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Half Brothers</title>
+    <year>2020</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FHalf%2520Brothers%2520%282020%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/Apl0WFx61trVOoxvc8Erd5cbP8X.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/Apl0WFx61trVOoxvc8Erd5cbP8X.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Inheritance</title>
+    <year>2025</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FInheritance%2520%282025%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Kingdom of the Planet of the Apes</title>
+    <year>2024</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FKingdom%2520of%2520the%2520Planet%2520of%2520the%2520Apes%2520%282024%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Man of Men</title>
+    <year>2019</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FMan%2520of%2520Men%2520%28Peopekteu%2520maen%29%2520%282019%29%2520%28Hindi%2520%26%2520Korean%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/qwUppg1yYiHvZ398fT70uQFWV6y.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/qwUppg1yYiHvZ398fT70uQFWV6y.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Me Time</title>
+    <year>2022</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FMe%2520Time%2520%282022%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/bkjPoisqAavXUvtoirxTEcLLQyI.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/bkjPoisqAavXUvtoirxTEcLLQyI.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Morgan</title>
+    <year>2016</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FMorgan%2520%282016%29%2520%28%2520Hindi%2520%26%2520English%29%25201080p%2520BluRay.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Night Hunter</title>
+    <year>2018</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FNight%2520Hunter%2520%282018%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Orphan</title>
+    <year>2009</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FOrphan%2520%282009%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ricky Stanicky</title>
+    <year>2024</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FRicky%2520Stanicky%2520%282024%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Shaft</title>
+    <year>2000</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FShaft%2520%282000%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/5ncvnNPaN73cOqD4muE413sSOyY.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/5ncvnNPaN73cOqD4muE413sSOyY.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Smugglers</title>
+    <year>2023</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FSmugglers%2520%28Milsu%29%2520%282023%29%2520%28Hindi%2520%26%2520Korean%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Spaceman</title>
+    <year>2024</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FSpaceman%2520%282024%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Sunshine</title>
+    <year>2007</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FSunshine%2520%282007%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/8kX6xmEwz0RpEJkeWjXTkxbOCAp.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/8kX6xmEwz0RpEJkeWjXTkxbOCAp.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Tenet</title>
+    <year>2020</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FTenet%2520%282020%29%2520%28Hindi%29%25201080p%2520BluRay.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Hurricane Heist</title>
+    <year>2018</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Hurricane%2520Heist%2520%282018%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/rAmcj5IZcx59dhev3UnVDEGlImK.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/rAmcj5IZcx59dhev3UnVDEGlImK.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Last Warrior: Emissary of Darkness</title>
+    <year>2021</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Last%2520Warrior%2520%28Yong%2520zhi%2520cheng%29%2520%282021%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/pDlUJj8Xuwl3JeehLtLweGDDJhC.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/pDlUJj8Xuwl3JeehLtLweGDDJhC.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Legend of Tarzan</title>
+    <year>2016</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Legend%2520of%2520Tarzan%2520%282016%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Lion King 1½</title>
+    <year>2004</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Lion%2520King%25203%2520Hakuna%2520Matata%2520%282004%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Talented Mr. Ripley</title>
+    <year>1999</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Talented%2520Mr%2520Ripley%2520%281999%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Uninvited</title>
+    <year>2009</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Uninvited%2520%282009%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>After The Wave</title>
+    <year>2015</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Wave%2520%28Bolgen%29%2520%282015%29%2520%28Hindi%2520%26%2520Norway%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/k2TAAzGm9LP1OX3TDjxBMN9KIho.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/k2TAAzGm9LP1OX3TDjxBMN9KIho.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Witch: Part 1. The Subversion</title>
+    <year>2018</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThe%2520Witch%2520Part%25201%2520The%2520Subversion%2520%28Manyeo%29%2520%282018%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Things Heard & Seen</title>
+    <year>2021</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FThings%2520Heard%2520And%2520Seen%2520%282021%29%2520%28Hindi%2520Dubbed%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>tick... BOOM!" tvg-logo="https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg" group-title="Dual Audio", tick, tick... BOOM!</title>
+    <year>2021</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FTick%2520Tick%2520Boom%2520%28tick%2520tick%2520Boom%29%2520%282021%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Upgraded</title>
+    <year>2024</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FUpgraded%2520%282024%29%2520%28Hindi%2520%26%2520English%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Waning Moon</title>
+    <year>2020</year>
+    <genre>Dual Audio</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FDual%2520Audio%2FWaning%2520Moon%2520%282020%29%2520%28Hindi%2520Dubbed%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ff0glBAaHtJ0Vjkb2QmEmLOF454.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ff0glBAaHtJ0Vjkb2QmEmLOF454.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>420 IPC</title>
+    <year>2021</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2F420%2520IPC%2520%282021%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>ABCD: American-Born Confused Desi</title>
+    <year>2013</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FABCD%2520%28Any%2520Body%2520Can%2520Dance%29%2520%282013%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/87iukoelBql5w3PIibajvcr7MTR.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/87iukoelBql5w3PIibajvcr7MTR.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Aakhet</title>
+    <year>2021</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FAakhet%2520%282021%29%25201080p%2520WEBDL.mkv</link>
+    <thumb></thumb>
+    <fanart></fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ae Dil Hai Mushkil</title>
+    <year>2016</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FAe%2520Dil%2520Hai%2520Mushkil%2520%282016%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Afwaah</title>
+    <year>2023</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FAfwaah%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/deBTwlgJ6vrup7zpCODofbebZGZ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/deBTwlgJ6vrup7zpCODofbebZGZ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ahaan</title>
+    <year>2021</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FAhaan%2520%282021%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/gMb3pKpXU3WXQpFjteynQDwctp2.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/gMb3pKpXU3WXQpFjteynQDwctp2.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Angrezi Medium</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FAngrezi%2520Medium%2520%282020%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/hT41Fi3NAqkPpNkWt7imaOtxGDP.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/hT41Fi3NAqkPpNkWt7imaOtxGDP.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Attack</title>
+    <year>2022</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FAttack%2520Part%25201%2520%282022%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Baaghi 3</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FBaaghi%25203%2520%282020%29%2520720p%2520PreDVDRip.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bade Miyan Chote Miyan</title>
+    <year>2024</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FBade%2520Miyan%2520Chote%2520Miyan%2520%282024%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Baghban</title>
+    <year>2003</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FBaghban%2520%282003%29%25201080p%2520BluRay.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bandit Queen</title>
+    <year>1994</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FBandit%2520Queen%2520%281994%29%2520720p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/aYJgxlxo0NZvA075d4BelEjsbJA.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/aYJgxlxo0NZvA075d4BelEjsbJA.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bewakoofiyaan</title>
+    <year>2014</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FBewakoofiyaan%2520%282014%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/eniZIxK1INYbOQBeJWmv0IhKKOz.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/eniZIxK1INYbOQBeJWmv0IhKKOz.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhanwarey</title>
+    <year>2017</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FBhanwarey%2520%282017%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Chaloo Movie</title>
+    <year>2013</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FChaloo%2520Movie%2520%282013%29%2520720p%2520HDRip.mkv</link>
+    <thumb></thumb>
+    <fanart></fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Chatur Singh Two Star</title>
+    <year>2011</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FChatur%2520Singh%2520Two%2520Star%2520%282011%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ounPVh0WuskJE0Doy4txd4wEXQ7.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ounPVh0WuskJE0Doy4txd4wEXQ7.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Chintu Ka Birthday</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FChintu%2520Ka%2520Birthday%2520%282020%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Dance Dosti Aur Ishqool</title>
+    <year>2015</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FDance%2520Dosti%2520Aur%2520Ishqool%2520%282015%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Dilwale Dulhania Le Jayenge</title>
+    <year>1995</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FDilwale%2520Dulhania%2520Le%2520Jayenge%2520%281995%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ek Ladki Ko Dekha Toh Aisa Laga</title>
+    <year>2019</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FEk%2520Ladki%2520Ko%2520Dekha%2520Toh%2520Aisa%2520Laga%2520%282019%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/uYevwq0VLai27AvODudalXzE6HM.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/uYevwq0VLai27AvODudalXzE6HM.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Firaaq</title>
+    <year>2008</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FFiraaq%2520%282008%29%25201080p%2520WEBDL.mp4</link>
+    <thumb></thumb>
+    <fanart></fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Gang</title>
+    <year>2000</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FGang%2520%282000%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/dYcuiiBDpPUvCcPbiWdH4REjGn3.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/dYcuiiBDpPUvCcPbiWdH4REjGn3.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Guddu Ki Gun</title>
+    <year>2015</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FGuddu%2520Ki%2520Gun%2520%282015%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/8CMeDmIETdt18Xl1H2Do9gpUDg.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/8CMeDmIETdt18Xl1H2Do9gpUDg.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Gunehgaar</title>
+    <year>2022</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FGunehgaar%2520%282022%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/nThbym8MQhyW5qORaOBwdiz6sAf.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/nThbym8MQhyW5qORaOBwdiz6sAf.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Gunjan Saxena: The Kargil Girl</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FGunjan%2520Saxena%2520The%2520Kargil%2520Girl%2520%282020%29%2520720p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Hate Story</title>
+    <year>2012</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FHate%2520Story%2520%282012%29%25201080p%2520WEbRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/bnKApifJZnrqzOb9DVAmWffjOWk.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/bnKApifJZnrqzOb9DVAmWffjOWk.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Hate Story IV</title>
+    <year>2018</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FHate%2520Story%25204%2520%282018%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/7mI6YgCVFfKDSlSDN8MuSY8oCFJ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/7mI6YgCVFfKDSlSDN8MuSY8oCFJ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Hostel</title>
+    <year>2011</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FHostel%2520%282011%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/wL91L05ONOOv5965sTxWVYbJGZZ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/wL91L05ONOOv5965sTxWVYbJGZZ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Housefull 4</title>
+    <year>2019</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FHouseFull%25204%2520%282019%29%2520720p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Hum Saath Saath Hain</title>
+    <year>1999</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FHum%2520Saath%2520Saath%2520Hain%2520%281999%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/lEAEzpAfSyBZc5sw1NBnWr5TeZU.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/lEAEzpAfSyBZc5sw1NBnWr5TeZU.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Hum Tum Pe Marte Hain</title>
+    <year>1999</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FHum%2520Tum%2520Pe%2520Marte%2520Hain%2520%281999%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ttNDEOQR2GveYQztVCMRDxNLnMq.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ttNDEOQR2GveYQztVCMRDxNLnMq.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Cursed Spiritual Infection: I Am Possessed - 24-Year-Old Office Lady Yuki's Case</title>
+    <year></year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FI%2520Am%252024%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/1WSAW0BX2p3RBmPrhnjZhtACnOW.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/1WSAW0BX2p3RBmPrhnjZhtACnOW.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ilaaka</title>
+    <year>1989</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FIlaaka%2520%281989%29%2520720p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/1IHto68OAJsOKfOz2rbWPOwn2jQ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/1IHto68OAJsOKfOz2rbWPOwn2jQ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Jai Ho</title>
+    <year>2014</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FJai%2520Ho%2520%282014%29%2520720p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/zohBOXIinteJL6ABfZchvcFA6h8.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/zohBOXIinteJL6ABfZchvcFA6h8.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Jai Jawaan Jai Kisaan</title>
+    <year>2015</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FJai%2520Jawaan%2520Jai%2520Kisaan%2520%282015%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/rvMeOtIQDrfltA5X2vh3MwNL5PZ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/rvMeOtIQDrfltA5X2vh3MwNL5PZ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Jogi</title>
+    <year>2022</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FJogi%2520%282022%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/aQJ93gdI2htbZfOLX41PnkRxW3l.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/aQJ93gdI2htbZfOLX41PnkRxW3l.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Junoon</title>
+    <year>1992</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FJunoon%2520%281992%29%25201080p%2520WEBRip%2520.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/uDLGI6LfkgxtvHsXdTyFRcHVoZU.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/uDLGI6LfkgxtvHsXdTyFRcHVoZU.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Khiladi 786</title>
+    <year>2012</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FKhiladi%2520786%2520%282012%29%2520720p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/3chNHVi7j0jmUvJ1k7n2EYPfFmC.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/3chNHVi7j0jmUvJ1k7n2EYPfFmC.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Logout</title>
+    <year>2024</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FLogout%2520%282024%29%25201080p%2520WEBRip.mp4</link>
+    <thumb></thumb>
+    <fanart></fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Main Krishna Hoon</title>
+    <year>2013</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMain%2520Krishna%2520Hoon%2520%282013%29%2520720p%2520DVDRip.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/4fddOiJPp4Mf0jFXcp2WE8qvNW2.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/4fddOiJPp4Mf0jFXcp2WE8qvNW2.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Mardaani 2</title>
+    <year>2019</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMardaani%25202%2520%282019%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Mary Kom</title>
+    <year>2014</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMary%2520Kom%2520%282014%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/eI1rxHzxO2sWeeBMvr42buetYnd.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/eI1rxHzxO2sWeeBMvr42buetYnd.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Mela</title>
+    <year>2000</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMela%2520%282000%29%25201080p%2520WEBRip..mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/rPF46QLaBni9PXvbjmA8zSeaiJ5.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/rPF46QLaBni9PXvbjmA8zSeaiJ5.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Mili</title>
+    <year>2022</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMili%2520%282022%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/eJ36QCd5SPRpivJkVgZMqKyfgCz.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/eJ36QCd5SPRpivJkVgZMqKyfgCz.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Mister Mummy</title>
+    <year>2022</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMister%2520Mummy%2520%282022%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/pZcDBlTEqqlp2o3Vmmwcm7Ntxoa.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/pZcDBlTEqqlp2o3Vmmwcm7Ntxoa.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>My Client's Wife</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FMy%2520Clients%2520Wife%2520%282020%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/gKfEI5WizgJjL4faGGCS0pbgy4f.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/gKfEI5WizgJjL4faGGCS0pbgy4f.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Naseeb</title>
+    <year>1981</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FNaseeb%2520%281981%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/oDUddLemim047H3V9tNrkhTotOK.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/oDUddLemim047H3V9tNrkhTotOK.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Operation Parindey</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FOperation%2520Parindey%2520%282020%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/4z7fMVRhwjxq0bf5t4VyXVXZcoT.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/4z7fMVRhwjxq0bf5t4VyXVXZcoT.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>RK/RKAY</title>
+    <year>2021</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FRK%2520RKAY%2520%282021%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/nVzWpZC8piEuEv3KmzpqpokqBzN.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/nVzWpZC8piEuEv3KmzpqpokqBzN.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Rab Ne Bana Di Jodi</title>
+    <year>2008</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FRab%2520Ne%2520Bana%2520Di%2520Jodi%2520%282008%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Run</title>
+    <year>2004</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FRun%2520%282004%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/qCE7mktMbGb6o6y5QJPg6bDMcpR.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/qCE7mktMbGb6o6y5QJPg6bDMcpR.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Sardar Udham</title>
+    <year>2021</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FSardar%2520Udham%2520%28Sadar%2520Udham%29%2520%282021%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/lAyDLZAVjslmtPC0EW5OSh0BMYA.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/lAyDLZAVjslmtPC0EW5OSh0BMYA.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Sarkar Raj</title>
+    <year>2008</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FSarkar%2520Raj%2520%282008%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/1ptl9Dq51jXpUNotg6CwHWZxoaK.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/1ptl9Dq51jXpUNotg6CwHWZxoaK.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Sooper Se Ooper</title>
+    <year>2013</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FSooper%2520Se%2520Ooper%2520%282013%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/35b8k3SxmDGV45VQtww9Ha3PJX4.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/35b8k3SxmDGV45VQtww9Ha3PJX4.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Student Of The Year</title>
+    <year>2012</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FStudent%2520of%2520the%2520Year%2520%282012%29%25201080p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/yAhfRGZx7nOAZkrm90pqaAjakdH.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/yAhfRGZx7nOAZkrm90pqaAjakdH.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Thackeray</title>
+    <year>2019</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FThackeray%2520%282019%29%2520720p%2520BluRay.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/yfjEuYlASO9xoT8nLp8pVqKCtZN.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/yfjEuYlASO9xoT8nLp8pVqKCtZN.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>The Vaccine War</title>
+    <year>2023</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FThe%2520Vaccine%2520War%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Uvaa</title>
+    <year>2015</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FUvaa%2520%282015%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/zkhoAOX0leq0ZtzT8k5fYNh0HoZ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/zkhoAOX0leq0ZtzT8k5fYNh0HoZ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Vaah! Life Ho Toh Aisi!</title>
+    <year>2005</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FVaah%2520Life%2520Ho%2520Toh%2520Aisi%2520%282005%29%2520720p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/1f4PGH7PDRWlcr5xml3uZCZBobC.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/1f4PGH7PDRWlcr5xml3uZCZBobC.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Yeh Ballet</title>
+    <year>2020</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FYeh%2520Ballet%2520%282020%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/1gFRvSUJ3u7WFAY9TuE3gl6JTLo.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/1gFRvSUJ3u7WFAY9TuE3gl6JTLo.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Yeh Shaadi Nahi Ho Sakti</title>
+    <year>2023</year>
+    <genre>Hindi</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FHindi%2FYeh%2520Shaadi%2520Nahi%2520Ho%2520Sakti%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/i9IYAo3cnrUa7ZWRVd6reTFFP0F.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/i9IYAo3cnrUa7ZWRVd6reTFFP0F.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>96</title>
+    <year>2018</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2F96%2520%282018%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Love Action Drama</title>
+    <year>2019</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FAction%2520%282019%29%25201080p%2520HDRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/mVqV88crk9evENJB0DeVQzIL94v.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/mVqV88crk9evENJB0DeVQzIL94v.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Bheeshma</title>
+    <year>2020</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FBheeshma%2520%282020%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/yJo6Rf0L9vc4QpZMSnQBzYGOzaZ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/yJo6Rf0L9vc4QpZMSnQBzYGOzaZ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Cold Case</title>
+    <year>2021</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FCold%2520Case%2520%282021%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/6lodKsWEcNNlEPbE461pD2c2SuG.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/6lodKsWEcNNlEPbE461pD2c2SuG.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Danny Jiger</title>
+    <year>2024</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FDanny%2520Jiger%2520%282024%29%25201080p%2520WEBDL.mp4</link>
+    <thumb></thumb>
+    <fanart></fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Dharmaveer</title>
+    <year>2022</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FDharmaveer%2520%282022%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/x5kqbaZflZRJ7Jg8XZxzUAKyq9t.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/x5kqbaZflZRJ7Jg8XZxzUAKyq9t.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>FOUR: Vol. 1</title>
+    <year>2022</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FFour%2520Vol%2520I%2520%282022%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ht8iTXwLGnAiIDgf4PXSCmAoH2V.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ht8iTXwLGnAiIDgf4PXSCmAoH2V.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Gangs of Madras</title>
+    <year>2019</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FGangs%2520Of%2520Madras%2520%282019%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/bkvbHxgHcLnfZQm4tK92nHvYM4k.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/bkvbHxgHcLnfZQm4tK92nHvYM4k.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>HER: Chapter 1</title>
+    <year>2023</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FHer%2520Chapter%25201%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ov0gXlRyU7fH7Oo5mXAFtm0DdVT.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ov0gXlRyU7fH7Oo5mXAFtm0DdVT.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Kadaram Kondan</title>
+    <year>2019</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FKadaram%2520Kondan%2520%282019%29%2520720p%2520HDRip.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/n6HGrhMvhq6tYJV4nb2ktNZWXCn.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/n6HGrhMvhq6tYJV4nb2ktNZWXCn.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Krack</title>
+    <year>2021</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FKrack%2520%282021%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Kushi</title>
+    <year>2023</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FKushi%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/tiEnkpOarH20cCSikeLiWlvY1We.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/tiEnkpOarH20cCSikeLiWlvY1We.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Lovedale</title>
+    <year>2025</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FLovedale%2520%282025%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/qI9SP3Ao1LoKSmFEoppBCfcNSuv.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/qI9SP3Ao1LoKSmFEoppBCfcNSuv.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Mafia</title>
+    <year>2020</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FMafia%2520Chapter%25201%2520%282020%29%2520720p%2520PreDVD.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ukaXSfyN1RoTKQ34YgjyBOd4ZhQ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ukaXSfyN1RoTKQ34YgjyBOd4ZhQ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Maya</title>
+    <year>2015</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FMaya%2520%282015%29%25201080p%2520WEBDL.mkv</link>
+    <thumb>https://image.tmdb.org/t/p/w500/8EKKLNBBcPSm5CZVAc4ekcIYQRp.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/8EKKLNBBcPSm5CZVAc4ekcIYQRp.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Minnal Murali</title>
+    <year>2021</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FMinnal%2520Murali%2520%282021%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/5jHnykugFB3awLTwDM5LQ93TIzs.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/5jHnykugFB3awLTwDM5LQ93TIzs.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Natyam</title>
+    <year>2021</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FNatyam%2520%282021%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/eWXh5VQOMflOJI5uz5DJlJHr4Po.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/eWXh5VQOMflOJI5uz5DJlJHr4Po.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Om Shanthi Om</title>
+    <year>2015</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FOm%2520Shanthi%2520Om%2520%28Mera%2520Kartavya%2520My%2520Duty%29%2520%282015%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/icheJ1EHmehF8m0a3KA3VvQGufG.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/icheJ1EHmehF8m0a3KA3VvQGufG.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Once Upon Two Times</title>
+    <year>2023</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FOnce%2520Upon%2520Two%2520Times%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/mHFKRUlJXHH3FkWysADxYIxMJU8.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/mHFKRUlJXHH3FkWysADxYIxMJU8.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Oru Kuttanadan Blog</title>
+    <year>2018</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FOru%2520Kuttanadan%2520Blog%2520%282018%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/5P6iylkBl0673JV6cVsuEPcI0lZ.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/5P6iylkBl0673JV6cVsuEPcI0lZ.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Naan Petta Makan</title>
+    <year>2019</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FPetta%2520%282019%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/OhlAwwhQ4B41gfCYRk1lQUKeHX.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/OhlAwwhQ4B41gfCYRk1lQUKeHX.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ratham</title>
+    <year>2023</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FRaththam%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ArP7qfQtNNBMsrBtqTJlMaVyWjH.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ArP7qfQtNNBMsrBtqTJlMaVyWjH.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Republic of Evil Ants</title>
+    <year>2021</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FRepublic%2520%282021%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/51XDq9Aj9ACahVRn4are7IROcEb.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/51XDq9Aj9ACahVRn4are7IROcEb.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Sarkar Bangla</title>
+    <year>2018</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FSarkar%2520%282018%29%2520Bangla%25201080p%2520WEBDL.mkv</link>
+    <thumb></thumb>
+    <fanart></fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Thoongaavanam</title>
+    <year>2015</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FThoongaavanam%2520%282015%29%25201080p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/ydqz82ndB2QTj51ubvl6iG6lQI1.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/ydqz82ndB2QTj51ubvl6iG6lQI1.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Toby</title>
+    <year>2023</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FToby%2520%282023%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/duuhplJUxzKqpX54F96igKddvLW.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/duuhplJUxzKqpX54F96igKddvLW.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Ugramm</title>
+    <year>2014</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FUgramm%2520%282014%29%2520720p%2520WEBRip.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/6AdrI68ggKpSBRE2EbnvajeD53q.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/6AdrI68ggKpSBRE2EbnvajeD53q.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Yugi</title>
+    <year>2022</year>
+    <genre>South Indian (Hindi Dubbed)</genre>
+    <link>plugin://plugin.video.example/?action=play&amp;url=http%3A%2F%2F10.16.100.202%2Fftps10%2Ficcftps10sasd1%2FMovies%2FSouth%2520Indian%2520%28Hindi%2520Dubbed%29%2FYugi%2520%28Adrishyam%29%2520%282022%29%25201080p%2520WEBDL.mp4</link>
+    <thumb>https://image.tmdb.org/t/p/w500/aP1CsA2K41c3N5lkYnq7N0rUDvs.jpg</thumb>
+    <fanart>https://image.tmdb.org/t/p/w500/aP1CsA2K41c3N5lkYnq7N0rUDvs.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+</movies>
