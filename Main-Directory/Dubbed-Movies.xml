@@ -1,112 +1,2616 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
-     <movie>
-        <thumbnail>https://image.tmdb.org/t/p/w400/5IdJYUT5LB23Zfx6S2UxD5jdnwR.jpg</thumbnail>
-        <fanart>https://catimages.org/images/2025/06/13/Vlcsnap.mkv-frame124228.th.jpg</fanart>
-        <title>Blind Spot</title>
-        <year>2025</year>
-        <genre>Crime,Mystery,Drama</genre>
-        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Blind.Spot.2025.1080p.10Bit.WEB.DL.Hindi.2.0.Telugu.5.1.HEVC.x265.HDHub4u.Do.mkv</link>
-        <plot>Officer Vikram investigates when Divya’s apparent suicide turns into a murder case.</plot>
-    </movie>
-    <movie>
-        <title>Eleven</title>
-        <year>2025</year>
-        <genre>Thriller</genre>
-        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Eleven.2025.1080p.10Bit.HEVC.WEB.DL.Hindi.5.1.Tamil.5.1.ESub.x265.HDHub4u.Do.mkv</link>
-        <thumbnail>https://image.tmdb.org/t/p/w500/lfwUc3JT5hG6vivAquLi0CG6Sgk.jpg</thumbnail>
-        <fanart>https://catimages.org/images/2025/06/13/vlcsnap-2025-06-12-14h44m06s049.th.jpg</fanart>
-        <plot>A brave and skilled officer with a strong record of solving tough cases is assigned to a new.</plot>
-    </movie>
-    <movie>
-      <title>Karamsutra</title>
-      <year>2025</year>
-      <genre>Thriller</genre>
-      <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Karamsutra.2025.720p.HEVC.WEB.DL.Hindi.Punjabi.ESub.x265.HDHub4u.Do.mkv</link>
-      <thumb>https://catimages.org/images/2025/06/16/Karamsutra-2025-HDHub4u..Do.jpg</thumb>
-      <fanart>https://catimages.org/images/2025/06/16/vlcsnap-2025-06-15-11h10m12s717.th.jpg</fanart>
-      <plot>It is a revenge thriller where a simple small town girl moves to the big city chasing dreams but is</plot>
-  </movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
-     <movie>
-      <title></title>
-      <year></year>
-      <genre></genre>
-      <link></link>
-      <thumb></thumb>
-      <fanart></fanart>
-      <plot></plot>
-</movie>
      
+  <movie>
+    <title>420 IPC</title>
+    <year>2021</year>
+    <genre>Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/420%20IPC%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wJj4sG7R84Nhm88BtGM9BdMjvDu.jpg</fanart>
+    <plot>CA Keswani is arrested for bank fraud and forgery. Keswani hires Birbal, a lawyer, to fight his case. But Birbal realises that there's more to it than what meets the eye.</plot>
+  </movie>
+
+  <movie>
+    <title>ABCD American-Born Confused Desi</title>
+    <year>2013</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/ABCD%20(Any%20Body%20Can%20Dance)%20(2013)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/87iukoelBql5w3PIibajvcr7MTR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/87iukoelBql5w3PIibajvcr7MTR.jpg</fanart>
+    <plot>The story revolves around two spoiled youngsters, Jones and his cousin Korah and the turn of events during their vacation.</plot>
+  </movie>
+
+  <movie>
+    <title>Ae Dil Hai Mushkil</title>
+    <year>2016</year>
+    <genre>Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ae%20Dil%20Hai%20Mushkil%20(2016)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2wCaF36obO4LysX0m57h0BKxX27.jpg</fanart>
+    <plot>Ayan falls in love with his soulmate, Alizeh, but she doesn’t reciprocate the feeling. Later, a relationship with Saba helps him realize Alizeh’s value in his life, irrespective of their relationship status.</plot>
+  </movie>
+
+  <movie>
+    <title>Afwaah</title>
+    <year>2023</year>
+    <genre>Thriller, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Afwaah%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/deBTwlgJ6vrup7zpCODofbebZGZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/sv7JscTpQv8K7XnRwnbKQsCP3N9.jpg</fanart>
+    <plot>A woman seeks to escape her engagement to a violent politician, but when a stranger comes to her aid, the two face an onslaught of bigotry and hate.</plot>
+  </movie>
+
+  <movie>
+    <title>Ahaan</title>
+    <year>2021</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ahaan%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gMb3pKpXU3WXQpFjteynQDwctp2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/e8u5EVmgfB4A57TLlmIfo2mnM3c.jpg</fanart>
+    <plot>Jilted by his wife, a man with OCD finds eye-opening common ground and camaraderie with his neighbour, a young man with Down Syndrome.</plot>
+  </movie>
+
+  <movie>
+    <title>Angrezi Medium</title>
+    <year>2020</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Angrezi%20Medium%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hT41Fi3NAqkPpNkWt7imaOtxGDP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xozT0Eq1I6bdMuT8nkxh4NCqJEc.jpg</fanart>
+    <plot>When his daughter decides to further her studies in London, a hardworking Haryanvi businessman does everything in power to make her dreams come true.</plot>
+  </movie>
+
+  <movie>
+    <title>Attack</title>
+    <year>2022</year>
+    <genre>Action, Science Fiction, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Attack%20Part%201%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6DqNe4jKvWyQZjlRi9FaCzgMxyx.jpg</fanart>
+    <plot>With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi.</plot>
+  </movie>
+
+  <movie>
+    <title>Baaghi 3</title>
+    <year>2020</year>
+    <genre>Action, Adventure, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Baaghi%203%20(2020)%20720p%20PreDVDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nQV1lkgGn0FhqDeDr4b8VLhn1ow.jpg</fanart>
+    <plot>A man embarks on a bloody rampage to save his kidnapped brother.</plot>
+  </movie>
+
+  <movie>
+    <title>Bade Miyan Chote Miyan</title>
+    <year>2024</year>
+    <genre>Action, Science Fiction, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bade%20Miyan%20Chote%20Miyan%20(2024)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg</fanart>
+    <plot>Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked madman threatens India's defenses.</plot>
+  </movie>
+
+  <movie>
+    <title>Baghban</title>
+    <year>2003</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Baghban%20(2003)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/Av1Xhf46oN2RHilKESzIXKNBrsU.jpg</fanart>
+    <plot>After dedicating their whole life in upbringing their children, elderly couple Raj Malhotra and Pooja gets homeless. Instead of caring, their children treat them as a burden.</plot>
+  </movie>
+
+  <movie>
+    <title>Bewakoofiyaan</title>
+    <year>2014</year>
+    <genre>Romance, Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bewakoofiyaan%20(2014)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eniZIxK1INYbOQBeJWmv0IhKKOz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/apcSsPtWai4VqJrQHiBRN82E5pq.jpg</fanart>
+    <plot>A middle-class corporate couple doesn't worry about money and living expenses until the recession drains their finances.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhanwarey</title>
+    <year>2017</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bhanwarey%20(2017)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg</fanart>
+    <plot>Set in the late 90s in Delhi, Bhanwarey revolves around three friends and how they accidentally get involved in wrongdoings while trying to cure their sexual problem of premature ejaculation and to solve them and eventually get trapped between the law and a couple of gangster groups.</plot>
+  </movie>
+
+  <movie>
+    <title>Chatur Singh Two Star</title>
+    <year>2011</year>
+    <genre>Action, Adventure, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chatur%20Singh%20Two%20Star%20(2011)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ounPVh0WuskJE0Doy4txd4wEXQ7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/piCNFNjGjNiQzhbbyePvhTwpmLR.jpg</fanart>
+    <plot>Bumbling cop Chatur Singh is sent on a special mission to South Africa to solve a high profile case involving the murder of a politician and a cache of diamonds. But before he can redeem his botched up career he must deal with a bunch of loonies which include a crazy mafia don, a weird taxi driver, a hysterical boss and a pretty damsel in distress.</plot>
+  </movie>
+
+  <movie>
+    <title>Chintu Ka Birthday</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chintu%20Ka%20Birthday%20(2020)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5LQwdKMHmgmxvqFnCruIlBYtMXN.jpg</fanart>
+    <plot>During US invasion of Iraq some illegal migrants are waiting to get back home to India. As one such family prepares to celebrate the 6th birthday of their youngest member Chintu, their kind-hearted Iraqi landlord lends them a helping hand.</plot>
+  </movie>
+
+  <movie>
+    <title>Dance Dosti Aur Ishqool</title>
+    <year>2015</year>
+    <genre>Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Dance%20Dosti%20Aur%20Ishqool%20(2015)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</fanart>
+    <plot>Dance Dosti Aur Ishqool is a Hindi movie released on 24 July, 2015. The movie is directed by Raju Soni and featured Nayan Bhatt, Samarth Chaturvedi and Ramesh Goyal as lead characters. Other popular actors who were roped in for Dance Dosti Aur Ishqool are Asmita Joglekar and Sanjay Kanoujiya.</plot>
+  </movie>
+
+  <movie>
+    <title>Ek Ladki Ko Dekha Toh Aisa Laga</title>
+    <year>2019</year>
+    <genre>Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ek%20Ladki%20Ko%20Dekha%20Toh%20Aisa%20Laga%20(2019)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uYevwq0VLai27AvODudalXzE6HM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rSnxS2TGIFGomQ0H9Ji6LVRF0mw.jpg</fanart>
+    <plot>Sweety has to contend with her over-enthusiastic family that wants her to get married but the ultimate truth is that her love might not find acceptance in her family and society.</plot>
+  </movie>
+
+  <movie>
+    <title>Gang</title>
+    <year>2000</year>
+    <genre>Drama, Action, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Gang%20(2000)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dYcuiiBDpPUvCcPbiWdH4REjGn3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/krEZg9tb6blhc7sV6Us2ZGQ0gA.jpg</fanart>
+    <plot>After falling prey to underworld, four friends jeopardise their personal lives with point of no return.</plot>
+  </movie>
+
+  <movie>
+    <title>Guddu Ki Gun</title>
+    <year>2015</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Guddu%20Ki%20Gun%20(2015)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8CMeDmIETdt18Xl1H2Do9gpUDg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5X1k5ptAsUxMnyelOnmMwqhYz6a.jpg</fanart>
+    <plot>Guddu Ki Gun is the tale of Govardhan aka Guddu (Kunal Kemmu), a Bihari settled in Kolkata. He is a door-to-door washing powder salesman, whose sales pitch is "Ek washing powder ke saath Guddu free". While sharing a room with his close friend Ladoo (Sumeet Vyas), Guddu leads an amorous lifestyle in Kolkata. His travails begins when he ditches one of his girlfriends, Bholi (Aparna Sharma). Furious for forsaking his granddaughter, Bholi's grandfather casts a black magic spell on him. The only way Guddu can get rid of the curse is to find true love and by staying faithful to her.</plot>
+  </movie>
+
+  <movie>
+    <title>Gunehgaar</title>
+    <year>2022</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Gunehgaar%20(2022)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nThbym8MQhyW5qORaOBwdiz6sAf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6WrIoNTkDVfgwscswgrouaI9Vv7.jpg</fanart>
+    <plot>Mr. Bansal, a very dubious man, invites Mrinalini, a famous journalist, over to his flat on the premise of discussing top secret news. Once there, she is surprised when Om, the man with whom she is having an affair, also arrives for an entirely different reason. But nothing is as it seems and as the plot twists and turns, the motive of their host Mr. Bansal is revealed.</plot>
+  </movie>
+
+  <movie>
+    <title>Gunjan Saxena The Kargil Girl</title>
+    <year>2020</year>
+    <genre>Action, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Gunjan%20Saxena%20The%20Kargil%20Girl%20(2020)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ezaMkH1y6fFvJydpsc3Hf3oXcIu.jpg</fanart>
+    <plot>Inspired by the life of a fearless young officer who made history by becoming the first Indian female Air Force officer to fly in a combat zone during the 1999 Kargil War</plot>
+  </movie>
+
+  <movie>
+    <title>Hate Story</title>
+    <year>2012</year>
+    <genre>Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hate%20Story%20(2012)%201080p%20WEbRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bnKApifJZnrqzOb9DVAmWffjOWk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/i20LftdotG5Iszgb9ulhYhEIM9P.jpg</fanart>
+    <plot>Journalist Kavya Krishna loves tycoon Siddharth - who uses and abuses her. How far will Kavya go to get revenge?</plot>
+  </movie>
+
+  <movie>
+    <title>Hate Story IV</title>
+    <year>2018</year>
+    <genre>Thriller, Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hate%20Story%204%20(2018)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7mI6YgCVFfKDSlSDN8MuSY8oCFJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/h5k7cS1KLPTGOrzRW6Ulqb0jszi.jpg</fanart>
+    <plot>Tasha, who aspires to make it big in life, catches the eye of two womanising brothers, who promise to make her a star. Yet her hidden intentions may prove deadly for the duo.</plot>
+  </movie>
+
+  <movie>
+    <title>Hostel</title>
+    <year>2011</year>
+    <genre>Drama, Action, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hostel%20(2011)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wL91L05ONOOv5965sTxWVYbJGZZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vjajXvNhFFx3zDVMmDjMuK3P5zM.jpg</fanart>
+    <plot>A hostel is a student's second home, but what happens when this safe place turns into a torture house? A gripping thriller, depicting the effects of ragging.</plot>
+  </movie>
+
+  <movie>
+    <title>Housefull 4</title>
+    <year>2019</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/HouseFull%204%20(2019)%20720p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6phj6ztvDBU9Fn6MMONhCpqa6mM.jpg</fanart>
+    <plot>Three couples who get separated from each other due to an evil ploy, reincarnate after 600 years and meet each other as history repeats itself again and their respective partners get mixed up this time.</plot>
+  </movie>
+
+  <movie>
+    <title>Cursed Spiritual Infection I Am Possessed</title>
+    <year></year>
+    <genre>Horror</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/I%20Am%2024%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1WSAW0BX2p3RBmPrhnjZhtACnOW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/1WSAW0BX2p3RBmPrhnjZhtACnOW.jpg</fanart>
+    <plot>This is the third in a series of films based on horror stories. In a building where women who are supposed to be at the peak of their happiness jump to their deaths one after another. Yuki, who works at a general store in the building, receives a gift of an engagement ring from her long-time lover. But then a strange feeling begins to hover around her...</plot>
+  </movie>
+
+  <movie>
+    <title>Jai Ho</title>
+    <year>2014</year>
+    <genre>Documentary, Music</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Jai%20Ho%20(2014)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zohBOXIinteJL6ABfZchvcFA6h8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/zohBOXIinteJL6ABfZchvcFA6h8.jpg</fanart>
+    <plot>The Film brings to its viewers, a hitherto unseen and unheard narrative of one of the greatest musicians the world has ever known: A. R. Rahman</plot>
+  </movie>
+
+  <movie>
+    <title>Jogi</title>
+    <year>2022</year>
+    <genre>Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Jogi%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aQJ93gdI2htbZfOLX41PnkRxW3l.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/f2YYd59EwNAMroWDds4MhRooFWp.jpg</fanart>
+    <plot>Amid tension in 1980s India, three friends of different faiths unite in a noble yet dangerous effort to save hundreds in their town.</plot>
+  </movie>
+
+  <movie>
+    <title>Khiladi 786</title>
+    <year>2012</year>
+    <genre>Action, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Khiladi%20786%20(2012)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3chNHVi7j0jmUvJ1k7n2EYPfFmC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/imeDfCHFLhFyuNh1X8pWT7QtDd1.jpg</fanart>
+    <plot>A father who runs a marriage bureau believes that his son is a failure in life. In order to prove him wrong, his son takes on the task of finding a match for a gangster's sister.</plot>
+  </movie>
+
+  <movie>
+    <title>Logout</title>
+    <year>2024</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Logout%20(2024)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_bestv2/iBM6DqjVbuY5y44d96mb9QVcAqr.jpg</thumbnail>
+    <fanart>https://media.themoviedb.org/t/p/w260_and_h390_bestv2/iBM6DqjVbuY5y44d96mb9QVcAqr.jpg</fanart>
+    <plot>No plot available.</plot>
+  </movie>
+
+  <movie>
+    <title>Main Krishna Hoon</title>
+    <year>2013</year>
+    <genre>Animation, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Main%20Krishna%20Hoon%20(2013)%20720p%20DVDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4fddOiJPp4Mf0jFXcp2WE8qvNW2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1WCES8hj3IQ086iWM1XOEeb5jvL.jpg</fanart>
+    <plot>In answer to an orphan boy's prayers, the divine Lord Krishna comes to Earth, befriends the boy, and helps him find a loving family.</plot>
+  </movie>
+
+  <movie>
+    <title>Mardaani 2</title>
+    <year>2019</year>
+    <genre>Action, Crime, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mardaani%202%20(2019)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bbRrwSidxhZeYSIIncToGc9QYyu.jpg</fanart>
+    <plot>Officer Shivani Shivaji Roy is stationed at Kota where she goes against a ferocious serial killer who rapes and murders women.</plot>
+  </movie>
+
+  <movie>
+    <title>Mary Kom</title>
+    <year>2014</year>
+    <genre>Action, Drama, History</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mary%20Kom%20(2014)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eI1rxHzxO2sWeeBMvr42buetYnd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xgl5VP3VpXuqOEMFWbA2lLiM2tA.jpg</fanart>
+    <plot>A chronicle of the life of Indian boxer 'Mary Kom' who went through several hardships before audaciously accomplishing her ultimate dream.</plot>
+  </movie>
+
+  <movie>
+    <title>Mela</title>
+    <year>2000</year>
+    <genre>Action, Adventure, Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mela%20(2000)%201080p%20WEBRip..mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rPF46QLaBni9PXvbjmA8zSeaiJ5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5XGSGQQK3sp3DionQXesbuPcUTq.jpg</fanart>
+    <plot>Best mates Kishen and Shankar decide to help village belle Roopa avenge her family's death, but their friendship is tested in the process.</plot>
+  </movie>
+
+  <movie>
+    <title>Mili</title>
+    <year>2022</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mili%20(2022)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eJ36QCd5SPRpivJkVgZMqKyfgCz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/jgOwUgUEVPSu8jDjQzeFTCFHVDR.jpg</fanart>
+    <plot>Mili Naudiyal, a nursing graduate is planning to move to Canada. She takes up a job at a food outlet for the time being but her sudden disappearance without a clue leaves her loved ones in a desperate search for her in this survival drama.</plot>
+  </movie>
+
+  <movie>
+    <title>Mister Mummy</title>
+    <year>2022</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mister%20Mummy%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pZcDBlTEqqlp2o3Vmmwcm7Ntxoa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/lHTykp1LliVEqgfZhTHkPVaiEbL.jpg</fanart>
+    <plot>Amol, a cranky PT teacher and his wife Gugloo have opposing choices when it comes to children but destiny has something else planned for the childhood sweethearts.</plot>
+  </movie>
+
+  <movie>
+    <title>My Client s Wife</title>
+    <year>2020</year>
+    <genre>Mystery, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/My%20Clients%20Wife%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gKfEI5WizgJjL4faGGCS0pbgy4f.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/gKfEI5WizgJjL4faGGCS0pbgy4f.jpg</fanart>
+    <plot>Manas Verma, a lawyer, is defending Raghuram Singh who is accused of assaulting his wife. However, Raghuram claims that he is being framed. To get to the bottom of the matter, Verma starts investigating the case further and finds that not everything is the way that it seems. Manas uncovers some shocking truths that might change the case.</plot>
+  </movie>
+
+  <movie>
+    <title>Operation Parindey</title>
+    <year>2020</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Operation%20Parindey%20(2020)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4z7fMVRhwjxq0bf5t4VyXVXZcoT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/18Pa44kCivcSkg0e24g8bO4sMAP.jpg</fanart>
+    <plot>The film is a fictional story based on true events which depicts a groundbreaking jail break.</plot>
+  </movie>
+
+  <movie>
+    <title>RK/RKAY</title>
+    <year>2021</year>
+    <genre>Romance, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/RK%20RKAY%20(2021)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nVzWpZC8piEuEv3KmzpqpokqBzN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ojgIAT6isthBTP0NRrSrFDBLBYI.jpg</fanart>
+    <plot>After wrapping up the shoot of his upcoming period film, in which he also plays the lead character Mehboob, Indie film director-writer RK (Rajat Kapoor) struggles to piece his film together on the editing table. Trouble escalates when he discovers that his lead character has vanished from the film’s footage and entered real life.</plot>
+  </movie>
+
+  <movie>
+    <title>Rab Ne Bana Di Jodi</title>
+    <year>2008</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Rab%20Ne%20Bana%20Di%20Jodi%20(2008)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg</fanart>
+    <plot>A lonely 40-ish man, likely to remain a bachelor, has a chance to find the love of his life when he falls for a vivacious young woman.</plot>
+  </movie>
+
+  <movie>
+    <title>Sardar Udham</title>
+    <year>2021</year>
+    <genre>Crime, Drama, History</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Sardar%20Udham%20(Sadar%20Udham)%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lAyDLZAVjslmtPC0EW5OSh0BMYA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oZftUn6yOt61LItXE4zPOz4rca9.jpg</fanart>
+    <plot>A young Sardar Udham Singh left deeply scarred by the Jallianwala Bagh massacre, escaped into the mountains of Afghanistan, reaching London in 1933-34. Carrying an unhealed wound for 21 years, the revolutionary assassinated Michael O’Dwyer on 13th March, 1940, the man at the helm of affairs in Punjab, April 1919 to avenge the lost lives of his beloved brethren.</plot>
+  </movie>
+
+  <movie>
+    <title>Sarkar Raj</title>
+    <year>2008</year>
+    <genre>Action, Adventure, Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Sarkar%20Raj%20(2008)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1ptl9Dq51jXpUNotg6CwHWZxoaK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9FwZCAZM6OnXldSoqNXCYmwBHdD.jpg</fanart>
+    <plot>When Anita Raja, CEO of Sheppard power plant, brings a power plant proposal to set up in rural Mahrashtra before the Nagres, insightful Shankar is quick to realise the benefits the power plant can bring to the people.</plot>
+  </movie>
+
+  <movie>
+    <title>Sooper Se Ooper</title>
+    <year>2013</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Sooper%20Se%20Ooper%20(2013)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/35b8k3SxmDGV45VQtww9Ha3PJX4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1Cs0h30V8qc7ewR1MSyKduEdjp5.jpg</fanart>
+    <plot>A city guy goes to rural Rajasthan to look for his uncle.</plot>
+  </movie>
+
+  <movie>
+    <title>Student Of The Year</title>
+    <year>2012</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Student%20of%20the%20Year%20(2012)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yAhfRGZx7nOAZkrm90pqaAjakdH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/91a2VC6YSEawfxPEIqsmJOfah89.jpg</fanart>
+    <plot>Several alumni reminisce about their final year at St. Theresa's College and the events that shaped their lives.</plot>
+  </movie>
+
+  <movie>
+    <title>Thackeray</title>
+    <year>2019</year>
+    <genre>Drama, History</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Thackeray%20(2019)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yfjEuYlASO9xoT8nLp8pVqKCtZN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oJwXS3kl3eWU7thx9IbilRgpCUg.jpg</fanart>
+    <plot>Based on the life of Keshav Thackeray, an Indian politician who is also known as Balasaheb Thackeray.</plot>
+  </movie>
+
+  <movie>
+    <title>The Vaccine War</title>
+    <year>2023</year>
+    <genre>Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/The%20Vaccine%20War%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/jtIjprJvfLeLWTZuVCo4zv13CvF.jpg</fanart>
+    <plot>Faced with the catastrophic challenge of fighting a global crisis like no other, Indian scientists take on the mantle of producing vaccine despite not having enough resources and infrastructure to save the nation's sixteen million citizens.</plot>
+  </movie>
+
+  <movie>
+    <title>Uvaa</title>
+    <year>2015</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Uvaa%20(2015)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zkhoAOX0leq0ZtzT8k5fYNh0HoZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7QY373bq7nNpVDNztz1IuNS4sQ9.jpg</fanart>
+    <plot>Ram, Anil, Vikram, Salmaan and Deenbandhu are the rebellious brats of suburban Delhi NCR, with the world at their feet and nothing to worry they stomp everything in their path without knowing the consequences, but challenge lay ahead when all of them are put in a totally new world of convent school, here they survive and thrive only to find love. But one night they encounter a horrifying event which puts them in the hands of law. Their lives change forever, they have to fight for justice and moral integrity to make an example for the world.</plot>
+  </movie>
+
+  <movie>
+    <title>Vaah Life Ho Toh Aisi</title>
+    <year>2005</year>
+    <genre>Drama, Comedy, Family, Fantasy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Vaah%20Life%20Ho%20Toh%20Aisi%20(2005)%20720p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1f4PGH7PDRWlcr5xml3uZCZBobC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fEYR56k4ANXYWmPAF0l1CEwbzbY.jpg</fanart>
+    <plot>As the only employed member of a large family, Aditya Singh a big-hearted mechanic, works hard to provide for his siblings, his grandmother and a bevy of nieces and nephews. But, when he is unexpectedly killed in a car accident, his family's future becomes a murky prospect. Fearful for their safety and happiness, Aditya convinces Yamraj the Hindu god of death, to give him a chance to return -- as a ghost -- to carry out the unresolved business of his life.</plot>
+  </movie>
+
+  <movie>
+    <title>Yeh Ballet</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Yeh%20Ballet%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1gFRvSUJ3u7WFAY9TuE3gl6JTLo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8Neql5IPhJl9Tynp1LMSyhvMfc5.jpg</fanart>
+    <plot>Discovered by an eccentric ballet master, two gifted but underprivileged Mumbai teens face bigotry and disapproval as they pursue their dancing dreams.</plot>
+  </movie>
+
+  <movie>
+    <title>Yeh Shaadi Nahi Ho Sakti</title>
+    <year>2023</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/i9IYAo3cnrUa7ZWRVd6reTFFP0F.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/i9IYAo3cnrUa7ZWRVd6reTFFP0F.jpg</fanart>
+    <plot>Yeh Shaadi Nahi Ho Sakti is based on Shakespeare's classic comedy with a Desi twist. Lakshman can't marry his lady love Priya until her stubborn elder sister Pallavi gets married. As a result, Lakshman devises an elaborate plan which includes getting Pallavi hitched with an NRI and passing off a drunk theatre actor as his own rich father. When Lakshman's real father learns about the wedding plan, misunderstandings and mayhem ensue. Will the marriage finally take place?</plot>
+  </movie>
+
+  <movie>
+    <title>14 Phere</title>
+    <year>2021</year>
+    <genre>Comedy, Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/14%20Phere%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/afEOWT6LvwPz9oeHnNKzObBu2NB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dEzyWr4lzSEHyxY7sqLAqQCrjdl.jpg</fanart>
+    <plot>Sanjay, a Rajput from Jahanabad, falls in love with his college senior Aditi, a Jat from Jaipur. They want to get married, but don't want to hurt their families. So they plan to get married by arranging a fake set of parents. Will they succeed?</plot>
+  </movie>
+
+  <movie>
+    <title>AK vs AK</title>
+    <year>2020</year>
+    <genre>Comedy, Action, Drama, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Ak%20Vs%20Ak%20(2020)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qM9xmkvCpQvOHgikuKE6ik3TXjv.jpg</fanart>
+    <plot>After a public spat with a movie star,  a disgraced director retaliates by kidnapping the actor's daughter, filming the search for her in real-time.</plot>
+  </movie>
+
+  <movie>
+    <title>Amar Singh Chamkila</title>
+    <year>2024</year>
+    <genre>Drama, Music</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Amar%20Singh%20Chamkila%20(2024)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qh7PWKRfy2K8rZZP7LzembGgWIU.jpg</fanart>
+    <plot>A humble singer’s brash lyrics ignite fame and fury across Punjab as he grapples with soaring success and brutal criticism before his untimely death.</plot>
+  </movie>
+
+  <movie>
+    <title>Anek</title>
+    <year>2022</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Anek%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/y7DOaApwC0CO5EEV7Knqju3rLFa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1WRIU0XeNDgDOMInQ89h0hOPA3J.jpg</fanart>
+    <plot>Amid the turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams.</plot>
+  </movie>
+
+  <movie>
+    <title>Apna Sapna Money Money</title>
+    <year>2006</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Apna%20Sapna%20Money%20Money%20(2006)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/aTm3WSMDRX4OVc7MOaN26OjEyHg.jpg</fanart>
+    <plot>Kishan is a young man from Goa whose brain is full of every conceivable trick to make a quick buck. He cons people by slipping into different outfits and by assuming many guises. Julie, is a sexy club dancer with quite a local reputation, but behind her raunchy exterior is a compassionate, kind-hearted woman who goes out of her way to help the needy...</plot>
+  </movie>
+
+  <movie>
+    <title>Asambhav</title>
+    <year>2004</year>
+    <genre>Action, Adventure, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Asambhav%20(2004)%20720p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4uXtuCf1AvZW87QEe0JLVJEsylz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/lIEicw6VnL7sguoPq3Z7xUwYHA8.jpg</fanart>
+    <plot>When the President of India is kidnapped by Kashmiri terrorists in Locarno, Switzerland, an Indian secret agent is sent to find him and set him free. With the help of an Indian singer he will make the "Impossible" to complete the mission.</plot>
+  </movie>
+
+  <movie>
+    <title>Bajatey Raho</title>
+    <year>2013</year>
+    <genre>Comedy, Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Bajatey%20Raho%20(2013)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wqbTQNqjITTElmEWnBrM0uRJbSp.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/wqbTQNqjITTElmEWnBrM0uRJbSp.jpg</fanart>
+    <plot>Surviving family members and friends of a man who was conned by the cunning businessman Sabbarwahl, string together a series of their own cons in an attempt to bring him down.</plot>
+  </movie>
+
+  <movie>
+    <title>Band Baaja Baaraat</title>
+    <year>2010</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Band%20Baaja%20Baaraat%20(2010)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/n9Yd0otyugR9ArGxRwbEYxUXjTH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oLtgiQU30YOlKfDK8gGxq2d1WBv.jpg</fanart>
+    <plot>Shruti and Bittoo decide to start a wedding planning company together after they graduate from university, but romance gets in the way of business.</plot>
+  </movie>
+
+  <movie>
+    <title>Brahmastra Part One Shiva</title>
+    <year>2022</year>
+    <genre>Action, Adventure, Fantasy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Brahmastra%20Part%20One%20Shiva%20(2022)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/x61qdvHIsr9U53FwoLVDQqAGur0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9oAqll65ytlOBLzZwUwkmo5RwIK.jpg</fanart>
+    <plot>The story of Shiva – a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmāstra... and a great power within him that he doesn’t understand just yet - the power of Fire.</plot>
+  </movie>
+
+  <movie>
+    <title>Cheeni Kum</title>
+    <year>2007</year>
+    <genre>Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Cheeni%20Kum%20(2007)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qjjIQC9v0lH8kfYWSF0lz7jhhDL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nBHgWrFtySBrKAnCAyZpExHsBQ.jpg</fanart>
+    <plot>Buddhadev Gupta, a 64-year-old chef, falls in love with a 34-year-old software engineer, Nina. However, their future becomes uncertain when he discovers that her father is six years his junior.</plot>
+  </movie>
+
+  
+  <movie>
+    <title>Club 60</title>
+    <year>2013</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Club%2060%20(2013)%20720p%20HDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zpqYKKFHCKaqj1WAgC5POfJuq1T.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/zpqYKKFHCKaqj1WAgC5POfJuq1T.jpg</fanart>
+    <plot>CLUB 60 is about Letting Go after spending the required time in grieving for the loss of a loved one. But what is the required time-frame to grieve? And is it right to always stay in a grieving position? What about the people around you, who are also hurting because of your grieing? And does grieving endlessly really help the one who is gone away?  Club 60 is also about embracing life, post 60.</plot>
+  </movie>
+
+  <movie>
+    <title>Company</title>
+    <year>2002</year>
+    <genre>Action, Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Company%20(2002)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1A2J7bYryOmBVBU8qpTs3fta0hv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/iFd0f324IzQgZkCEq5uTc4LUJ1G.jpg</fanart>
+    <plot>Mallik is a henchman of Aslam Bhai, a Mumbai underworld kingpin. He inducts local hothead Chandu into the gang, and the two of them soon form a formidable faction within the gang, eventually displacing Aslam. As the empire grows, however, the two of them start drifting apart.</plot>
+  </movie>
+
+  <movie>
+    <title>Crakk Jeetega Toh Jiyegaa</title>
+    <year>2024</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Crakk%20Jeetega%20Toh%20Jiyegaa%20(2024)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/tmrjo8M4rm6NhkBKk20wDSj91go.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xzwNTmJzCxn4gBpAsV9o2Krkx0C.jpg</fanart>
+    <plot>It follows the journey of a man from the slums of Mumbai to the world of extreme underground sports.</plot>
+  </movie>
+
+  <movie>
+    <title>Dobaaraa</title>
+    <year>2022</year>
+    <genre>Science Fiction, Mystery, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Dobaaraa%20(2022)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5OIuQ4d7YqeQVg9vUnWINSJekB1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vA9N4eI19uBGE5HOhHxl9kJr5Ph.jpg</fanart>
+    <plot>In the 1990s, during a wild thunderstorm night, 12-year-old Anay dies in a road accident shortly after he sees his next-door neighbor committing a crime. Twenty-five years later, in a strange turn of events, on an identical stormy night, Antara finds herself in front of a TV set through which she attempts to save Anay’s life but her good deed causes a disturbing chain of unexpected consequences.</plot>
+  </movie>
+
+  <movie>
+    <title>Gabbar Is Back</title>
+    <year>2015</year>
+    <genre>Drama, Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Gabbar%20Is%20Back%20%20(2015)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dhIVF43jCqVzxuo11hYcHQxjzS6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vKUnJxHOHpyG5Sn5zCbYoO9ydDb.jpg</fanart>
+    <plot>A vigilante network taking out corrupt officials draws the notice of the authorities.</plot>
+  </movie>
+
+  <movie>
+    <title>Gehraiyaan</title>
+    <year>2022</year>
+    <genre>Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Gehraiyaan%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/AqqMoV3o83oiPZSUrBBeujKnk1n.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tb2MBG5Ww4UbbqeflVspBb4lxa3.jpg</fanart>
+    <plot>Alisha Khanna, 30, ambitious, now finds herself at crossroads in life. Her six year long relationship has grown monotonous, her career seems to be going nowhere. But just when she had begun to accept this reality as unchangeable, her life is usurped by the arrival of her cousin, Tia and her fiancé, Zain, with whom she bonds over a troubled past and a common wish to break from its confines.</plot>
+  </movie>
+
+  <movie>
+    <title>Ghoomketu</title>
+    <year>2020</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Ghoomketu%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6BV7tNQjM43bIjdZthXyq91lKLx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/h8zGYuhknMaSfcx3ZE65kkYnSPF.jpg</fanart>
+    <plot>An aspiring writer from a small town in U.P. runs away to Mumbai. He gives himself 30 days to try and prove his worth.</plot>
+  </movie>
+
+  <movie>
+    <title>Ghost Stories</title>
+    <year>2020</year>
+    <genre>Horror</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Ghost%20Stories%20(2020)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wuTwPYFoEGQG3EntpdZA8LlBBdx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dKSykSoV8eGWYqgmVJwBpBvTPzz.jpg</fanart>
+    <plot>An anthology of four short horror tales.</plot>
+  </movie>
+
+  <movie>
+    <title>Haddi</title>
+    <year>2023</year>
+    <genre>Drama, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Haddi%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6GrbL3kAu9yhNcY0hK3qE3tuIf2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wN8JKRHfNjJpD2BiOtFxShb1VDY.jpg</fanart>
+    <plot>A transgender woman, Haddi, moves to Delhi to join a gang of transpeople and cross-dressers headed by an influential man. But is this move aspirational or driven by revenge?</plot>
+  </movie>
+
+  <movie>
+    <title>Housefull 5</title>
+    <year>2025</year>
+    <genre>Comedy, Mystery, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Housefull%205%20(Housefull%205%20B)%20(2025)%201080p%20DVDRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iGvGkVOfsooO0ZBrhN5i6zXYUCy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8lNbxRsGKzWdtLk6hKdB1z11pjE.jpg</fanart>
+    <plot>A father writes his will — his son "Jolly" is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the "real" Jolly on a cruise celebrating the father's birthday — where a murder takes place.</plot>
+  </movie>
+
+  <movie>
+    <title>I Am Zlatan</title>
+    <year>2021</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/I%20am%20Not%20a%20Porn%20Star%20Nazar%20Sambhal%20KE%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4PTCd7jeylZdj6PZXqUlHWfKu9V.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qhjPl6x3xUIpEZ0RNc9h2LDxSCH.jpg</fanart>
+    <plot>Coming-of-age story depicting Zlatan Ibrahimovic's upbringing in a rough Swedish suburb. Born to Balkan immigrants, football was Zlatan's release in a tough environment where his remarkable talent and self-reliance catapulted him against all odds to the top of international football playing for clubs like Ajax Amsterdam, Juventus, Inter, Milan, Barcelona, Paris Saint-Germain and Manchester United.</plot>
+  </movie>
+
+  <movie>
+    <title>Jo Tera Hai Woh Mera Hai</title>
+    <year>2024</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Jo%20Tera%20Hai%20Woh%20Mera%20Hai%20(2024)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/w35SdKO67nyy51CUQqbK60Vj3Co.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hdoZXeOWZEsMi5vemv3Ulz92zzX.jpg</fanart>
+    <plot>Mitesh Meghani a family man, attempts to buy back their love through a scheme of conning an old man and getting him to transfer his property in his name.</plot>
+  </movie>
+
+  <movie>
+    <title>Kabhi Alvida Naa Kehna</title>
+    <year>2006</year>
+    <genre>Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Kabhi%20Alvida%20Naa%20Kehna%20(2006)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dkYQgRPuik4FGIUdGGVYGQJWrHa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xXABOEnWAtsGmlAhxWbgObWkkt9.jpg</fanart>
+    <plot>Dev and Maya are both married to different people. Settled into a life of domestic ritual, and convinced that they are happy in their respective relationships, they still yearn for something deeper and more meaningful, which is precisely what they find in each other.</plot>
+  </movie>
+
+  <movie>
+    <title>Khufiya</title>
+    <year>2023</year>
+    <genre>Crime, Thriller, Mystery</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Khufiya%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bbHUuTEo2DsYLoXCjkL8kB0oPhy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9Ijxw19fKxMr6bKEyfK3gQ9lVU1.jpg</fanart>
+    <plot>When a mole in an intelligence unit leads to the murder of an undercover spy, a hardened agent relentlessly pursues him to avenge the death.</plot>
+  </movie>
+
+  <movie>
+    <title>Kismat Konnection</title>
+    <year>2008</year>
+    <genre>Drama, Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Kismat%20Konnection%20(2008)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/maIqwcXgvcTLbJm2B8fjQ7BI3RY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hTCvXhcQDyhtyfmcJ2BQVp2tNMH.jpg</fanart>
+    <plot>Raj Malhotra is a luckless architect who seeks success but in vain. He bumps into a social activist named Priya. Raj finds out that Priya is a lucky charm for him but unfortunately she is protecting the community center for which he aims to win the contract of demolishing for a brand new shopping mall.</plot>
+  </movie>
+
+  <movie>
+    <title>London Confidential</title>
+    <year>2020</year>
+    <genre>Thriller, Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/London%20Confidential%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mtJbSbMUqwIJBJvFBRD7oYRknua.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xyWgUmrQyo29PRVcsmAFIIxAeWR.jpg</fanart>
+    <plot>A spy-thriller set amidst a series of brutal killings of Indian agents in London, and how Uma, a RAW officer, must expose a mole within the ranks.</plot>
+  </movie>
+
+  <movie>
+    <title>Love Aaj Kal Porshu</title>
+    <year>2020</year>
+    <genre>Drama, Romance, Science Fiction</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Love%20Aaj%20Kal%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aX2MPX3uGGHDdtG6guXtBm22QSH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bXZGWy0Lw47PMqaStCWItiRpJt0.jpg</fanart>
+    <plot>Two people whose love is a force that can never be changed, no matter how much its surroundings may change. A unique take on the timelessness of romance.</plot>
+  </movie>
+
+  <movie>
+    <title>Madam Chief Minister</title>
+    <year>2021</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Madam%20Chief%20Minister%20(2021)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jk8KZ4SqFR9Uz48m1KAEzc41vlX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/i3x9qtpW87R85d9xkaH2CUCzSX8.jpg</fanart>
+    <plot>A political-drama where a young woman from a small village rises to power into the world of politics by breaking barriers of caste and patriarchy and overcomes the obstacles placed by her opponents to become the chief minister and work for the upliftment of backward classes.</plot>
+  </movie>
+
+  <movie>
+    <title>Manikarnika The Queen of Jhansi</title>
+    <year>2019</year>
+    <genre>History, Drama, Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Manikarnika%20The%20Queen%20of%20Jhansi%20(2019)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kbTzlKKnZHZ8RYulknO4xqQOJ24.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fZSBNwHSXO4BF0AYYEQ1ctHzre2.jpg</fanart>
+    <plot>Story of Rani Lakshmibai, one of the leading figures of the Indian Rebellion of 1857 and her resistance to the British Rule.</plot>
+  </movie>
+
+  <movie>
+    <title>Mickey Virus</title>
+    <year>2013</year>
+    <genre>Comedy, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Mickey%20Virus%20(2013)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5FKtKKCmprBQ2sGrCclmVQ1hjVl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/lMcqdjzULJqJpyKnvRBwWhvJMQb.jpg</fanart>
+    <plot>When Delhi Police comes across an unusual case revolving around hacking they seek help of an expert who thinks like them only to come across a lazy hacker Mickey Arora.</plot>
+  </movie>
+
+  <movie>
+    <title>Mirza Juuliet</title>
+    <year>2017</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Mirza%20Juuliet%20(2017)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wHP2cmL9qr8sLIro9EdOI7qNmSE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7Y3cEMoYki5Xga6gHMtQFq4smai.jpg</fanart>
+    <plot>The world is full of fascination and obsessions. Different people have different desires and goals in life. For some its power, for some its money, for some its someone and for some its plain crazy love.The real question is that to what level can one rise or fall for his/her dream or aspirations. Mirza Juuliet is the story of such strong emotions like love, hatred, lust, trust, friendship, deceit, manipulation and above all a mixed confusion of all these emotions.</plot>
+  </movie>
+
+  <movie>
+    <title>Officer Arjun Singh IPS</title>
+    <year>2019</year>
+    <genre>Action, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Officer%20Arjun%20Singh%20IPS%20(2019)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dDFV8LkKutBXtjvSzNXkcfUB7J5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/dDFV8LkKutBXtjvSzNXkcfUB7J5.jpg</fanart>
+    <plot></plot>
+  </movie>
+
+  <movie>
+    <title>Parastree</title>
+    <year>2023</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Parastree%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nTxhj8dY8VRACGD3i8stYUjkNQC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ArUFp96ejv4EcsyQsl655zukaXe.jpg</fanart>
+    <plot>Dark thriller story occurring after an extramarital affair.</plot>
+  </movie>
+
+  <movie>
+    <title>Peepli Live</title>
+    <year>2010</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Peepli%20(2010)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zJ1e7pmyJ8an6ZxhhjwVNvqHe7t.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/mrF9kujimogn0ltPCX6wxVCpotq.jpg</fanart>
+    <plot>Natha decides to commit suicide to get the farmers' compensation. However, the media and politicians learn about his intentions and descend on their village to capture the rare event.</plot>
+  </movie>
+
+  <movie>
+    <title>Project Papa</title>
+    <year>2018</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Project%20Papa%20(2018)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oD5XyfWO9m7KaPxrjrTHinp0IZE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/uRoVOEtMw9wYoxCt8dIMpHFEYjY.jpg</fanart>
+    <plot>Driven into a state of panic about how quickly her father is growing older, and slowly fading away from the man he used to be, Alisa, a young, busy entrepreneur puts her life on hold, and along with her best friend, they embark upon Project Papa- her quest to fix him and give back what he gave her in abundance- love, memories and time.</plot>
+  </movie>
+
+  <movie>
+    <title>Rang De Basanti</title>
+    <year>2006</year>
+    <genre>Comedy, Drama, History, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Rang%20De%20Basanti%20(2006)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/f1bF8CHzEu621bPSIg6XiUNAabh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg</fanart>
+    <plot>After a group of friends graduate from Delhi University, they listlessly haunt their old campus, until a British filmmaker casts them in a film she's making about freedom fighters under British rule. Although the group is largely apolitical, the tragic death of a friend owing to local government corruption awakens their patriotism. Inspired by the freedom fighters they represent in the film, the friends collectively decide to avenge the killing.</plot>
+  </movie>
+
+  <movie>
+    <title>Rosh</title>
+    <year>2023</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Rosh%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Ai67XN2SjgLKXIGECT3RXQ2bjqf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8ZT45PymmsefELHPKR5DnLFuLUY.jpg</fanart>
+    <plot>Rajat Ronika and Alina hits a delivery boy on road and he dies on the spot. After some time door bell rings and an injured delivery boy enters in house stating he is late because someone hit him on road by a car and thrill starts.</plot>
+  </movie>
+
+  <movie>
+    <title>Sab Kushal Mangal</title>
+    <year>2020</year>
+    <genre>Romance, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Sab%20Kushal%20Mangal%20(2020)%201080%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aMC6FqninqV8M7dJKIeM4Qwm6Gy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nSQ2p4zOkhBpwqoj7uksXLpcp0C.jpg</fanart>
+    <plot>Pappu Mishra is the creator and host of a reality show called Musibat Odh Li Maine. Baba Bhandari, a big name in politics and crime, is offended with his reportage. Incidentally, the two belong to the same town, so when Pappu comes back for Diwali, Bhandari kidnaps him. A lively girl named Mandira saves Pappu, but later both Bhandari and Pappu end up falling for her. As chaos reigns in the town, how will the two men deal with the situation?</plot>
+  </movie>
+
+  <movie>
+    <title>Saina</title>
+    <year>2021</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Saina%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fdZZDmeO0lybBrxdudwdQmbmxJq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/99TjHpVoTXiMN6LRF828MlDaPpn.jpg</fanart>
+    <plot>Champion. Olympic Medallist. The Doyen of Indian Badminton. Saina Nehwal is all of this and much more. This biopic chronicles the inspiring story of a gifted youngster's ascendance to the pinnacle of the Badminton World through sheer passion and perseverance.</plot>
+  </movie>
+
+  <movie>
+    <title>Sharmajee Ki Beti</title>
+    <year>2024</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Sharmajee%20Ki%20Beti%20(2024)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vJc61J8aZvLz49BHQ7MXyjgQCzk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vefy4c5pykU861vV8A4tnd8YDw8.jpg</fanart>
+    <plot>Sharmajee Ki Beti intricately weaves the lives of Jyoti, Kiran, and Tanvi, all with the common surname of Sharma as they navigate urban loneliness, societal pressures, and gender expectations. Amidst their struggles, teenagers, Swati and Gurveen journey through puberty and maternal neglect, adding depth to this humorous and heart-warming tale of resilience, aspirations, and coming-of-age.</plot>
+  </movie>
+
+  <movie>
+    <title>Ship of Theseus</title>
+    <year>2012</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Ship%20Of%20Theseus%20(2012)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/t75n1cm3uZXl4WQj8U9UcfBRmWC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/442KB0zDUd69ecKTqaQulnZsKst.jpg</fanart>
+    <plot>Three stories about persons forced to think about the ethics and moral issues raised by medical advances.</plot>
+  </movie>
+
+  <movie>
+    <title>Shorts</title>
+    <year>2013</year>
+    <genre>Family, Fantasy, Comedy, Adventure, Science Fiction</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Shorts%20(2013)%20720p%20DVDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7AfctXNIn2JrvSDBg1h241PdeoQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/c9d0Mp6sWdneRp85etaW3jz6KMg.jpg</fanart>
+    <plot>A young boy's discovery of a colorful, wish-granting rock causes chaos in the suburban town of Black Falls when jealous kids and scheming adults alike set out to get their hands on it.</plot>
+  </movie>
+
+  <movie>
+    <title>Singh Saab the Great</title>
+    <year>2013</year>
+    <genre>Action, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Singh%20Saab%20The%20Great%20(2013)%20720p%20DVDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qbvBLlOI7C4lB5gRH0XBYhkfj4G.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dIBEYFQbMxtUgdUXI4ifjFNQPZZ.jpg</fanart>
+    <plot>A common man fights corruption and injustice.</plot>
+  </movie>
+
+  <movie>
+    <title>Skater Girl</title>
+    <year>2021</year>
+    <genre>Drama, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Skater%20Girl%20(2021)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kFZAu1g0f7bpunIumUY8Gb3Y9WU.jpg</fanart>
+    <plot>Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.</plot>
+  </movie>
+
+  <movie>
+    <title>The Killer</title>
+    <year>2006</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/The%20Killer%20(2006)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/l5CUToJuYslpNhXHUCi0QRgMkIV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/f5bzQHZdAAneI0eke9EKt41k3bL.jpg</fanart>
+    <plot>A cold-blooded contract killer hires the services of a cab driver for a full night. He forces the driver to go around Dubai as he keeps finishing off witnesses scheduled to testify against a gangster.</plot>
+  </movie>
+
+  <movie>
+    <title>Toilet A Love Story</title>
+    <year>2017</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Toilet%20Ek%20Prem%20Katha%20(2017)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8YUBka56t4HcHLVMGnGA1WizpMV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bDnyCpHeO9SDODn2Fcsrtm4cM0A.jpg</fanart>
+    <plot>A woman threatens to leave her husband unless he installs a toilet in their home. To win back her love and respect, he heads out on a journey to fight against the backward society.</plot>
+  </movie>
+
+  <movie>
+    <title>Tottaa Pataaka Item Maal</title>
+    <year>2019</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Tottaa%20Pataaka%20Item%20Maal%20(2019)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mRVgTdjHoK78tQ1dJVIoA3LGI2n.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1WlTx3LYQoeKm3tyK4X9dnge0ha.jpg</fanart>
+    <plot>Four women from Delhi, NCR and Gurgaon, tired of dealing with the incessant fear or rape, decide to teach one man how it feels to be afraid of being raped, on a daily basis.</plot>
+  </movie>
+
+  
+  <movie>
+    <title>Wazir</title>
+    <year>2016</year>
+    <genre>Thriller, Action, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Wazir%20(2016)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/A5I6rAFG3rLborOF8BCcjs4EBcx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/lD6lYulY6js9EAgUufh2ekNnCR4.jpg</fanart>
+    <plot>'Wazir' is a tale of two unlikely friends, a wheelchair-bound chess grandmaster and a brave ATS officer. Brought together by grief and a strange twist of fate, the two men decide to help each other win the biggest games of their lives. But there's a mysterious, dangerous opponent lurking in the shadows, who is all set to checkmate them.</plot>
+  </movie>
+
+
+  <movie>
+    <title>Yodha</title>
+    <year>2024</year>
+    <genre>Action, Adventure, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Yodha%20(2024)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/d4xrJ9mLFEheS8b7HLyAC9GjHxc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yw990hqPmdV64mlDMXPOJbVKkTV.jpg</fanart>
+    <plot>When terrorists hijack a passenger plane, a suspended commando onboard under mysterious circumstances, crafts a plan to thwart the hijackers and safeguard the passengers' survival despite the engine's failure.</plot>
+  </movie>
+
+  <movie>
+    <title>Zed Plus</title>
+    <year>2014</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Zed%20Plus%20(2014)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9Wwxd1k4MXWIAFr9TrS2do8vdom.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zyAfQH0wzfGoMCFGzvmIox5UdEt.jpg</fanart>
+    <plot>Aslam (Adil Hussain), a villager who runs a small business, accidentally meets the prime minister of India, who grants him special security on his request. Soon, he starts chasing political ambitions.</plot>
+  </movie>
+
+  <movie>
+    <title>All Is Well</title>
+    <year>2015</year>
+    <genre>Romance, Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/All%20Is%20Well%20(2015)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8ExGNeA74E5b9yT9yLJD2ET1mym.jpg</fanart>
+    <plot>A road trip, undertaken by Rishi Kapoor and Abhishek Bachchan, is later joined by their mother.</plot>
+  </movie>
+
+  <movie>
+    <title>Ardh</title>
+    <year>2022</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Ardh%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oLSgNq1rZw9pBxxfNV8fi5lK290.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ow1w5xXA2bvkpgNgTUCjeKMerOd.jpg</fanart>
+    <plot>Shiva struggles to become a mainstream actor in Mumbai despite being a theatre actor. With the help of his wife Madhu, he disguises himself as a transgender and begs for money to survive.</plot>
+  </movie>
+
+  <movie>
+    <title>Article 15</title>
+    <year>2019</year>
+    <genre>Crime, Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Article%2015%20(2019)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/egknEWNt2B0slG2OC0gSpLZdVHj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wN5e6gMVBTEihohzFkuGyZGbDOw.jpg</fanart>
+    <plot>A young IPS officer’s new posting in rural India has him confronting caste disparities and uncomfortable truths in the face of a gruesome crime. When three girls go missing in the fictional village of Lalgaon, two of them are found dead and there is no trace of the third one. Where is she and who is responsible for this heinous act?</plot>
+  </movie>
+
+  <movie>
+    <title>Atkan Chatkan</title>
+    <year>2020</year>
+    <genre>Drama, Music</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Atkan%20Chatkan%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/q8baBQYXAxdFykN7uXcgCJ0E5uP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1VUhE7vkTY16yJ71yA1wNXN1oeG.jpg</fanart>
+    <plot>The story revolves around a 13 year old Guddu who works as a helper at a tea stall. His father, an ex musician is a penniless alcoholic, and his mother a singer has abandoned the family. Therefore, he has to take the responsibility of his family at a tender age. Music is his passion, he loves to observe, listen and create new tunes. On his daily chai delivery visits, he watches a wedding band practice keenly, completely losing the sense of time. He has a desire to join the band one day. Along with Guddu, the film also tells the tale of other street children who work near Guddu’s tea stall. One day while wandering in the city, they come across a carnival where they see an orchestra performing for money which inspires them to form their own band. Atkan Chatkan shows the dreams of millions of young children who do not have the means but only a burning passion that needs careful nurturing to grow and succeed in life.</plot>
+  </movie>
+
+  <movie>
+    <title>Babli Bouncer</title>
+    <year>2022</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Babli%20Bouncer%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iX2vylrLdiiDBGaA3xhPobJp7dW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2yCvBerA21XiF52be0IYknw5a7z.jpg</fanart>
+    <plot>A first-of-its-kind for her village, Babli takes up a bouncer's job to win over her love, leading to a series of funny and heart-warming events.</plot>
+  </movie>
+
+  <movie>
+    <title>Baby</title>
+    <year>2015</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Baby%20(2015)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5yezGgo37qmd6kDknZKFzbhT19b.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/39kYR86XoJId5RBtuYjZzkNQty1.jpg</fanart>
+    <plot>A small nascent elite team of the Indian intelligence system perpetually strives to detect and eliminate terrorists and their plots. Officer Ajay leads his team to destroy one such potentially lethal ploy in their biggest operation yet.</plot>
+  </movie>
+
+  <movie>
+    <title>Bajirao Mastani</title>
+    <year>2015</year>
+    <genre>History, Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Bajirao%20Mastani%20(2015)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/a3kM4CBTSI4NC8KYeSRJCh55liV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3AzXdOm4Ul4Q9rmge4Otu5hcXZ1.jpg</fanart>
+    <plot>Peshwa Bajirao married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family.</plot>
+  </movie>
+
+  <movie>
+    <title>Barfi</title>
+    <year>2012</year>
+    <genre>Drama, Romance, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Barfi%20(2012)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5cJIx2zKjDoUtPSliou23xsReb1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dVUBKQMehxVnEQMpcOPw3OQqNMF.jpg</fanart>
+    <plot>The heartwarming tale of Barfi, a charming deaf-mute young man from 1970s Darjeeling, and two unalike women who can't help but fall for him.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhoothnath</title>
+    <year>2008</year>
+    <genre>Family, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Bhoothnath%20(2008)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kozAnxdmJLgAux008LztplzhHy1.jpg</fanart>
+    <plot>Banku, his mother, Anjali Sharma and father move in to their new house -- the Nath villa, unaware of the fact that the house is inhabited by a ghost. It is learnt the ghost is not too happy with his new housemates. But what the ghost is not prepared for is his unlikely friendship with Banku. Now Banku must uncover the reason why his ghostly friend is stuck and help him to attain salvation.</plot>
+  </movie>
+
+  <movie>
+    <title>Bol Bachchan</title>
+    <year>2012</year>
+    <genre>Comedy, Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Bol%20Bachchan%20(2012)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9k3qk8dmvawAWE34MpRAWkfwnKJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7YT1pHBF9B7Q7KgDLLJrJRyddVj.jpg</fanart>
+    <plot>Abbas Ali (Abhishek Bachchan) lives in Chandni Chowk, New Delhi with his sister Sania (Asin Thottumkal). They are legally fighting for an ancestral property— land case. But the odds turn against them and they lose. Their well wisher, Shastri Chacha, advises and convinces them to migrate to his village Ranakpur where he assures Abbas that he will get him a job at his owner's place. The owner being none other than the powerful Prithviraj Raghuvanshi (Ajay Devgn). Abbas enters Ranakpur village and while saving a child trapped inside a temple, he breaks open the lock of an ancestral temple but fate plays an important twist in Abbas' life as the whole village including Prithviraj's step-brother Vikrant opposes Abbas' actions but Prithviraj arrives and handles the situation.</plot>
+  </movie>
+
+  <movie>
+    <title>Chor Machaaye Shor</title>
+    <year>2002</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Chor%20Machaaye%20Shor%20(2002)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zZtRVP9lnCzoqajWYIHYKBGX3mb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/4SVXbiGGPjr9o2nZu79ayh8kgR8.jpg</fanart>
+    <plot>After serving a two-year stretch in the slammer, thief Shyam Singh (Bobby Deol) returns to his secret hiding place to retrieve a priceless stolen diamond, only to discover that the site has become a police precinct. To gain entry, Shyam masquerades as a cop but soon arouses the suspicions of a fellow officer (Om Puri). Director David Dhawan's action comedy also stars Bipasha Basu, Paresh Rawal and Shilpa Shetty.</plot>
+  </movie>
+
+  <movie>
+    <title>Commando</title>
+    <year>2013</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Commando%20(2013)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d4/Commando_%282013_film%29.jpg</thumbnail>
+    <fanart>https://upload.wikimedia.org/wikipedia/en/d/d4/Commando_%282013_film%29.jpg</fanart>
+    <plot>Letting it all hang out is not without risk. Entry in the Four4 Very Short Horror Film Competition, 2013.</plot>
+  </movie>
+
+  <movie>
+    <title>Coolie No 1</title>
+    <year>2020</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Coolie%20No%201%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ahkaPWW2SU9AaDhpD31phQKhTtT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bNixlnIPYJCXFPo7voIVCaNCXa5.jpg</fanart>
+    <plot>Insulted by Rosario, a rich businessman, Jai Kishen a Matchmaker teaches him a lesson by getting his daughter married to Raju, a Coolie, who poses to be a millionaire. They sense something fishy and Raju's deceptions are discovered. In an attempt to cover it up, he cooks up a story of having a filthy rich twin. One lie leads to another and things start to go awry culminating in a comedy of errors.</plot>
+  </movie>
+
+  <movie>
+    <title>Deadline Sirf 24 Ghante</title>
+    <year>2006</year>
+    <genre>Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Deadline%20Sirf%2024%20Ghante%20(2006)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v41PRO3MrbDdgGj10Pxnh5dLOJ6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tSjQCcfodtEVoomaQhjLacBe09p.jpg</fanart>
+    <plot>Heart surgeon Dr. Viren Goenka, his wife Sanjana and their seven-year-old daughter Anishka live in Mumbai. Their joys have just multiplied with Viren being honored with a prestigious award for his contribution to the medical world. Viren is all set to visit New Delhi to receive this award. He promises to celebrate his daughter's birthday once he returns. But fate has something else planned for Viren and his family: Anishka is kidnapped under Sanjana's nose. She is startled with the presence of a creepy man named Krish in her house. Krish tells her that Anishka will be fine as long as Sanjana and Dr. Goenka follow his instructions.</plot>
+  </movie>
+
+  <movie>
+    <title>Delhi 6</title>
+    <year>2009</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Delhi%206%20(2009)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/52raGhYfU3oM25imWZFZnQ16XZI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/651jsqXQNA8VTweqOnyoWi0I2DY.jpg</fanart>
+    <plot>Roshan, an NRI, arrives in Old Delhi with his ailing grandmother and starts to rediscover himself before getting caught in a religious dispute that shakes the once peaceful neighborhood.</plot>
+  </movie>
+
+  <movie>
+    <title>Dhoom 3</title>
+    <year>2013</year>
+    <genre>Action, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Dhoom%203%20(2013)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rUVTM5EQUQ2I0fcfE46AkvBYWae.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3SmbEb7T2Ypg5vBwLflLeVXkkQ1.jpg</fanart>
+    <plot>To avenge his father's death, a circus entertainer trained in magic and acrobatics robs banks to take down a corrupt bank owner. Two cops from Mumbai are assigned to the case.</plot>
+  </movie>
+
+  <movie>
+    <title>Dostana</title>
+    <year>2008</year>
+    <genre>Drama, Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Dostana%20(2008)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/obwjlgNI2NFZupMuJBbKgH3IhQp.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yxW0sz9kZS37g52JUp07kSdV1dv.jpg</fanart>
+    <plot>Two straight guys pretend to be a gay couple to secure a posh Miami apartment, but fall for their gorgeous roommate. Hilarity ensues as they strive to convince everyone of the ruse while secretly trying to win her heart.</plot>
+  </movie>
+
+  <movie>
+    <title>Fanaa</title>
+    <year>2006</year>
+    <genre>Action, Drama, Romance, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Fanaa%20(2006)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4A17fF6K6WAvv4Ces0CgpMZRee4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/97wqvp0BXrXQyKhFCasdZ1XR0tI.jpg</fanart>
+    <plot>Zooni Ali Beg is a blind Kashmiri girl who travels without her parents for the first time with a dance troupe to Delhi to perform in a ceremony for independence day. On her journey, she meets Rehan Khan, a casanova and tour guide who flirts with her. Although her friends warn Zooni about him, she cannot resist falling in love with him and he takes her on a private tour of New Delhi. But there is more to Rehan than meets the eye and Zooni will have to make a heartbreaking decision.</plot>
+  </movie>
+
+  <movie>
+    <title>Game</title>
+    <year>2011</year>
+    <genre>Mystery, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Game%20(2011)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nB8jtWGzFuYGRY1Dkbtf23dxbap.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dvHGj3iLiBaQyc5a1VMm3KsVIsa.jpg</fanart>
+    <plot>Four strangers are invited by the reclusive Kabir Malhotra, to his private island of Samos, Greece. They don't know each other and they don't know him ... and by the next morning they will wish they had never come.</plot>
+  </movie>
+
+  <movie>
+    <title>Jagga Jasoos</title>
+    <year>2017</year>
+    <genre>Adventure, Comedy, Mystery, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Jagga%20Jasoos%20(2017)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qXZCEyFkNe5cm7xfkUDvV41Xnfh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vgQ6JsosGLaNMzrsTEpf4KGH8O7.jpg</fanart>
+    <plot>A gifted teenage detective searches for his missing father with his ladylove assistant.</plot>
+  </movie>
+
+  <movie>
+    <title>Jannat 2</title>
+    <year>2012</year>
+    <genre>Action, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Jannat%202%20(2012)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/w1wVPOqj54DwuwBJFIE34ccclF1.jpg</fanart>
+    <plot>Sonu Dilli KKC, an illegal arms dealer is chased around by ACP Pratap Raghuvanshi. On the other hand, Sonu falls for Dr Jhanvi Singh Tomar. However, Sonu's life is turned upside-down, when he realises that Dr Jhanvi is the daughter of Mangal Singh Tomar, an illegal arms kingpin. Will Sonu survive the difficult times ahead?</plot>
+  </movie>
+
+  <movie>
+    <title>Jodhaa Akbar</title>
+    <year>2008</year>
+    <genre>Romance, History, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Jodhaa%20Akbar%20(2008)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gPjgeywFNTlh9IUuXWy85nn4h8J.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/n19pClzY673UkZvECNZMDO2ViMP.jpg</fanart>
+    <plot>A sixteenth century love story about a marriage of alliance that gave birth to true love between a Mughal emperor and a Rajput princess.</plot>
+  </movie>
+
+  <movie>
+    <title>Kabhi Khushi Kabhie Gham</title>
+    <year>2001</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Kabhi%20Khushi%20Kabhie%20Gham%20(2001)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg</fanart>
+    <plot>Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.</plot>
+  </movie>
+
+  <movie>
+    <title>Kabir Singh</title>
+    <year>2019</year>
+    <genre>Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Kabir%20Singh%20(2019)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/unqiPjtc6CGqs13zho7ZvWU85zu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yFwn006ETsYVykpI8OKocgY0Bi3.jpg</fanart>
+    <plot>Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off.</plot>
+  </movie>
+
+  <movie>
+    <title>Khuda Haafiz</title>
+    <year>2020</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Khuda%20Haafiz%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4Glh9LgdsmlQxhUUKnCROHWdrsU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/o46Pcs82jOLqqTCKig8OSGV9C4r.jpg</fanart>
+    <plot>When the 2008 recession leaves Sameer Chaudhary and his wife Nargis jobless, they struggle to make a living and after three months, succeed when they find jobs in a Middle East country named Noman. Due to delay in arrival of documents, Sameer stays in India while Nargis heads to Noman, upon arriving where she is abducted as she pleads for help over a phone call to Sameer. Enraged and helpless, Sameer heads to Noman and teams up with a local taxi driver to find Nargis before it is too late.</plot>
+  </movie>
+
+  <movie>
+    <title>Lost Ladies</title>
+    <year>2023</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Laapataa%20Ladies%20(Lost%20Ladies)%20(2023)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/uUVXEEyMsyWxrcbmAppUCYg6egV.jpg</fanart>
+    <plot>In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.</plot>
+  </movie>
+
+  <movie>
+    <title>Line of Descent</title>
+    <year>2019</year>
+    <genre>Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Line%20Of%20Descent%20(2019)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dhUDMDeZAGMx1gW58fssyzptbnO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xoUciFLRXkoiEA8ben5BFEA2JMS.jpg</fanart>
+    <plot>A classic crime narrative in the backdrop of Delhi merges a dysfunctional, mafia family at war with each other as an undercover officer fights his demons by assisting in their downfall.</plot>
+  </movie>
+
+  <movie>
+    <title>Love Aaj Kal</title>
+    <year>2009</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Love%20Aaj%20Kal%20(2009)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/36hkylLil37eF45uIeSTe31NRVq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1sENu0ofKLFpxPBWalNQHn0ZV58.jpg</fanart>
+    <plot>Two lovers break up after they realize that their career goals are pulling them in different directions.</plot>
+  </movie>
+
+  <movie>
+    <title>Lucknow Central</title>
+    <year>2017</year>
+    <genre>Drama, Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Lucknow%20Central%20(2017)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gnGl9Djk4JCzJwFF5BhiL7nXL9Z.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oY6qI9ouISQZI6KOXQHxFfdiKyC.jpg</fanart>
+    <plot>After being accused of murder and awaiting his death penalty, Kishen Mohan Girhotra is compelled by NGO worker Gayatri Kashyap to form a musical band of prisoners to compete at band competition held at the dreaded jail of ‘Lucknow Central’. Kishen befriends and convinces a talented bunch of criminals to form a band that provides them with a purpose and a new lease of life.</plot>
+  </movie>
+
+  <movie>
+    <title>Ludo</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Ludo%20(2020)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/zWq4HzuIcvoFss4BDkILYZqceuw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zWq4HzuIcvoFss4BDkILYZqceuw.jpg</fanart>
+    <plot>Two girls accidentally find out that in addition to the man they unknowingly share, they also share a lot of gifts from him. Including a game of ludo which resembles their lives in some manner.</plot>
+  </movie>
+
+  <movie>
+    <title>M S Dhoni The Untold Story</title>
+    <year>2016</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/M%20S%20Dhoni%20The%20Untold%20Story%20(2016)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oQCrHuAqqQCJ5H2gvAbsXd0T4Sw.jpg</fanart>
+    <plot>Based on the life story of Mahendra Singh Dhoni, and his journey to being the world cup winning captain of the Indian cricket team.</plot>
+  </movie>
+
+  <movie>
+    <title>Main Hoon Na</title>
+    <year>2004</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Main%20Hoon%20Na%20(2004)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/v9WuP3V5eeJudaqoDE870HEuYSk.jpg</fanart>
+    <plot>An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.</plot>
+  </movie>
+
+  <movie>
+    <title>Malang</title>
+    <year>2020</year>
+    <genre>Romance, Action, Adventure, Crime, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Malang%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2COzaii4BnT1O6bbXfAxtoTmADm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3e46k8KPCs1N7luAqNDFZFzrbbE.jpg</fanart>
+    <plot>Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.</plot>
+  </movie>
+
+  <movie>
+    <title>Midnight s Children</title>
+    <year>2013</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Midnights%20Children%20(2013)%20720p%20BRRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/u5oP34Ow5ZDax1zo59t4rzZTYwL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ggnGtnXQHzpdMvow9gIlxocWuwW.jpg</fanart>
+    <plot>The story of a pair of children born within moments of India gaining independence from England, growing up in the country that is nothing like their parent's generation. A Canadian-British film adaptation of Salman Rushdie's novel of the same name.</plot>
+  </movie>
+
+  <movie>
+    <title>Monica</title>
+    <year>2011</year>
+    <genre>Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Monica%20(2011)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4H4QU5EHSEZtJImD3K1lTOTsE7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qyu1w27KpXopL0o8R9gQeHwaTG3.jpg</fanart>
+    <plot>Public Prosecutor Mathur names an accused, Sandeep Mishra, and three other suspects who had arranged the homicide of Lucknow-based journalist Monica. The trio are Aseem Ray - a wealthy publisher; Pamela Grewal - a businesswoman; and Chandrakant Pandit - the former Telecom Minister and soon-to-be Chief Minister of Uttar Pradesh. With odds stacked heavily against him, Mathur presents, what is an apparent circumstantial case before a female judge, and must prove beyond a reasonable shadow of doubt, that Sandeep was directly involved - even though direct evidence indicates that the murder was committed by two unknown males, and that the deceased victim lived a dual life.</plot>
+  </movie>
+
+  <movie>
+    <title>Moods of Crime</title>
+    <year>2016</year>
+    <genre>Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Moods%20of%20Crime%20(2016)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/axCFiMNmG6dA8CIwxvnU0mhEED9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/axCFiMNmG6dA8CIwxvnU0mhEED9.jpg</fanart>
+    <plot>Two students in an MA Psychology program conduct experiments in criminal psychology that involve actually committing the crimes.</plot>
+  </movie>
+
+  <movie>
+    <title>Non Stop Dhamaal</title>
+    <year>2023</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Non%20Stop%20Dhamaal%20(2023)%201080p%20DVDRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gxDjPPJsa6u5Cs0V4WDj11iqMsj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/mKJb6AwKErlDTQVKgtsCqIAf2ZR.jpg</fanart>
+    <plot>Satinder (Annu Kapoor), a film director with big dreams of working with famous stars, teams up with his friend Amar (Manoj Joshi), a struggling film writer, to find someone who can invest in their new film project. As the story unfolds, it takes us through a whirlwind of confusion, emotional moments, and loads of comedy.</plot>
+  </movie>
+
+  <movie>
+    <title>Om Shanti Om</title>
+    <year>2007</year>
+    <genre>Comedy, Thriller, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Om%20Shanti%20Om%20(2007)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2mnqkI871E0thcIwsB6K6Bhemb2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/k6CjO0JQhfm3M0paWvnqkpzB0pL.jpg</fanart>
+    <plot>Reincarnated 30 years after being killed in a suspicious on-set fire, a small-time actor is determined to punish the person who ignited the blaze.</plot>
+  </movie>
+
+  <movie>
+    <title>Panga</title>
+    <year>2020</year>
+    <genre>Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Panga%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Ap8NRozS7wlWCMmsd3RIDP1xzGP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7SATAYij5PDZz6aecQoodBZwh6e.jpg</fanart>
+    <plot>'Panga' follows the triumphs and struggle of a national level Kabbadi player from India who receives the love and support from her family to help achieve her dream.</plot>
+  </movie>
+
+  <movie>
+    <title>Pataakha</title>
+    <year>2018</year>
+    <genre>Action, Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Pataakha%20(2018)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kG9T9y7eN8FGBK9jESJNlmuRdyR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/Am6u2Qoev4fJNSYX7DudujJE7Kr.jpg</fanart>
+    <plot>In a dusty Rajasthan village, two sisters, Badki and Chhutki, are constantly at each other's throats over trivial matters. Their father, a widower, struggles to keep them from tearing each other apart. Their meddling neighbour, Dipper, enjoys stirring up trouble between them. But when marriage takes them to different worlds, they discover how much they need each other.</plot>
+  </movie>
+
+  <movie>
+    <title>Pathaan</title>
+    <year>2023</year>
+    <genre>Action, Adventure, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Pathaan%20(2023)%20720p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eYf6FX4q5gB3JxzGsBo22KbRbVG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9wRAIQeOv2qzcgpfvA4dYZKeezl.jpg</fanart>
+    <plot>A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.</plot>
+  </movie>
+
+  <movie>
+    <title>Pranaam</title>
+    <year>2019</year>
+    <genre>Action, Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Pranaam%20(2019)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/115f1t03C35rSQmfOupJ9DdkcjG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bVfwcXIJTOT92MyyoqgaiFJ0ri4.jpg</fanart>
+    <plot>A peon's son who is an aspiring IAS officer is compelled to change his path leading him to turn into a gangster.</plot>
+  </movie>
+
+  <movie>
+    <title>Pyaar Ke Side Effects</title>
+    <year>2006</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Pyaar%20Ke%20Side%20Effect%20(2006)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vAMb2pLLYFd0JUOruj4zFETLBI5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hzVS5HkTURFchojFkNt8NgQkv9l.jpg</fanart>
+    <plot>Siddharth Bose lives a middle-classed lifestyle in Delhi along with his mother, and sister, Shalini. Their dad had abandoned them years ago. Shalini gets married to Kapil Sharma and moves in with him, while Siddharth works as a DJ with his friend, known simply as Nanoo. While performing for a ceremony, where Punjabi-speaking Trisha Mallick is about to wed India's youngest C.E.O., Vivek Chaddha, Siddharth sneaks in to use the bathroom and finds out that the bride does not love the groom and is about to run away. He manages to convince her to stay put, uses the facility and leaves. He meets her six months later in Mumbai, and he finds out that she did run away, both are attracted to each other and start living together fairly harmoniously, even though Trisha is taller than him.</plot>
+  </movie>
+
+  <movie>
+    <title>Raees</title>
+    <year>2017</year>
+    <genre>Thriller, Action, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Raees%20(2017)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9Ll7wDWDDCkHCRBYLI0rqjlQu2Y.jpg</fanart>
+    <plot>Set in the early ’80s and ’90s in Gujarat, India, ‘Raees’ is a fictitious story of a crime lord named Raees, who builds an entire empire from scratch, and a police officer who is determined to bring him down.</plot>
+  </movie>
+
+  <movie>
+    <title>Ram Setu</title>
+    <year>2022</year>
+    <genre>Action, Adventure, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Ram%20Setu%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qLkSBwLwuHTqdWHg43u2Pn7pEMQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wEHviXMwFwpyhsFwPCvxkHRcA0z.jpg</fanart>
+    <plot>An atheist archaeologist turned believer must race against time to prove the true existence of the legendary Ram Setu before evil forces destroy the pillar of India’s heritage.</plot>
+  </movie>
+
+  <movie>
+    <title>Sandeep Aur Pinky Faraar</title>
+    <year>2021</year>
+    <genre>Thriller, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Sandeep%20Aur%20Pinky%20Faraar%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bsMSeABadrbK0xCFiK1iqxenYM5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rWlxVEbNd4tiLdWvNdq2R3LiWfa.jpg</fanart>
+    <plot>Sandeep, a bank executive &amp; Pinky, a suspended cop, are marked for a kill. Phones tapped, accounts blocked, they escape but escaping is not freedom.</plot>
+  </movie>
+
+  <movie>
+    <title>Serious Men</title>
+    <year>2020</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Serious%20Men%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vRrVmiXapjHAcc3tW7wvY5n3WLi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/w083lWLiFv8JTBYJBI44FlJVapO.jpg</fanart>
+    <plot>Tormented with his 'under-privileged' societal status, a father capitalizes on his son's newfound fame as a boy-genius. Little does he realize that the secret he harbors will destroy the very thing he loves the most.</plot>
+  </movie>
+
+  <movie>
+    <title>Shaandaar</title>
+    <year>2015</year>
+    <genre>Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Shaandaar%20(2015)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/z49dRpH7xgAfXw4QYeqc20MvH9Y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/txwVlBT7v1KM2czWSBPxK2s309E.jpg</fanart>
+    <plot>Jagjinder Joginder, a wedding planner, brings together the dysfunctional family of businessman Bipin Arora while making arrangements for Bipin's daughter's destination wedding in London.</plot>
+  </movie>
+
+  <movie>
+    <title>Shootout at Wadala</title>
+    <year>2013</year>
+    <genre>Action, Crime, Drama, History</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Shootout%20At%20Wadala%20(2013)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qFcNJCXd2G18ngq4rFq601MbqbZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zyH0Cjxs8A7Ww6RTs529L37CGBh.jpg</fanart>
+    <plot>The first-ever registered encounter by the Mumbai Police, which took place on November 1, 1982.</plot>
+  </movie>
+
+  <movie>
+    <title>Shubh Mangal Zyada Saavdhan</title>
+    <year>2020</year>
+    <genre>Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Shubh%20Mangal%20Zyada%20Saavdhan%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/il9y4odx9el9Imwz6VMQrz9BcNz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nhNonVuTRJmAWu6tOaPUeipMxVi.jpg</fanart>
+    <plot>Partners Karthik and Aman don't have it easy in their road to achieving a happy ending, while Aman's family tries to get him married to someone else, Karthik doesn't step down unless he marries Aman.  A sequel to the 2017 film, titled Shubh Mangal Saavdhan.</plot>
+  </movie>
+
+  <movie>
+    <title>Sixteen</title>
+    <year>2013</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Sixteen%20(2013)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/tkFCu56ai54XA6kifNe4u1Qop2U.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/tkFCu56ai54XA6kifNe4u1Qop2U.jpg</fanart>
+    <plot>Jumah is about to turn 16 and is already in need of a fresh start. Burdened with the shameful legacy of a past as a child soldier in the Congo, he lives with his adoptive mother in west London, where he struggles to keep a lid on his history of violence. One night, enjoying a rare carefree evening out with a new friend, Jumah witnesses something that draws him seemingly inescapably into his old ways. As he and others around him begin to question whether he can ever stop being a soldier, he’s set on a path to find out who he truly wishes to be.</plot>
+  </movie>
+
+  <movie>
+    <title>Slumdog Millionaire</title>
+    <year>2008</year>
+    <genre>Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Slumdog%20Millionaire%20(2008)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg</fanart>
+    <plot>A teenager reflects on his life after being accused of cheating on the Indian version of "Who Wants to be a Millionaire?".</plot>
+  </movie>
+
+  <movie>
+    <title>Speed</title>
+    <year>2007</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Speed%20(2007)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/r3n9To0WxMrLiiPLw5KEl4N7Qn0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg</fanart>
+    <plot>Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3 million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...</plot>
+  </movie>
+
+  <movie>
+    <title>Tejas</title>
+    <year>2023</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Tejas%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2ylKeJmF1ZHJ5FE3CwL7TMIFJ1j.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wAh8jCOZFZItunloGxNPU23Y9bQ.jpg</fanart>
+    <plot>Indian Air Force officer Tejas sets out on a dangerous mission to rescue an Indian spy from Pakistan. While she faces the terrorists that come her way, she must also fight the ghosts of her past.</plot>
+  </movie>
+
+  <movie>
+    <title>Tere Bin Laden</title>
+    <year>2010</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Tere%20Bin%20Laden%20(2010)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9L1SPbw0UCvEQ36qYote2lVfTm5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/aKVOSRcWqRKv1Jn9dyF1b1N6BMs.jpg</fanart>
+    <plot>Ali Hassan (Ali Zafar), a reporter with a downmarket TV channel in Karachi, is keen to go to USA for a better life, but his visa has been refused six times in seven years. In desperation, he gets hold of an Osama Bin Laden look alike and makes a fake Osama tape which he sells to the owner of his channel to raise money for a false identity, a new passport and better luck with US visa. As one can expect, it is far from smooth sailing for him and his friends, as they get into a series of comic situations.</plot>
+  </movie>
+
+  <movie>
+    <title>The Cannabis Diary</title>
+    <year>2022</year>
+    <genre>Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Cannabis%20Diary%20(2022)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/heQLSiXbJ4OaEQAxbH3PYmjt3fu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/heQLSiXbJ4OaEQAxbH3PYmjt3fu.jpg</fanart>
+    <plot>Traumatized from his past killings, Arjun Singh looks for clues related to his nightmares. During his investigation, Arjun Singh discovers the real importance of Medical Marijuana for the mankind.</plot>
+  </movie>
+
+  <movie>
+    <title>The Great Indian Family</title>
+    <year>2023</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Great%20Indian%20Family%20(2023)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9Gxe853oX3URrNj8PKGfvoBF3tx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oy9HT8GThmtHYzGT9abRBkZuGz.jpg</fanart>
+    <plot>The film is set in the fictional town of Balrampur where Vedvyas Tripathi better known as Bhajan Kumar lives with his family headed by his father Pandit Siyaram Tripathi. Bhajan Kumar’s life with his family was going well till a question on his identity arises that throws the city in a flurry of rumour and apprehension. Will he survive or fall prey to this onslaught?</plot>
+  </movie>
+
+  <movie>
+    <title>The Last</title>
+    <year>2020</year>
+    <genre>Science Fiction</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Last%20Color%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xHXX9e6DsSW1CvwgCDmKd07ytos.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bdnz4ozCIn3iICqPdwsZrNFMRim.jpg</fanart>
+    <plot>An aging scientist struggles in isolation whilst striving to repair his A.I companion</plot>
+  </movie>
+
+  <movie>
+    <title>Pick Up</title>
+    <year>2020</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Pickup%20Artist%20(2020)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/q0XiOPqAdZa01QGjcx2g6tEN58K.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/q0XiOPqAdZa01QGjcx2g6tEN58K.jpg</fanart>
+    <plot>Choo-hyeon, a film crew member, drives to pick up an actress, but ends up picking up a prostitute named Hee-ra by mistake.</plot>
+  </movie>
+
+  <movie>
+    <title>The Purple Night</title>
+    <year>2021</year>
+    <genre>Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Purple%20Night%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/josdvV9btv0uIf7fVHPa0Ma95Kb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/josdvV9btv0uIf7fVHPa0Ma95Kb.jpg</fanart>
+    <plot>A deadly strain of magic mushrooms overtakes a family man's life. Torn, he must decide between returning to his beloved India, or America's allure.</plot>
+  </movie>
+
+  <movie>
+    <title>The World Enslaved by a Virus</title>
+    <year>2021</year>
+    <genre>Adventure, Science Fiction, Thriller, Fantasy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Virus%20Lockdown%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8S5IwaYOXMenqgW9PejoPjf4uXM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/mydJl7afczzd4uQoV92CwYtjrd.jpg</fanart>
+    <plot>In a post-apocalyptic world brought on by the Coronavirus, communism runs rampant, meetings are forbidden and Christianity is illegal. A band of young believers launch an underground revolution to reunite Christians and regain freedom from their oppressive superiors.</plot>
+  </movie>
+
+  <movie>
+    <title>The Y</title>
+    <year>2023</year>
+    <genre>Horror, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/The%20Y%20(2023)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6YjyVezHvoFbuFPvxSRMFBLV1hX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/msPrmq4nXKhS6M6BstyeJnunrgP.jpg</fanart>
+    <plot>A young woman, Deeksha, loses her voice and memory after a road accident that claims her parents’ lives. As she moves into a mansion inherited from her grandmother, she has ghostly encounters that the doctor blames on PTSD. Is it really her psyche playing tricks, or is the house haunted?</plot>
+  </movie>
+
+  <movie>
+    <title>The Storm</title>
+    <year>2021</year>
+    <genre>Animation</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Toofaan%20(2021)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/i193HFDFxHU1bJgW1AXs1Nm6aFV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qNejHFAX4HPkUyfQPIxck28IVS0.jpg</fanart>
+    <plot>Global pandemics are like prairie thunderstorms. Full of terror and havoc, they eventually pass. Bringing a new baby into the world can also feel like a storm.</plot>
+  </movie>
+
+  <movie>
+    <title>Wild Wild Punjab</title>
+    <year>2024</year>
+    <genre>Comedy, Adventure</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Wild%20Wild%20Punjab%20(2024)%20720p%20%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5EpIjplAtUiFyjR6C2gYN6xPiCP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zldmp4sCWa8A54aQKOjOiidLJud.jpg</fanart>
+    <plot>Four friends road-trip across Punjab to help one of them get over an ex-girlfriend, but are quickly caught in a fiasco like no other.</plot>
+  </movie>
+
+  <movie>
+    <title>Yahan Sabhi Gyani Hain</title>
+    <year>2020</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Yahan%20Sabhi%20Gyani%20Hain%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sVXAZw741pCDhN0es4ovFo0n2rQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/sVXAZw741pCDhN0es4ovFo0n2rQ.jpg</fanart>
+    <plot>A satirical comedy film shot in Kanpur. The story revolves around a delusional and dysfunctional "Kanpuriya" family, are told of having hidden ancestral treasure. But in the process of finding the treasure, find the true lesson of life.</plot>
+  </movie>
+
+  <movie>
+    <title>Yakeen</title>
+    <year>2005</year>
+    <genre>Action, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Yakeen%20(2005)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v5EheBhPNfEk6jrVvI2UhZqU3p.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/f24AXUIX6uIPYsrfFYL8YIgd48i.jpg</fanart>
+    <plot>Whilst piecing together his life after a car accident left him with amnesia, a man begins to suspect that his wife is having an affair.</plot>
+  </movie>
+
+  <movie>
+    <title>Youngistaan</title>
+    <year>2014</year>
+    <genre>Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Youngistaan%20(2014)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/89mWkdOnrXeq2V9B8piLYad3s9s.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/89mWkdOnrXeq2V9B8piLYad3s9s.jpg</fanart>
+    <plot>Abhimanyu Kaul - a young, independent, Games Developer, living in Japan and the love of his life, Anwita Chauhan - a bubbly, passionate and full of life, summer intern. Their happy and content life faces the test of time, when blood ties and the pressure of being born into the first family of India tears a young Abhimanyu between his love for Anwita and a promise made to his dying father, the Prime Minister of India. Being a public figure, by reluctantly accepting to represent the governing party, much against his own wishes and at the cost of his private life, is a double-edged sword that Abhimanyu must walk on.</plot>
+  </movie>
+
+  <movie>
+    <title>Zehan</title>
+    <year>2024</year>
+    <genre>Crime, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Zehan%20(2024)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8qZW4n704CjO2QWnM3uxPQ2ghW6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/8qZW4n704CjO2QWnM3uxPQ2ghW6.jpg</fanart>
+    <plot>Zehan, a psychological thriller that has violence, drama, and romance, manifests self-complexities of a human that refers to a person's perceived knowledge of herself or himself or of others. The story revolves around the eccentricities of the male lead, Aakash (played by Aarya Babbar).</plot>
+  </movie>
+
+  <movie>
+    <title>7 Phere</title>
+    <year>2005</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/7%201%202%20Phere%20More%20Than%20a%20Wedding%20(2005)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cay4qE79QEyDlvCmGSolVN6cxzt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/jbbqa1zbZjWJXoeOovSlb56UH60.jpg</fanart>
+    <plot>7½ Phere: More Than a Wedding is a 2005 Bollywood comedy film directed by Ishaan Trivedi and produced by Sonal Malhotra and Nimit Modawal. It stars Juhi Chawla and Irfan Khan in lead roles. The film was released in India on 29 July 2005 with mixed response</plot>
+  </movie>
+
+  <movie>
+    <title>7 Khoon Maaf</title>
+    <year>2011</year>
+    <genre>Drama, Mystery, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/7%20Khoon%20Maaf%20(2011)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/aLJEqWXMqdboAOee3C4zGl6UFf1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/pJR7nbSjBMu7Yeb24QEPWVXTOii.jpg</fanart>
+    <plot>Susanna is hungry for love and will go to any extent to find it in its purest form. In her quest for the perfect man, she gets married a number of times as each of her husband's die mysteriously.</plot>
+  </movie>
+
+  <movie>
+    <title>ACID</title>
+    <year>2020</year>
+    <genre>Animation</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/ACID%20Astounding%20Courage%20in%20Distress%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/a2WLFpYVwDoutoEQPabiKoQwR82.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/a2WLFpYVwDoutoEQPabiKoQwR82.jpg</fanart>
+    <plot>The film presents the universal problems of musicians throughout the life of the band ACID. Underground clubs, unforgettable parties, upward success at first, then membership swaps, love, addiction problems, unfulfilled contracts. The band members talk about how they experience and see these things. Recollections reveal who these robots are and how they met.</plot>
+  </movie>
+
+  <movie>
+    <title>Ajnabee</title>
+    <year>2001</year>
+    <genre>Action, Crime, Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Ajnabee%20(2001)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rIscKIZxR4HXzLiWgAU7GykfpfI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/swWXwkOnM0be8t92JmtRjtkLEJ6.jpg</fanart>
+    <plot>Raj and Priya befriend their new neighbors Vicky and Sonia. One day, Raj wakes up in Vicky's house and finds out that Sonia has been murdered and he's being framed for it. On the run, he must try and prove his innocence with the support of his loving wife.</plot>
+  </movie>
+
+  <movie>
+    <title>Aurangzeb</title>
+    <year>2013</year>
+    <genre>Thriller, Action, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Aurangzeb%20(2013)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/e4rirsKSt4DE5JQUd4yeMdoqgjI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/e3VPAcFubKalOhnvHaoq4E2iq8K.jpg</fanart>
+    <plot>In order to expose Yashvardhan who is dishonest, Ravikant captures his son Ajay and plants his twin brother, Vishal, in his place, as an informer.</plot>
+  </movie>
+
+  <movie>
+    <title>Baaghi</title>
+    <year>2016</year>
+    <genre>Action, Thriller, Romance, Adventure</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Baaghi%20(2016)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/o5VJiWgGp1O2OtjESZVd37gepYQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5VKTBTheoNKGlMWcJVdYZLPJW9q.jpg</fanart>
+    <plot>Ronny is a rebellious man, who falls in love with Sia but circumstances separate them. Years later, Ronny learns that Sia is abducted by a martial arts champion, Raghav.</plot>
+  </movie>
+
+  <movie>
+    <title>Baaghi 3</title>
+    <year>2020</year>
+    <genre>Action, Adventure, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Baaghi%203%20(2020)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nQV1lkgGn0FhqDeDr4b8VLhn1ow.jpg</fanart>
+    <plot>A man embarks on a bloody rampage to save his kidnapped brother.</plot>
+  </movie>
+
+  <movie>
+    <title>Bang Bang</title>
+    <year>2014</year>
+    <genre>Action, Adventure, Comedy, Romance, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Bang%20Bang%20(2014)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6ukTOJ3VNqrR0un8nolKoIlgn1V.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bcNcuocvcfYmc3iirLLrktIj7KV.jpg</fanart>
+    <plot>A young bank receptionist gets mixed up with Rajveer Nanda, a man who has a mysterious background.</plot>
+  </movie>
+
+  <movie>
+    <title>Besharam</title>
+    <year>2013</year>
+    <genre>Comedy, Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Besharam%20(2013)%20720p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/79xt4XA6FBY9c9gBzEKrpKQ5Mz6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7G8rizluKUAZtNm5mharE8FiTcC.jpg</fanart>
+    <plot>Babli is a street smart car mechanic living in a Delhi orphanage. He is charming and lives life to the fullest. He also steals cars to support his orphanage. He has no sense of right or wrong till he unwittingly hurts the love of his life, Tara. Babli realizes that there is no right way of doing the wrong thing. Babli sets out to fix all the wrongs in his life and he continues to be shameless about it.</plot>
+  </movie>
+
+  <movie>
+    <title>Beyond the Clouds</title>
+    <year>2017</year>
+    <genre>Family, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Beyond%20The%20Clouds%20(2017)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/o7vLxt7VVWfCnFcqdE45Y4VdlEe.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/mhaERXNFuLiVlqmJdLH0WdLc0XW.jpg</fanart>
+    <plot>A hedonistic teenager in Mumbai is busted for dealing drugs and goes to his estranged sister for help, but complications land her in jail.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhool Bhulaiyaa 2</title>
+    <year>2022</year>
+    <genre>Horror, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Bhool%20Bhulaiyaa%202%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bJcD8d58JWUpHB2tZl7ykDohtJB.jpg</fanart>
+    <plot>When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.</plot>
+  </movie>
+
+  <movie>
+    <title>Blackmail</title>
+    <year>2018</year>
+    <genre>Comedy, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Blackmail%20(2018)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/apt3peZIUjd56Rkt0HGxp6EaxKe.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oXuu7LYV1ztNotZvvOJchqBgl8Z.jpg</fanart>
+    <plot>When Dev finds about his wife's affair, he starts blackmailing her and her lover but the blackmail game backfires on him.</plot>
+  </movie>
+
+  <movie>
+    <title>Choked Paisa Bolta Hai</title>
+    <year>2020</year>
+    <genre>Drama, Crime, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Choked%20Paisa%20Bolta%20Hai%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1jqDl2cuBlOBfrbjEIJhqwQVZnR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6jCOU7gnjS1z8izCwRrdHn0CXwq.jpg</fanart>
+    <plot>A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.</plot>
+  </movie>
+
+  <movie>
+    <title>Cocktail</title>
+    <year>2012</year>
+    <genre>Romance, Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Cocktail%20(2012)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v7jnxqLjarV8LXUXKPU6WKE78CK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1L3O6VBMUg0BoNqiYM0o4vGZS7F.jpg</fanart>
+    <plot>A shy simple traditional girl leaves her family in India for her new husband in London, where she meets a shameless flirt and a complicated party girl.</plot>
+  </movie>
+
+  <movie>
+    <title>Darbaan</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Darbaan%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iiJJoJwpdmGZJVjynRzMME6Z6Kf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nN01hcilzyQUNZgURWZncuonNkg.jpg</fanart>
+    <plot>Based on the 1891 short story by Rabindranath Tagore, follows life of a caretaker whose life is disturbed due to a single act of carelessness.</plot>
+  </movie>
+
+  <movie>
+    <title>Ek Khiladi Ek Haseena</title>
+    <year>2005</year>
+    <genre>Crime, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Ek%20Khiladi%20Ek%20Haseena%20(2005)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/emVhmOZYn3mS3eqUzvVaYYQJR0z.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/gBF73bttgNmGMbyLKYJQLFbXwlK.jpg</fanart>
+    <plot>Following his best friend's murder, a con-man finds himself plunged in debt against a feared gangster and assembles an eclectic bunch of fellow scamsters for a big job: 25 days, 25 crores.</plot>
+  </movie>
+
+  <movie>
+    <title>Faactory</title>
+    <year>2021</year>
+    <genre>Action, Crime, Drama, Romance, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Faactory%20(2021)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7LPljbh88U3ZUGWJzR8nUTlQYhq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/7LPljbh88U3ZUGWJzR8nUTlQYhq.jpg</fanart>
+    <plot>An obsessive lover kidnaps a woman and forces her to fall for him.</plot>
+  </movie>
+
+  <movie>
+    <title>Four Two Ka One</title>
+    <year>2012</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Four%20Two%20Ka%20One%20(2012)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yHnJDh16PPuKylFkGjzlvwQWO8X.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/yHnJDh16PPuKylFkGjzlvwQWO8X.jpg</fanart>
+    <plot>Comedy starring Nikita Anand, Kurush Deboo and Dinesh Hingoo</plot>
+  </movie>
+
+  <movie>
+    <title>Grand Masti</title>
+    <year>2013</year>
+    <genre>Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Grand%20Masti%20(2013)%201080p%20WEBHD.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9DtPtMWZqotqvBlMwHlTxXc6xPz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nxg72kFZAWSJ1NvhFDLwrHoTHsu.jpg</fanart>
+    <plot>Meet, Prem, and Amar look to have a blast at their college reunion, though they soon find themselves in another predicament.</plot>
+  </movie>
+
+  <movie>
+    <title>Guzaarish</title>
+    <year>2010</year>
+    <genre>Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Guzaarish%20(2010)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uQgjtBBZ9se2Kcir9xQ9xY2kzyl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qk3GgVU166vkePEAYDQruYSR3iq.jpg</fanart>
+    <plot>Ethan, a magician rendered paralyzed in an accident, sets off a furor when he makes a petition to the court to end his own life.</plot>
+  </movie>
+
+  <movie>
+    <title>Hamne Gandhi Ko maar Diya</title>
+    <year>2018</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Hamne%20Gandhi%20Ko%20maar%20Diya%20(2018)%20720p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ehCwG0IcdiGD2sIjUKbITIvd0SW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/AdCctTCKye98yDub0twFJh1jv6Y.jpg</fanart>
+    <plot>This movie is inspired by non-violence movements taken by Mahatma Gandhi (Mohan Das Karamchand Gandhi) during his struggle for Independent India from 1915 to 1947.</plot>
+  </movie>
+
+  <movie>
+    <title>Help</title>
+    <year>2010</year>
+    <genre>Drama, Horror, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Help%20(2010)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1q6zOpQIa57GiixKZNf60LMo1R9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/1q6zOpQIa57GiixKZNf60LMo1R9.jpg</fanart>
+    <plot>"HELP" is a supernatural horror thriller which draws upon the story of a malevolent spirit that refuses to leave the human world and is out to exact retribution for past crimes committed against it.</plot>
+  </movie>
+
+  <movie>
+    <title>Heroine</title>
+    <year>2012</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Heroine%20(2012)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/i8jPokmNczO8hmjkzkJnUZ2p8PA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/gnhr2vqd7pgkTJz3v0n6CNUQS94.jpg</fanart>
+    <plot>A female superstar struggles through the trials and tribulations of being a Bollywood actress.</plot>
+  </movie>
+
+  <movie>
+    <title>Hindi Medium</title>
+    <year>2017</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Hindi%20Medium%20(2017)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/aSjOJMrQYz3EC5e7JzfGxy2Yhuh.jpg</fanart>
+    <plot>Mita and Raj Batra, an affluent couple from Delhi’s Chandni Chowk, are grappling with getting their daughter admission into an English medium school. But there is one big problem. Their zubaan is Hindi, and the elitist snobs won’t let the Hindi speaking hoi-polloi fit in.</plot>
+  </movie>
+
+  <movie>
+    <title>Jahaan Chaar Yaar</title>
+    <year>2022</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Jahaan%20Chaar%20Yaar%20(2022)%201080p%20DVDRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oo5KBgfp8EWzFQGnciNC0RJb2lZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xAgileyhdUi27CyDbuy4qptdnT1.jpg</fanart>
+    <plot>Four dedicated housewives - Shivangi, Mansi, Neha, and Sakhina, whose lives revolve only around their husband and family, decide to escape the suffocating routine life by traveling to Goa for a few days to live life on their terms. They have no idea that their vacation will lead to a series of life-changing events.</plot>
+  </movie>
+
+  <movie>
+    <title>Kakuda</title>
+    <year>2024</year>
+    <genre>Comedy, Horror</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Kakuda%20(2024)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kc16Hwkst3GOfjqdfglSO1b3UjN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/inoAjEKfuDxNzWGjhnIsTnTzDuF.jpg</fanart>
+    <plot>When her husband Sunny gets cursed by the terrifying ghost, Kakuda, Indira joins hands with a ghost hunter to find a solution.</plot>
+  </movie>
+
+  <movie>
+    <title>Kal Ho Naa Ho</title>
+    <year>2003</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Kal%20Ho%20Naa%20Ho%20(2003)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg</fanart>
+    <plot>An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.</plot>
+  </movie>
+
+  <movie>
+    <title>Kalyug</title>
+    <year>2005</year>
+    <genre>Action, Crime, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Kalyug%20(2005)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zvs6wuMCdn0zTe3U7yeXboiHjin.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/gFZal1ArW2Qy1BGRRkOjAHlKCQ5.jpg</fanart>
+    <plot>Kunal and Renuka's marital bliss is shattered when a group of people film and upload a video of them being intimate on an adult website. Kunal fights to take them and their illegal racket down.</plot>
+  </movie>
+
+  <movie>
+    <title>Khaali Peeli</title>
+    <year>2020</year>
+    <genre>Romance, Action, Comedy, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Khaali%20Peeli%20(2020)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ovmbklvzSu8pbIthunlKPgIjlOo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dPNwxlULqvc90FX5j9hZmWgc83P.jpg</fanart>
+    <plot>The story is about two childhood sweethearts Pooja and Blackie who gets separated due to certain circumstances when they were kids. Pooja, who is now aprostitute, decides to escape the brothel on turning 18, with a bag full of  stolen money. She bumps into Blackie who is now a very ‘chalu’ Bombay taxi driver. He agrees to ‘drive’ her to freedom, in exchange for a hefty amount.This leads to a series of chase and escape – with the goons on Pooja's trail and the cops on the goons’ trail.</plot>
+  </movie>
+
+  <movie>
+    <title>Kung Fu Yoga</title>
+    <year>2017</year>
+    <genre>Comedy, Mystery, Family, Action, Adventure</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Kung%20Fu%20Yoga%20(2017)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rL6XM4fsr1cM5mN2flEhQ8jQter.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hOOvR5XKhmZRWsqLbhQcFsA7El4.jpg</fanart>
+    <plot>Two professors team up to locate a lost treasure and embark on an adventure that takes them from a Tibetan ice cave to Dubai, and to a mountain temple in India.</plot>
+  </movie>
+
+  <movie>
+    <title>Laxmii</title>
+    <year>2020</year>
+    <genre>Horror, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Laxmii%202020%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6COHwokEERAjjvlmNF44Xg9BK1y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hJHfqLvYPz9nMPEZamjifHiXZbr.jpg</fanart>
+    <plot>Aasif's belief in logic and science shatters when he gets possessed by a transgender's ghost.</plot>
+  </movie>
+
+  <movie>
+    <title>Lihaaf The Quilt</title>
+    <year>2019</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Lihaaf%20The%20Quilt%20(2019)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/tO9HNukNXdD2B3jXQZU1DarZFy8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nYq2dIrb4dqJzVO3jYgRn1gTybe.jpg</fanart>
+    <plot>A period drama, the film is based on Ismat Chugtai's most celebrated story "Lihaaf" (published 1942). The film inter weaves the plot of same sex relationship between Begum and her masseuse and the trial that Ismat underwent after being slapped with a case of obscenity on publishing the story. The film raises themes of homosexuality and freedom of speech that our society is grappling with even today.</plot>
+  </movie>
+
+  <movie>
+    <title>Lootcase</title>
+    <year>2020</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Lootcase%20(2020)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4F4T7fSxSaak4XQHrskRPcqL9yz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/AvxjIy6EeyScIrWKkizbWsoLLdd.jpg</fanart>
+    <plot>Nandan, a middle-class man, finds a suitcase full of money near his workplace and steals it. However, he is soon chased by a police officer, a notorious gangster and a corrupt politician.</plot>
+  </movie>
+
+  <movie>
+    <title>Mast Mein Rehne Ka</title>
+    <year>2023</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Mast%20Mein%20Rehne%20Ka%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/l2y2693EHKtrpNtOuy0goF38XZX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dRZTa9F3EUveLGvz5ISLpKXfj2h.jpg</fanart>
+    <plot>A man chooses an old widower's home for his first robbery, kicking off a set of events that have them both look at life in a new way and with new companions in the starkness of the city of Mumbai.</plot>
+  </movie>
+
+  <movie>
+    <title>Mimi</title>
+    <year>2021</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Mimi%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/AtCUHSf5sG31FL0vugxplft5FXW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2rEKlVBqUoKGwjIRJsCrEluuIoH.jpg</fanart>
+    <plot>An aspiring actress in a small town in Rajasthan agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes an unexpected turn when they refuse to have the child anymore.</plot>
+  </movie>
+
+  <movie>
+    <title>Mrs Serial Killer</title>
+    <year>2020</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Mrs%20Serial%20Killer%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/w7zV77jwfGXPKq0kKYFi1wGu1sc.jpg</fanart>
+    <plot>When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband's innocence.</plot>
+  </movie>
+
+  <movie>
+    <title>Murder 2</title>
+    <year>2011</year>
+    <genre>Action, Crime, Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Murder%202%20(2011)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/tA94k3RsMM6oV3m7bqo9dOWyHfS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wv2nYFaobjDr6lI1TISBRltNHCH.jpg</fanart>
+    <plot>A former police officer gets hired by a gangster to trace missing call girls and their abductor.</plot>
+  </movie>
+
+  <movie>
+    <title>My Name Is Khan</title>
+    <year>2010</year>
+    <genre>Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5Y36lCiNyyV71mjq6LavgiggbhT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zGCnIADWwpjGllYv8DgT8HIuIQl.jpg</fanart>
+    <plot>Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.</plot>
+  </movie>
+
+  <movie>
+    <title>New York</title>
+    <year>2009</year>
+    <genre>Crime, Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/New%20York%20(2009)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yFp4MiFPNGPiLOnl5zZGnS13jAL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/66AfZA6GaRrGjgjL9lmZN2aqgxl.jpg</fanart>
+    <plot>New York is a contemporary story of friendship set against the larger than life backdrop of a city often described as the centre of the world. Omar has gone abroad for the first time in his life and soon enough he begins to see and love America through the eyes of his American friends - Sam and Maya. It is the story of these three friends discovering a new world together.</plot>
+  </movie>
+
+  <movie>
+    <title>Nikamma</title>
+    <year>2022</year>
+    <genre>Action, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Nikamma%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5t3gD5epzIuRH5L86nOF95yDUZY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/r8QNPw7zJMDGJzJieYxIWvv8rIf.jpg</fanart>
+    <plot>Nikamma is an action-comedy, which is a remake of 2017 Telugu film film Middle Class Abbayi.</plot>
+  </movie>
+
+  <movie>
+    <title>Pink</title>
+    <year>2016</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Pink%20(2016)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gccoBnrW62igPd4pBtMjL76ts9Z.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vRwQjub66VHomQdrNhyA4H43QZ7.jpg</fanart>
+    <plot>A gay couple adopts a child as they find out about the issues with gay adoption and the gay lifestyle.</plot>
+  </movie>
+
+  <movie>
+    <title>Raja Natwarlal</title>
+    <year>2014</year>
+    <genre>Thriller, Drama, Mystery, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Raja%20Natwarlal%20(2014)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/g9VRy4pTVr6akx5zXJC9H8YJ0ZY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3MCxWeJKBKWFL77OFnSxKO4txPd.jpg</fanart>
+    <plot>Based on the story of a notorious real-life con man, this twisty Bollywood thriller revolves around cunning fraudster Raja Natwarlal, who pulls off a series of two-bit scams in Mumbai on his way to a big swindle. A small-time con man wants to get into the big leagues and take on a Goliath in the world of scams.</plot>
+  </movie>
+
+  <movie>
+    <title>Salaam e Ishq</title>
+    <year>2007</year>
+    <genre>Comedy, Drama, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Salaam%20E%20Ishq%20(2007)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/85XY4iBEZrwow6IahGhrFvmtacX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/viP4tHMj0ejcihhvF9kEr3iCO7u.jpg</fanart>
+    <plot>Six couples who do not know each other are brought together by destiny, fate and love</plot>
+  </movie>
+
+  <movie>
+    <title>Salaam Venky</title>
+    <year>2022</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Salaam%20Venky%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mAuD8aAiTK6U4xOnoqSHgZPcwbM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/13IvQOJQMLJe3y1TWs7Uyxrir6b.jpg</fanart>
+    <plot>Sujata, an ideal mother, who battles the most challenging situations one can ever face with a smile.</plot>
+  </movie>
+
+  <movie>
+    <title>Sanju</title>
+    <year>2018</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Sanju%20(2018)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/q1wkN4VQuBTj1AeyTLLz2w6awMA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/pJgSJSMrwg1MOJnYNeQKsJvc39r.jpg</fanart>
+    <plot>Sanju explores some of the most crucial chapters from movie star Sanjay Dutt’s dramatic and controversial real life. It gives a lowdown on his tryst with drugs and his trials and tribulations in the Arms Acts case and the 1993 Mumbai blasts.</plot>
+  </movie>
+
+  <movie>
+    <title>Sarkar</title>
+    <year>2005</year>
+    <genre>Crime, Action, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Sarkar%20(2005)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rxruLUuejw1By5KMZVbhN8VJv9O.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qMgHzTu8kChAtylfvnQEIVFIobs.jpg</fanart>
+    <plot>Subhash Nagre runs a parallel government in the city where he has a cult following. When his enemies plot to murder him, his son takes charge and stands up against them.</plot>
+  </movie>
+
+  <movie>
+    <title>Shahid</title>
+    <year>2012</year>
+    <genre>Drama, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Shahid%20(2012)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9AO8ciYnqjg9YavpR01n9sobE0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/oKvjowyRtr8SDITScfKOXxJwP4D.jpg</fanart>
+    <plot>A story based on real-life human-rights and criminal lawyer, Shahid Azmi, who was slain while defending the wrongly accused by the law in terrorist activities.</plot>
+  </movie>
+
+  <movie>
+    <title>Singh Is Bliing</title>
+    <year>2015</year>
+    <genre>Action, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Singh%20Is%20Bliing%20(2015)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/tBkCntLUWwZ0kXDE1DlZBlvLbsK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9lcxVb5wWj3H3WmBvqBaTPIDNUi.jpg</fanart>
+    <plot>Raftaar Singh is always looking to have fun and runs away from responsibility. Fed up, his father orders Raftaar to go to Goa and work, and learn to take on responsibility. Once in Goa, he impresses his new boss with his enthusiasm and creative thinking. Soon he gets an assignment, and meets Sara Amy Jackson - and thus begins their unique love story. What ensues is a great comedy of errors, as one hilarious situation after another unfolds. Raftaar falls head over heels for this exotic, mysterious girl. The romance takes a deadly turn when he realizes that Sara is not who he thinks she is and has an agenda, which takes him to Romania. Will Raftaar be able to win her over in a distant and dangerous land?</plot>
+  </movie>
+
+  <movie>
+    <title>Singham Returns</title>
+    <year>2014</year>
+    <genre>Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Singham%20Returns%20(2014)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k8CDjZLYG8bCIuXWAg4gukxf0BE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rvG9irR3D0HrxAA0Jh577Rik2Ck.jpg</fanart>
+    <plot>Owing to the wrongdoings affiliated with evils similar to black money, an honest but ferocious police officer returns as the Deputy Commissioner of Police with the prospect of wiping out injustice.</plot>
+  </movie>
+
+  <movie>
+    <title>Special 26</title>
+    <year>2013</year>
+    <genre>Crime, Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Special%2026%20(Special%20Chabbis)%20(2013)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cOo6lOiZXO0zldPKsih9asKPWDo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg</fanart>
+    <plot>In the early 1980s in India, a group of con artists rob businessmen and politicians by conducting fake raids, posing as officers of the CBI or Income Tax Department . They plan to execute their biggest con as a final job while a relentless cop is on their trail.</plot>
+  </movie>
+
+  <movie>
+    <title>Stree</title>
+    <year>2018</year>
+    <genre>Crime, Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Stree%20(2018)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2xLDWr72Wxc1JGmbxza2V8g26YH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg</fanart>
+    <plot>A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.</plot>
+  </movie>
+
+  <movie>
+    <title>Sui Dhaaga  Made in India</title>
+    <year>2018</year>
+    <genre>Comedy, Drama, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Sui%20Dhaaga%20Made%20In%20India%20(2018)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dit1yb4Z5WBtCFqn7Bl3oN8l7A1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hBVlObh4tyl2ZsQXYYuwaFkRoy2.jpg</fanart>
+    <plot>Mauji stays in a village near Delhi with his wife Mamta, father and mother. Varun works at a shop that sells sewing machines, owned by Bansal and his son Prashant. Both have a habit of ill-treating Mauji and make him do fun antics. When Prashant gets married, Bansal invites Mauji and his entire family. Mamta feels humiliated when she sees Mauji being asked to imitate a dog by the Bansals.</plot>
+  </movie>
+
+  <movie>
+    <title>Tribhanga</title>
+    <year>2021</year>
+    <genre>Drama, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Tribhanga%20Tedhi%20Medhi%20Crazy%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6OWTh12f8gmZ8uo4O2rE5TPKvzc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rf1GLwpT0LU20DDFROHBAz8SHI3.jpg</fanart>
+    <plot>When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship.</plot>
+  </movie>
+
+  <movie>
+    <title>Uri The Surgical Strike</title>
+    <year>2019</year>
+    <genre>Action, Drama, War</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Uri%20The%20Surgical%20Strike%20(2019)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yNySAgpAnWmPpYinim9E0tUzJWG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/byB5eBTQepTAaAYHq5QbLLU9iTS.jpg</fanart>
+    <plot>Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.</plot>
+  </movie>
+
+  <movie>
+    <title>X Ray The Inner Image</title>
+    <year>2019</year>
+    <genre>Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/X%20Ray%20The%20Inner%20Image%20(2019)%20720p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dNX2Baf4kwyhyj9W8ehitMDBGBN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9wW8SOosfDdbfWWahGdwJ4wEe8H.jpg</fanart>
+    <plot>This is the story of a young boy who faces emotional changes and dilemmas and the repercussions of the same. Vishal and his family stays together at a house located on the outskirts of the city as his father loves to live amid st nature and away from city hustles. One evening the family had to go to a family marriage and Vishal decided to miss the function and stay at home and have his own leisure time - Sometime later after the rest of family had left for the function Vishal hears a banging on the Bungalow gate. Cursing the guard who was on leave that day he goes out to check. He finds a young beautiful girl name Yashi at the gate asking for help as her car was not starting. He offered her to stay at her place as it was late at night and there would be no mechanic available. after much discussion and starting of rains, Yashi decides to accept Vishal's offer. As it had started Raining with the wind. Both got drenched and Vishal got awestruck with Yashi'S beauty and body.</plot>
+  </movie>
+
+  <movie>
+    <title>Zindagi Na Milegi Dobara</title>
+    <year>2011</year>
+    <genre>Drama, Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Zindagi%20Na%20Milegi%20Dobara%20(2011)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hKO9O715wYxjkQSEv47giCYcyO8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg</fanart>
+    <plot>Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?</plot>
+  </movie>
+
+  <movie>
+    <title>404 Error Not Found</title>
+    <year>2011</year>
+    <genre>Drama, Mystery, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/404%20Error%20Not%20Found%20(2011)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1B1jyibEUknWeeoUc5OpsitQyAO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zYTUdAeUwHZLFqZXvMLhd1oOszh.jpg</fanart>
+    <plot>A brilliant student starts hallucinating after moving into a room that was occupied by another who committed suicide.</plot>
+  </movie>
+
+  <movie>
+    <title>Ammaa Ki Boli</title>
+    <year>2019</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Ammaa%20Ki%20Boli%20(2019)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wBLZ0ZPTYLnbSdJLPefJqr2WGfB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/wBLZ0ZPTYLnbSdJLPefJqr2WGfB.jpg</fanart>
+    <plot>Ammaa Ki Boli is a comical genre movie directed by Narayan Chauhan and produced by Mukesh Chaudhary under the banner of Street Act Production. The story revolves around an old-aged husbandless mother, her 5 grown-up children’s and a second-rate two-seater scooter. The movie features Faruk Zafar as Ammaa in lead role, following with Priyal Patil, Govind Namdev, Sitaram Panchal, Sanjay Mishra, Hrishita Bhatt, Zakir Hussain Actor, Ishtiaq Khan, Shekhar Singh and others in their respective important roles</plot>
+  </movie>
+
+  <movie>
+    <title>Antenna</title>
+    <year>2021</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Antenna%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kxKReW5IBvxE9kMLVfV4ylSA4aC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/kxKReW5IBvxE9kMLVfV4ylSA4aC.jpg</fanart>
+    <plot>Two kids who are on a mission earn some money to buy an TV antenna in order to watch a famous show. A parallel track of theee young spoiled theives interweaves the stories and their journey goes through some Un predictable twists</plot>
+  </movie>
+
+  <movie>
+    <title>Baa Baaa Black Sheep</title>
+    <year>2018</year>
+    <genre>Action, Comedy, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Baa%20Baaa%20Black%20Sheep%20(2018)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4YPaN7EiaLreQJATcUimCNlUS9j.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/4YPaN7EiaLreQJATcUimCNlUS9j.jpg</fanart>
+    <plot>The world turns upside down for Baba on his 25th birthday, when he learns that his apparently boring father is in fact a dreaded hitman, and that his family has made a tradition out of this morbid business for the past 12 generations! Now, the time has come for Baba to take over as the 13th. And as if all of this is not enough, there is the strange case of the love interest with her own secrets, a stolen Renoir painting and prowling contract killers. The plot thickens, but is Baba ready for the mayhem that's about to ensue!?</plot>
+  </movie>
+
+  <movie>
+    <title>12 12</title>
+    <year>2021</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Barah%20By%20Barah%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/x4M4klvHyCu5WmNNoA08wF0AbOw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/x4M4klvHyCu5WmNNoA08wF0AbOw.jpg</fanart>
+    <plot>A photographer who clicks the last photographs' of the dead at Varanasi's Manikarnika ghat goes on a journey through the periphery of the circle of life and death only to discover that his own death will be documented by his son through his old camera.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhaag Milkha Bhaag</title>
+    <year>2013</year>
+    <genre>History, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Bhaag%20Milkha%20Bhaag%20(2013)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bXywc0CEzS1fIshPWWi4V8A58U3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/eryhpwnyvEWnsDapQ9jwbam8itA.jpg</fanart>
+    <plot>The true story of the "Flying Sikh" world champion runner and Olympian Milkha Singh who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhuj The Pride of India</title>
+    <year>2021</year>
+    <genre>War, History, Action, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Bhuj%20The%20Pride%20of%20India%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zc0OzUOF8B4x4AH4bubxw0mHCnF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/Aoq4QMrrBJcFt6WQcwj6px2LXQp.jpg</fanart>
+    <plot>Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of the IAF Squadron Leader Vijay Karnik, and his bravery, patriotism and determination.</plot>
+  </movie>
+
+  <movie>
+    <title>Blackout</title>
+    <year>2024</year>
+    <genre>Comedy, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Blackout%20(2024)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3na9yLIz6j2Q44dzMEHWeSDg4Ef.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wZpQkvbhNPFaQUnnf4n75x4ugiq.jpg</fanart>
+    <plot>Lenny, a crime reporter, makes a life-altering choice to pocket a case of stolen jewels to transform his mundane life. However, his good fortune takes a turn for the worse when he gets entangled with a big gangster. How will he get out of this mess?</plot>
+  </movie>
+
+  <movie>
+    <title>Chamku</title>
+    <year>2008</year>
+    <genre>Action, Crime, Romance, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Chamku%20(2008)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Ocmh616FKgnnOEK51bPXwf5qYP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5FWejv9onUQZw5S2mxYpwr4boFI.jpg</fanart>
+    <plot>A traumatized child becomes a political activist but agrees to become an assassin upon being captured.</plot>
+  </movie>
+
+  <movie>
+    <title>Double Dhamaal</title>
+    <year>2011</year>
+    <genre>Comedy, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Double%20Dhamaal%20(2011)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ysGYrjeAdIXZULLVdGzwliqGHyU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/l2j2o5pD10i7sU5ZuQkjvhYa4Cb.jpg</fanart>
+    <plot>Four slackers decide to avenge their humiliation at the hands of a con-man.</plot>
+  </movie>
+
+  <movie>
+    <title>Go Goa Gone</title>
+    <year>2013</year>
+    <genre>Comedy, Horror</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Go%20Goa%20Gone%20(2013)%20720p%20HDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pyaAYAifrZ1jAfbdunSAiK0QbKs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tw2ujWwgZMKt1IqzayqCmnODJvi.jpg</fanart>
+    <plot>A rave party off the coast of Goa goes horrifyingly and hilariously wrong when the island is overrun with zombies.</plot>
+  </movie>
+
+  <movie>
+    <title>Gulabo Sitabo</title>
+    <year>2020</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Gulabo%20Sitabo%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6ABuPqPqRv2iSDyLf9KJrLoNV2A.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ae1vyvzNIjhkSuwswAaHvwfvwpp.jpg</fanart>
+    <plot>Set in present-day Lucknow, Gulabo Sitabo is a social satire about two impossibly peculiar human beings, Mirza Chunnan Nawab, who stays in a dilapidated mansion and one of the tenants, Bankey Rastogi.</plot>
+  </movie>
+
+  <movie>
+    <title>Hacked</title>
+    <year>2020</year>
+    <genre>Horror</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Hacked%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kiBvdTtFpTjeVZXDW4nSKav6tag.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/kiBvdTtFpTjeVZXDW4nSKav6tag.jpg</fanart>
+    <plot>Michael and Darren have a very successful true crime podcast. But when trying to get one of their biggest guests yet turns into a bizarre obsession for Michael, the lines between nightmare and reality begin to blur.</plot>
+  </movie>
+
+  <movie>
+    <title>Harami</title>
+    <year>2020</year>
+    <genre>Drama, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Harami%20(2020)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/702iVy8Iyoa7oPPf1Y21jpHJdWH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/702iVy8Iyoa7oPPf1Y21jpHJdWH.jpg</fanart>
+    <plot>A couple visits a resort for their honeymoon. The wife is not happy with the husband as he is unable to give pleasure to her. Two friends who were in the same resort plans to have sex with the wife. They successfully lure the wife to their room after having drinks with the couple. Next morning the wife is shocked after seeing the video of her with the boys.</plot>
+  </movie>
+
+  <movie>
+    <title>I Am Kalam</title>
+    <year>2010</year>
+    <genre>Comedy, Drama, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/I%20Am%20Kalam%20(2010)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zCl7XBbx8MfPFngcREwGH35J4yo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/x9u1DZh2z2MiLvAKlVu5UPrbwEg.jpg</fanart>
+    <plot>The film celebrates the survival of the human spirit against overwhelming odds and highlights the need for underprivileged children's education. Its a film based on former indian president A.P.J. Abdul Kalam and is aimed at inspiring the poor to educate their children. Written by DaGambit Chhotu's peasant village is ruined by drought, so his ma drops the boy with uncle Bhati, who runs a tea stand at the city outskirts. Clever Chottu, who calls himself Kalam after the self-made Indian president, soon outsmarts uncle's adult assistant and makes friends with the loneliest boy in the palace, now a hotel, a prince his age.</plot>
+  </movie>
+
+  <movie>
+    <title>Jai Mummy Di</title>
+    <year>2020</year>
+    <genre>Comedy, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Jai%20Mummy%20Di%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/thLbG17dOd8s4toz9ksgsXXrooR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qiSBlTNUGzO6CoOveG0x4pLdQMD.jpg</fanart>
+    <plot>A couple undergo the trials and tribulations of getting married due to the crazy dynamics of their respective mothers.</plot>
+  </movie>
+  
+  <movie>
+    <title>Kanjoos Makhichoos</title>
+    <year>2023</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Kanjoos%20Makhichoos%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sT02AqTJjztmM6gYe5O0IL0CnqT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tK6rVybRWoJTqGUYb9BeBKnG3Y5.jpg</fanart>
+    <plot>Jamnaprasad, a renowned miser, secretly saves all his money to fulfill his father's wish to go on the Char Dham Yatra. Hell breaks loose when his parents go missing during the tour due to heavy floods.</plot>
+  </movie>
+
+  <movie>
+    <title>Kaushaljis vs Kaushal</title>
+    <year>2025</year>
+    <genre>Comedy, Drama, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Kaushaljis%20Vs%20Kaushal%20(2025)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ulr4CICHijcXZaeS4M7KupyCu0x.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/r6sKI2rJt7mXbETyRIb0z47AZtg.jpg</fanart>
+    <plot>Yug Kaushal, a 27-year-old, leaves behind his small-town roots in Kannauj and moves to Delhi. Always cribbing about his parent not adapting to the modern lifestyle and more urban way of living their life, Yug gets the shock of his life when the senior Kaushals consider mutual separation as the situation spirals into chaos.</plot>
+  </movie>
+
+  <movie>
+    <title>Mohenjo Daro</title>
+    <year>2016</year>
+    <genre>Adventure, Drama, History, Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Mohenjo%20Daro%20(2016)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3k4ESzzPCQHwjPYJoI489Fk2jZc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yy8mUwnQOXXH4slJfZl5fhRO46q.jpg</fanart>
+    <plot>During the Indus valley civilization, an Indigo farmer strives for the justice and protection of the city of Mohenjo-Daro and its civilians from an evil politician.</plot>
+  </movie>
+
+  <movie>
+    <title>Naughty 40</title>
+    <year>2011</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Naughty%2040%20(2011)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mwKGjpYXFUfIjwCJE1Ranpxnu8f.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hU0uPMwuhwZRHd7pZinODUJ9Rtc.jpg</fanart>
+    <plot>Laxminarayan Kapoor lives a wealthy lifestyle in London along with his religious wife, Maya; son Ravinder; and two nephews, Sandeep and Randeep. While the nephews have adapted themselves to the country and women, Ravinder is still a virgin at 40, and is a sleep-walker. After getting his leg pulled constantly, he asks his father to get him married, and is introduced to a statuesque beauty - who rejects him after discovering his sleep-walking disorder. His parents then get him married to Gauri, and he hopes to end his celibacy, in vain albeit, as she turns out to be child-like and naive. Frustrated, unable to get intimate he befriends a Caucasian female, Sharon, and decides to marry her. Watch what response he gets, and the impact this has on everyone.</plot>
+  </movie>
+
+  <movie>
+    <title>Ramprasad Ki Tehrvi</title>
+    <year>2021</year>
+    <genre>Drama, Family, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Ramprasad%20Ki%20Tehrvi%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/isiZRJmqQ0Wu7ELJrBdqD8P2HI6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kPGDJMDlOaIyFWTjcxVScWQolMl.jpg</fanart>
+    <plot>Ramprasad's entire family gathers under one roof for 13 days after his death, to perform and observe the Hindu traditions and rituals called the tehrvi. During the course, the family’s dynamics, politics, and insecurities come out, and then they realise that the importance of people and things are only evident in retrospect.</plot>
+  </movie>
+
+  <movie>
+    <title>Relatively Relatable by Naveen Richard</title>
+    <year>2020</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Relatively%20Relatable%20by%20Naveen%20Richard%20(2020)%201080p%20WEBRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/odME7ImoctpMdNMyxt33hQWRXWK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1xeibLI8Hg4CCZMuIGFep5IbWpl.jpg</fanart>
+    <plot>Fridges, birthday parties and cockroach baba cults. In his latest special, Naveen Richard brings together some tasty observational comedy that has proven to be relatable 9 out of 12 times.</plot>
+  </movie>
+
+  <movie>
+    <title>Roohi</title>
+    <year>2021</year>
+    <genre>Horror, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Roohi%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/j00W4Y5ynvFpjPa53UC1JULBZbc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tctSp3V05bCspn3s0JSZB16kmeZ.jpg</fanart>
+    <plot>In a fictional North Indian town, two boys Bhaura and Kattanni are stuck in a forest with Roohi. But there’s an insidious spirit following them with feet turned backwards.</plot>
+  </movie>
+
+  <movie>
+    <title>Salaam Namaste</title>
+    <year>2005</year>
+    <genre>Comedy, Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Salaam%20Namaste%20(2005)%20720p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wL1lm92Da9R7VEPXD0ZCSt1kuUd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2qNCO8uKCSJl3ELWpRQcZHCM7cF.jpg</fanart>
+    <plot>Salaam Namaste is about two Indians who have left their houses to make a life on their own, and how they meet and how they tackle their own relationships and problems and overcome them themselves without their families</plot>
+  </movie>
+
+  <movie>
+    <title>The Revolution Has Begun</title>
+    <year>2013</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Satyagraha%20(2013)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wJQh5a8KsnwajTqGzd4gt2akmQO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3WpyWUTp0kZxzmdQQTcQwSh3flO.jpg</fanart>
+    <plot>Satyagraha is the story of a son who yearns for a father. Of a father, who grieves for his lost son. Of a young woman who fights so hard with life that she has forgotten to love. Of an ambitious rabble-rouser, for whom action is the knee-jerk mantra. It is the story of how these four discover one another, and come together to raise hell, shaking the powers that be to their very roots! But, Satyagraha is also the story of an influential power-hungry despot who will stop at nothing to destroy them.</plot>
+  </movie>
+
+  <movie>
+    <title>Shershaah</title>
+    <year>2021</year>
+    <genre>Action, Drama, Thriller, War</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Shershaah%20(2021)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/AguDwIJdqUFEUXlmXyixotE0WnT.jpg</fanart>
+    <plot>Inspired by the life of Captain Vikram Batra (PVC), the film celebrates his bravery, valiant spirit and honors his invaluable sacrifice during the Kargil War of 1999, at the age of 24.</plot>
+  </movie>
+
+  <movie>
+    <title>Suraj Pe Mangal Bhari</title>
+    <year>2020</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Suraj%20Pe%20Mangal%20Bhari%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mbwcuXBp554Ef6s9aFE1x5Wq1pV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/68HpzRudbHeWwYSuy52gxo15Czf.jpg</fanart>
+    <plot>In the 1990s, a wedding detective has to perform background checks on prospective grooms. In the time before social media and mobile phones, everything has to be done in person.</plot>
+  </movie>
+
+  <movie>
+    <title>Table No 21</title>
+    <year>2013</year>
+    <genre>Adventure, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Table%20No%2021%20(2013)%20720p%20DVDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/2ScQShddKVoFz4LRnjKJprmRepZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3uEGOYV7wFf2aWeyV3IMFgKyfAv.jpg</fanart>
+    <plot>A couple live a mediocre life and are thrilled to have won an exotic vacation to Fiji &amp; their excitement increases when they get a chance to play "Tell all truth" game for a mind boggling prize money. The game begins and the couple discovers that the game isn't really a game, but is a game of survival.</plot>
+  </movie>
+
+  <movie>
+    <title>Teri Baaton Mein Aisa Uljha Jiya</title>
+    <year>2024</year>
+    <genre>Romance, Comedy, Science Fiction</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20(2024)%20720p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vwsBpnwmMO0xtIgxvCrViJgZhVj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/grsqPFaIOnOERVrDykdcvzjOq4t.jpg</fanart>
+    <plot>A robotics engineer searching for his perfect partner finds himself falling in love with a human-like android.</plot>
+  </movie>
+
+  <movie>
+    <title>Thappad</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Thappad%20(2020)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nSOgDTClgfbIOBgv4Itf3GSEkWA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/4CGBZuEfG2VmxDb2mNtQdHwPurq.jpg</fanart>
+    <plot>A young woman's life is shattered into pieces when her husband slaps her at a party, causing her to question what this relationship stands for.</plot>
+  </movie>
+
+  <movie>
+    <title>The Green Force</title>
+    <year>2021</year>
+    <genre>Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/The%20Green%20Force%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/l2TWB9dqxlcRgG4JJDa4BYiBAOQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/l2TWB9dqxlcRgG4JJDa4BYiBAOQ.jpg</fanart>
+    <plot>Ex-army chief created a secret Force to save the nation from Terror attacks. GREEN FORCE is an unofficial team of Patriots which fight against every terrorist activities.</plot>
+  </movie>
+
+  <movie>
+    <title>The Hidden Strike</title>
+    <year>2020</year>
+    <genre>War, Action</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/The%20Hidden%20Strike%20(2020)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7QjUlCH4gaTSpacDYChVT0kvy83.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9w1W6lxcYU5iHOHaOGhBoJyGd2A.jpg</fanart>
+    <plot>The Hidden Strike is a fictional movie about a ground mission where a team of thirteen Indian Army officers and soldiers went across POK and destroyed the terrorist camp with a planned sub tactical strike. The film is dedicated to India soldiers and their families. The film shows what price our freedom fighters pay for the safety of our country. The Hidden Strike also highlights issues that the Indian Army faces from certain groups of people from the valley.  —Suzad Iqbal Khan</plot>
+  </movie>
+
+  <movie>
+    <title>The Mehta Boys</title>
+    <year>2024</year>
+    <genre>Comedy, Drama, Family</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/The%20Mehta%20Boys%20(2024)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ezZWkcI8FOQmJj6aPAADV7dg12.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nmQAWG0F3pmRPnHjkVAEdSuV9eI.jpg</fanart>
+    <plot>After the loss of his mother, Amay, a struggling young architect is forced to live for 48 hours with the one person he cannot stand, his father. It seems like a recipe for disaster. Wrong! It's much worse. Will the young architect crumble or will this bumpy ride help him rebuild his relationship with his crabby old man?</plot>
+  </movie>
+
+  <movie>
+    <title>Torbaaz</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Torbaaz%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yj44DlUalvtEKXI9Py6Xz8WypBZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rRGkK8DE5tl53LGW8nB7L4MzWj2.jpg</fanart>
+    <plot>At an Afghanistan refugee camp, an ex-army doctor seeks to bring children joy through cricket and soon realizes that the stakes go beyond the sport.</plot>
+  </movie>
+
+  <movie>
+    <title>Virgin Bhanupriya</title>
+    <year>2020</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Virgin%20Bhanupriya%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cbPHqUpeHcHwVZkb4Jtqhv6dPJ9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/26yXlqfkTsFrgl9lf286jDYwADU.jpg</fanart>
+    <plot>Bhanupriya, a conservative girl decides to lose her virginity but fails in her every attempt. A soothsayer predicts that it is an impossible task and it will not happen to her. She decides to overcome this bad luck.</plot>
+  </movie>
+
+  <movie>
+    <title>Waah Tera Kya Kehna</title>
+    <year>2002</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Waah%20Tera%20Kya%20Kehna%20(2002)%201080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/GHC59GC4iiEMF28VTsTugPVNaw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/op5AFgFmSkJ8S2qvEXonhf11EmU.jpg</fanart>
+    <plot>Kishan Oberoi has three sons - Dilip, Ashish, and Raj. While Dilip and Ashish are married, Raj (Govinda) is in love with Meena. Kishan does not trust his two elder sons, but trusts Raj, and Raj in turn, is devoted to his dad. One day Raj loses his mind in an accident, and the two elder brothers begin a conspiracy that includes the death of their dad, and the disinheritance of their brother Raj, by declaring him mentally incompetent. Raj mysteriously disappears, and Kishan falls off a building; Murari, a greedy employee of the Oberoi family, brings in a look-alike of Raj, namely Banne Khan (also Govinda), and his wife, Salma Khan, who poses as his nurse, so that Banne Khan and Murari both rule over the Oberoi family, and reap the benefits.</plot>
+  </movie>
+
+  <movie>
+    <title>Wedding Anniversary</title>
+    <year>2017</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Wedding%20Anniversary%20(2017)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pt89sa2AvfVwHRwxCnRhmKp4ZI6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/e8oCvafEbkS88SIab8yqV8Vu9FQ.jpg</fanart>
+    <plot>Kahani met her Prince Charming Nirbhay in Goa for the first time and fell in love. So far their journey together has been excellent and today is their first wedding anniversary.</plot>
+  </movie>
+
+  <movie>
+    <title>Welcome to Sajjanpur</title>
+    <year>2008</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Welcome%20to%20Sajjanpur%20(2008%20)1080p%20WEBRip.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9Q5fFvXPgPgaNaS0rWlpFaSwVeD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/9Q5fFvXPgPgaNaS0rWlpFaSwVeD.jpg</fanart>
+    <plot>Mahadev (Shreyas Talpade) is an unemployed graduate with a Bachelor of Arts from Satna college, who is forced to make a living writing letters for the uneducated people of his village. His real ambition is to become a novel writer. Through his humble occupation, Mahadev has the potential to impact numerous lives. The movie is a satirical, but warm-hearted portrait of life in rural India.</plot>
+  </movie>
 </movies>
