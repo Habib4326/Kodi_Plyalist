@@ -23,7 +23,7 @@
   <movie>
     <title>Aakhet</title>
     <year>2021</year>
-    <genre>Unknown</genre>
+    <genre>Drama</genre>
     <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Aakhet%20(2021)%201080p%20WEBDL.mkv</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -131,16 +131,6 @@
   </movie>
 
   <movie>
-    <title>Chaloo Movie</title>
-    <year>2013</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chaloo%20Movie%20(2013)%20720p%20HDRip.mkv</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <plot>No plot available.</plot>
-  </movie>
-
-  <movie>
     <title>Chatur Singh Two Star</title>
     <year>2011</year>
     <genre>Action, Adventure, Comedy</genre>
@@ -163,7 +153,7 @@
   <movie>
     <title>Dance Dosti Aur Ishqool</title>
     <year>2015</year>
-    <genre>Unknown</genre>
+    <genre>Romance</genre>
     <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Dance%20Dosti%20Aur%20Ishqool%20(2015)%201080p%20WEBDL.mp4</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</fanart>
@@ -178,16 +168,6 @@
     <thumbnail>https://image.tmdb.org/t/p/w500/uYevwq0VLai27AvODudalXzE6HM.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/rSnxS2TGIFGomQ0H9Ji6LVRF0mw.jpg</fanart>
     <plot>Sweety has to contend with her over-enthusiastic family that wants her to get married but the ultimate truth is that her love might not find acceptance in her family and society.</plot>
-  </movie>
-
-  <movie>
-    <title>Firaaq</title>
-    <year>2008</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Firaaq%20(2008)%201080p%20WEBDL.mp4</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <plot>No plot available.</plot>
   </movie>
 
   <movie>
@@ -271,7 +251,7 @@
   </movie>
 
   <movie>
-    <title>Cursed Spiritual Infection: I Am Possessed - 24-Year-Old Office Lady Yuki's Case</title>
+    <title>Cursed Spiritual Infection I Am Possessed</title>
     <year></year>
     <genre>Horror</genre>
     <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/I%20Am%2024%201080p%20WEBDL.mkv</link>
@@ -288,16 +268,6 @@
     <thumbnail>https://image.tmdb.org/t/p/w500/zohBOXIinteJL6ABfZchvcFA6h8.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/zohBOXIinteJL6ABfZchvcFA6h8.jpg</fanart>
     <plot>The Film brings to its viewers, a hitherto unseen and unheard narrative of one of the greatest musicians the world has ever known: A. R. Rahman</plot>
-  </movie>
-
-  <movie>
-    <title>Jai Jawaan Jai Kisaan</title>
-    <year>2015</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Jai%20Jawaan%20Jai%20Kisaan%20(2015)%201080p%20WEBDL.mkv</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/rvMeOtIQDrfltA5X2vh3MwNL5PZ.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w500/rvMeOtIQDrfltA5X2vh3MwNL5PZ.jpg</fanart>
-    <plot>Jai Jawaan Jai Kisaan is a journey about Lal Bahadur Shashtri's glorious life. The movie begins with the various freedom fights in the country during the pre-independence era. A time where two groups ( Garam Dal and Naram Dal) had waged a war against Britishers with different set of ideologies. It was under the leadership of Gandhi ji that Naram Dal took on the Britishers and led a peaceful march towards independence. Lal Bahadur Shastri was a prominent personality in this group and has a huge role to play in the history of India's independence. However this dynamic leader had his own story to deal with during the initial phase of his life. A low economic background, untimely death of his father and a mother to look after...these were just some of the problems that gave Lal Bahadur Shashtri a direction in life.</plot>
   </movie>
 
   <movie>
@@ -323,10 +293,10 @@
   <movie>
     <title>Logout</title>
     <year>2024</year>
-    <genre>Unknown</genre>
+    <genre>Thriller</genre>
     <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Logout%20(2024)%201080p%20WEBRip.mp4</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+    <thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_bestv2/iBM6DqjVbuY5y44d96mb9QVcAqr.jpg</thumbnail>
+    <fanart>https://media.themoviedb.org/t/p/w260_and_h390_bestv2/iBM6DqjVbuY5y44d96mb9QVcAqr.jpg</fanart>
     <plot>No plot available.</plot>
   </movie>
 
@@ -431,16 +401,6 @@
   </movie>
 
   <movie>
-    <title>Run</title>
-    <year>2004</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Run%20(2004)%201080p%20WEBDL.mp4</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/qCE7mktMbGb6o6y5QJPg6bDMcpR.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/qC9fnFGR4twnOoxtVShqRzdhMj5.jpg</fanart>
-    <plot>This action movie is filled with romance and adventure. As Abhisek fights for his life against the forces of crime and injustice, he meets Bhoomika, who captures his heart.</plot>
-  </movie>
-
-  <movie>
     <title>Sardar Udham</title>
     <year>2021</year>
     <genre>Crime, Drama, History</genre>
@@ -533,7 +493,7 @@
   <movie>
     <title>Yeh Shaadi Nahi Ho Sakti</title>
     <year>2023</year>
-    <genre>Unknown</genre>
+    <genre>Comedy</genre>
     <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023)%201080p%20WEBDL.mp4</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/i9IYAo3cnrUa7ZWRVd6reTFFP0F.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/i9IYAo3cnrUa7ZWRVd6reTFFP0F.jpg</fanart>
@@ -611,16 +571,6 @@
   </movie>
 
   <movie>
-    <title>Balcony Buddies</title>
-    <year>2021</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Balcony%20Buddies%20(2021)%201080p%20WEBDL.mp4</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <plot>No plot available.</plot>
-  </movie>
-
-  <movie>
     <title>Band Baaja Baaraat</title>
     <year>2010</year>
     <genre>Comedy, Drama, Romance</genre>
@@ -650,26 +600,7 @@
     <plot>Buddhadev Gupta, a 64-year-old chef, falls in love with a 34-year-old software engineer, Nina. However, their future becomes uncertain when he discovers that her father is six years his junior.</plot>
   </movie>
 
-  <movie>
-    <title>Cinemaa Zindabad</title>
-    <year>2022</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Cinemaa%20Zindabad%20(2022)%201080p%20WEBDL.mp4</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <plot>No plot available.</plot>
-  </movie>
-
-  <movie>
-    <title>Hurula - Live at Cirkus</title>
-    <year>2022</year>
-    <genre>Music</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Cirkus%20(2022)%201080p%20WEBDL.mp4</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/fo6JCzSuyxtp9oZ8qIHyEdHAAYq.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w500/fo6JCzSuyxtp9oZ8qIHyEdHAAYq.jpg</fanart>
-    <plot>What sounds fantastic on record is, if possible, even better live, which the Swedish rock artist Hurula proves in this vibrant concert recorded at Cirkus in Stockholm on March 9, 2022.</plot>
-  </movie>
-
+  
   <movie>
     <title>Club 60</title>
     <year>2013</year>
@@ -677,7 +608,7 @@
     <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Club%2060%20(2013)%20720p%20HDRip.mkv</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/zpqYKKFHCKaqj1WAgC5POfJuq1T.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w500/zpqYKKFHCKaqj1WAgC5POfJuq1T.jpg</fanart>
-    <plot>CLUB 60 is about Letting Go after spending the required time in grieving for the loss of a loved one. But what is the required time-frame to grieve? And is it right to always stay in a grieving position? What about the people around you, who are also hurting because of your grieving? And does grieving endlessly really help the one who is gone away?  Club 60 is also about embracing life, post 60.</plot>
+    <plot>CLUB 60 is about Letting Go after spending the required time in grieving for the loss of a loved one. But what is the required time-frame to grieve? And is it right to always stay in a grieving position? What about the people around you, who are also hurting because of your grieing? And does grieving endlessly really help the one who is gone away?  Club 60 is also about embracing life, post 60.</plot>
   </movie>
 
   <movie>
@@ -1021,7 +952,7 @@
   </movie>
 
   <movie>
-    <title>Toilet: A Love Story</title>
+    <title>Toilet A Love Story</title>
     <year>2017</year>
     <genre>Comedy, Drama, Romance</genre>
     <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Toilet%20Ek%20Prem%20Katha%20(2017)%201080p%20BluRay.mp4</link>
@@ -1040,16 +971,7 @@
     <plot>Four women from Delhi, NCR and Gurgaon, tired of dealing with the incessant fear or rape, decide to teach one man how it feels to be afraid of being raped, on a daily basis.</plot>
   </movie>
 
-  <movie>
-    <title>Track The Mystery</title>
-    <year>2021</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Track%20The%20Mystery%20(2021)%201080p%20WEBDL.mp4</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/mV2PJoTJSD8s2vrpcqQRqksfvSg.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/nzgikYwlT75TatloXSoWVtOHTgQ.jpg</fanart>
-    <plot>Bored of their lives, a group of four friends visits a hill station in search of adventure. All goes well till one of them mysteriously goes missing and the law enforcement gets involved.</plot>
-  </movie>
-
+  
   <movie>
     <title>Wazir</title>
     <year>2016</year>
@@ -1060,15 +982,6 @@
     <plot>'Wazir' is a tale of two unlikely friends, a wheelchair-bound chess grandmaster and a brave ATS officer. Brought together by grief and a strange twist of fate, the two men decide to help each other win the biggest games of their lives. But there's a mysterious, dangerous opponent lurking in the shadows, who is all set to checkmate them.</plot>
   </movie>
 
-  <movie>
-    <title>Wrong Leela</title>
-    <year>2021</year>
-    <genre>Unknown</genre>
-    <link>http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Wrong%20Leela%20(2021)%201080p%20WEBDL.mp4</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/jPGVpYwhhtfTVZMREXeZZV3XZOj.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w500/jPGVpYwhhtfTVZMREXeZZV3XZOj.jpg</fanart>
-    <plot>Neil, a young aspiring actor, struggles to find an apartment and a job in Mumbai. He pays a casting agent to live with him in his house along with another crazed flatmate named Tiwari. Tiwari has installed CCTV cameras in the entire apartment. When money crunch threatens to make him go homeless, Neil hacks the CCTV footage, creates uncomfortable situations in the house, and uploads the reactions of his flatmates on a YouTube channel. As the videos go viral, Neil's life starts getting increasingly complicated.</plot>
-  </movie>
 
   <movie>
     <title>Yodha</title>
