@@ -1,3 +1,112 @@
   <movies>
+    <movie>
+    <title>Attack</title>
+    <year>2022</year>
+    <genre>Action, Science Fiction, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Attack%20Part%201%20(2022)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6DqNe4jKvWyQZjlRi9FaCzgMxyx.jpg</fanart>
+    <plot>With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi.</plot>
+  </movie>
+
+  <movie>
+    <title>Baaghi 3</title>
+    <year>2020</year>
+    <genre>Action, Adventure, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Baaghi%203%20(2020)%20720p%20PreDVDRip.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nQV1lkgGn0FhqDeDr4b8VLhn1ow.jpg</fanart>
+    <plot>A man embarks on a bloody rampage to save his kidnapped brother.</plot>
+  </movie>
+
+  <movie>
+    <title>Bade Miyan Chote Miyan</title>
+    <year>2024</year>
+    <genre>Action, Science Fiction, Thriller</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bade%20Miyan%20Chote%20Miyan%20(2024)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg</fanart>
+    <plot>Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked madman threatens India's defenses.</plot>
+  </movie>
+
+  <movie>
+    <title>Baghban</title>
+    <year>2003</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Baghban%20(2003)%201080p%20BluRay.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/Av1Xhf46oN2RHilKESzIXKNBrsU.jpg</fanart>
+    <plot>After dedicating their whole life in upbringing their children, elderly couple Raj Malhotra and Pooja gets homeless. Instead of caring, their children treat them as a burden.</plot>
+  </movie>
+
+  <movie>
+    <title>Bewakoofiyaan</title>
+    <year>2014</year>
+    <genre>Romance, Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bewakoofiyaan%20(2014)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/eniZIxK1INYbOQBeJWmv0IhKKOz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/apcSsPtWai4VqJrQHiBRN82E5pq.jpg</fanart>
+    <plot>A middle-class corporate couple doesn't worry about money and living expenses until the recession drains their finances.</plot>
+  </movie>
+
+  <movie>
+    <title>Bhanwarey</title>
+    <year>2017</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bhanwarey%20(2017)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/wAtHyXSSOamRI8StYcYZn6Uinuh.jpg</fanart>
+    <plot>Set in the late 90s in Delhi, Bhanwarey revolves around three friends and how they accidentally get involved in wrongdoings while trying to cure their sexual problem of premature ejaculation and to solve them and eventually get trapped between the law and a couple of gangster groups.</plot>
+  </movie>
+
+  <movie>
+    <title>Chatur Singh Two Star</title>
+    <year>2011</year>
+    <genre>Action, Adventure, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chatur%20Singh%20Two%20Star%20(2011)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ounPVh0WuskJE0Doy4txd4wEXQ7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/piCNFNjGjNiQzhbbyePvhTwpmLR.jpg</fanart>
+    <plot>Bumbling cop Chatur Singh is sent on a special mission to South Africa to solve a high profile case involving the murder of a politician and a cache of diamonds. But before he can redeem his botched up career he must deal with a bunch of loonies which include a crazy mafia don, a weird taxi driver, a hysterical boss and a pretty damsel in distress.</plot>
+  </movie>
+
+  <movie>
+    <title>Chintu Ka Birthday</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chintu%20Ka%20Birthday%20(2020)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/5LQwdKMHmgmxvqFnCruIlBYtMXN.jpg</fanart>
+    <plot>During US invasion of Iraq some illegal migrants are waiting to get back home to India. As one such family prepares to celebrate the 6th birthday of their youngest member Chintu, their kind-hearted Iraqi landlord lends them a helping hand.</plot>
+  </movie>
+
+  <movie>
+    <title>Dance Dosti Aur Ishqool</title>
+    <year>2015</year>
+    <genre>Romance</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Dance%20Dosti%20Aur%20Ishqool%20(2015)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/gxcuX4NBfA75XzX4MA7l2z8d1Fg.jpg</fanart>
+    <plot>Dance Dosti Aur Ishqool is a Hindi movie released on 24 July, 2015. The movie is directed by Raju Soni and featured Nayan Bhatt, Samarth Chaturvedi and Ramesh Goyal as lead characters. Other popular actors who were roped in for Dance Dosti Aur Ishqool are Asmita Joglekar and Sanjay Kanoujiya.</plot>
+  </movie>
+
+  <movie>
+    <title>Ek Ladki Ko Dekha Toh Aisa Laga</title>
+    <year>2019</year>
+    <genre>Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ek%20Ladki%20Ko%20Dekha%20Toh%20Aisa%20Laga%20(2019)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uYevwq0VLai27AvODudalXzE6HM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rSnxS2TGIFGomQ0H9Ji6LVRF0mw.jpg</fanart>
+    <plot>Sweety has to contend with her over-enthusiastic family that wants her to get married but the ultimate truth is that her love might not find acceptance in her family and society.</plot>
+  </movie>
+
+  <movie>
+    <title>Gang</title>
+    <year>2000</year>
+    <genre>Drama, Action, Crime</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Gang%20(2000)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/dYcuiiBDpPUvCcPbiWdH4REjGn3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/krEZg9tb6blhc7sV6Us2ZGQ0gA.jpg</fanart>
+    <plot>After falling prey to underworld, four friends jeopardise their personal lives with point of no return.</plot>
+  </movie>
     
 </movies>
