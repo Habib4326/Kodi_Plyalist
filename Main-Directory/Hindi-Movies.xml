@@ -1,4 +1,63 @@
 <movies>
+    <movie>
+    <title>420 IPC</title>
+    <year>2021</year>
+    <genre>Crime, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/420%20IPC%20(2021)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wJj4sG7R84Nhm88BtGM9BdMjvDu.jpg</fanart>
+    <plot>CA Keswani is arrested for bank fraud and forgery. Keswani hires Birbal, a lawyer, to fight his case. But Birbal realises that there's more to it than what meets the eye.</plot>
+  </movie>
+
+  <movie>
+    <title>ABCD American-Born Confused Desi</title>
+    <year>2013</year>
+    <genre>Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/ABCD%20(Any%20Body%20Can%20Dance)%20(2013)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/87iukoelBql5w3PIibajvcr7MTR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/87iukoelBql5w3PIibajvcr7MTR.jpg</fanart>
+    <plot>The story revolves around two spoiled youngsters, Jones and his cousin Korah and the turn of events during their vacation.</plot>
+  </movie>
+
+  <movie>
+    <title>Ae Dil Hai Mushkil</title>
+    <year>2016</year>
+    <genre>Romance, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ae%20Dil%20Hai%20Mushkil%20(2016)%201080p%20BluRay.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2wCaF36obO4LysX0m57h0BKxX27.jpg</fanart>
+    <plot>Ayan falls in love with his soulmate, Alizeh, but she doesn’t reciprocate the feeling. Later, a relationship with Saba helps him realize Alizeh’s value in his life, irrespective of their relationship status.</plot>
+  </movie>
+
+  <movie>
+    <title>Afwaah</title>
+    <year>2023</year>
+    <genre>Thriller, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Afwaah%20(2023)%201080p%20WEBDL.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/deBTwlgJ6vrup7zpCODofbebZGZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/sv7JscTpQv8K7XnRwnbKQsCP3N9.jpg</fanart>
+    <plot>A woman seeks to escape her engagement to a violent politician, but when a stranger comes to her aid, the two face an onslaught of bigotry and hate.</plot>
+  </movie>
+
+  <movie>
+    <title>Ahaan</title>
+    <year>2021</year>
+    <genre>Comedy, Drama</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ahaan%20(2021)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gMb3pKpXU3WXQpFjteynQDwctp2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/e8u5EVmgfB4A57TLlmIfo2mnM3c.jpg</fanart>
+    <plot>Jilted by his wife, a man with OCD finds eye-opening common ground and camaraderie with his neighbour, a young man with Down Syndrome.</plot>
+  </movie>
+
+  <movie>
+    <title>Angrezi Medium</title>
+    <year>2020</year>
+    <genre>Drama, Comedy</genre>
+    <link>http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Angrezi%20Medium%20(2020)%201080p%20WEBDL.mkv</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hT41Fi3NAqkPpNkWt7imaOtxGDP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xozT0Eq1I6bdMuT8nkxh4NCqJEc.jpg</fanart>
+    <plot>When his daughter decides to further her studies in London, a hardworking Haryanvi businessman does everything in power to make her dreams come true.</plot>
+  </movie>
     
   <movie>
     <title>Babloo! -Bachelor?</title>
