@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <!-- English Movies Category -->
+    <category>
+        <title>English Movies</title>
+        <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/English-Movies.xml</link>
+        <thumbnail>http://link.to/english_icon.png</thumbnail>
+    </category>
+
+    <!-- Hindi Movies Category -->
+    <category>
+        <title>Hindi Movies</title>
+        <!-- এখানে Hindi-Movies.xml এর GitHub Raw লিংক দিন -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Hindi-Movies.xml</link>
+        <thumbnail>http://link.to/hindi_icon.png</thumbnail>
+    </category>
+
+    <!-- Dubbed Movies Category -->
+    <category>
+        <title>Dubbed Movies</title>
+        <!-- এখানে Dubbed-Movies.xml এর GitHub Raw লিংক দিন -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Dubbed-Movies.xml</link>
+        <thumbnail>http://link.to/dubbed_icon.png</thumbnail>
+    </category>
+</categories>
