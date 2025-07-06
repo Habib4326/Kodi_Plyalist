@@ -21,13 +21,13 @@
         <title>Dubbed Movies</title>
         <!-- এখানে Dubbed-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Dubbed-Movies.xml</link>
-        <fanart>https://i.ibb.co/wNVptpwX/wp8176308-raaz-reboot-wallpapers-1.jpg</fanart>
+        <fanart>https://i.ibb.co/XZmst0JX/wp14473271-moana-2-movie-poster-wallpapers.jpg</fanart>
     </category>
     
     <!-- adults-videos Category -->
     <category>
         <title>adults-videos</title>
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/adults-videos.xml</link>
-        <fanart>https://i.ibb.co/RXd1h02/wp8176308-raaz-reboot-wallpapers.jpg</fanart>
+        <fanart>https://i.ibb.co/cXXYTp1W/fanart-8.jpg</fanart>
     </category>
 </categories>
