@@ -5,7 +5,7 @@
         <title>English Movies</title>
         <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/English-Movies.xml</link>
-        <thumbnail>http://link.to/english_icon.png</thumbnail>
+        <fanart>https://i.ibb.co/N6JbhwM5/wp6577360-the-maze-runner-poster-desktop-wallpapers.jpg</fanart>
     </category>
 
     <!-- Hindi Movies Category -->
@@ -13,7 +13,7 @@
         <title>Hindi Movies</title>
         <!-- এখানে Hindi-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Hindi-Movies.xml</link>
-        <thumbnail>http://link.to/hindi_icon.png</thumbnail>
+        <fanart>https://i.ibb.co/MypJG7K7/wp14648060-bhool-bhulaiyaa-3-wallpapers.jpg</fanart>
     </category>
 
     <!-- Dubbed Movies Category -->
@@ -21,6 +21,11 @@
         <title>Dubbed Movies</title>
         <!-- এখানে Dubbed-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Dubbed-Movies.xml</link>
-        <thumbnail>http://link.to/dubbed_icon.png</thumbnail>
+        <fanart>https://i.ibb.co/wNVptpwX/wp8176308-raaz-reboot-wallpapers-1.jpg</fanart>
     </category>
+    
+    <category>
+        <title>adults Hideout</title>
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/adults-videos.xml</link>
+        <fanart>https://i.ibb.co/RXd1h02/wp8176308-raaz-reboot-wallpapers.jpg</fanart>
 </categories>
