@@ -32,11 +32,7 @@
     </category>
     
     <!-- adults-videos Category -->
-    <category>
-        <title>adults-videos</title>
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/adults-videos.xml</link>
-        <fanart>https://i.ibb.co/cXXYTp1W/fanart-8.jpg</fanart>
-    </category>
+    
 
     <category>
         <title>Animation-Movies</title>
