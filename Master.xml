@@ -5,14 +5,16 @@
         <title>English Movies</title>
         <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/English-Movies.xml</link>
-        <fanart>https://i.ibb.co/N6JbhwM5/wp6577360-the-maze-runner-poster-desktop-wallpapers.jpg</fanart>
+        <thumbnail>https://i.postimg.cc/yxwTnzzN/file-00000000919061f8ac46a6a93caabdda.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
     </category>
 
     <category>
         <title>English Movies ICC</title>
         <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/English-movies.xml</link>
-        <fanart>https://i.ibb.co/N6JbhwM5/wp6577360-the-maze-runner-poster-desktop-wallpapers.jpg</fanart>
+        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
     </category>
 
     <!-- Hindi Movies Category -->
@@ -20,7 +22,8 @@
         <title>Hindi Movies</title>
         <!-- এখানে Hindi-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Hindi-Movies.xml</link>
-        <fanart>https://i.ibb.co/MypJG7K7/wp14648060-bhool-bhulaiyaa-3-wallpapers.jpg</fanart>
+        <thumbnail>https://i.postimg.cc/FFqGh0JQ/file-0000000098b861f88437615bfbac9740.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
     </category>
 
     <!-- Dubbed Movies Category -->
@@ -28,7 +31,8 @@
         <title>Dubbed Movies</title>
         <!-- এখানে Dubbed-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Dubbed-Movies.xml</link>
-        <fanart>https://i.ibb.co/XZmst0JX/wp14473271-moana-2-movie-poster-wallpapers.jpg</fanart>
+        <thumbnail>https://i.postimg.cc/nhfkDZkR/file-000000003d6461f7b5366f3428e13250.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
     </category>
     
     <!-- adults-videos Category -->
@@ -37,7 +41,8 @@
     <category>
         <title>Animation-Movies</title>
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/animation_movies.xml</link>
-        <fanart>http://10.1.1.1/data/Animation%20Movies/%282024%29/Moana%202%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+        <thumbnail>https://i.postimg.cc/yY3n2yB2/1752228977861.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
     </category>
     
 </categories>
