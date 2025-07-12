@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<content> <!-- অথবা <items>, এটি অ্যাডঅন ভেদে ভিন্ন হতে পারে -->
-
-    <!-- English Movies প্রধান ক্যাটাগরি -->
-    <item>
+<content>
+    <!-- আপনার বিদ্যমান অন্যান্য ক্যাটাগরি যেমন Hindi Movies, Animation Movies ইত্যাদি এখানে থাকবে -->
+    
+    <category>
         <title>English Movies</title>
-        <!-- এই লিঙ্কটি এমন একটি রিসোর্সে যাওয়া উচিত যা সাব-ক্যাটাগরিগুলো (যেমন 2025) লিস্ট করবে -->
-        <!-- অথবা, যদি অ্যাডঅন এই ফাইল থেকেই সাব-ক্যাটাগরিগুলো চিনতে পারে, তাহলে নিচের মতো স্ট্রাকচার ব্যবহার করা যেতে পারে -->
-        
-        <!-- এখানে সাব-ক্যাটাগরি হিসেবে 2025 যোগ করা হচ্ছে -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link> 
-        <!-- উপরের লিঙ্কটি একটি উদাহরণ। এটি আপনার নির্দিষ্ট প্লাগইন কিভাবে সাব-ক্যাটাগরি বা বছর দিয়ে ফিল্টার করে তার উপর নির্ভর করবে। -->
-        <!-- যদি item.xml সরাসরি ব্যবহার করতে চান এবং ফিল্টারিং অন্যভাবে হয়: -->
-        <!-- <link>https://raw.githubusercontent.com/Habib4326/Kodi_Piyalist/refs/heads/main/item.xml</link> -->
-        
-        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail> <!-- সম্ভবত ফোল্ডারের আইকন -->
-        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
-        
-        <!-- যদি অ্যাডঅন একই ফাইলে সাব-ক্যাটাগরি লিস্ট সাপোর্ট করে -->
-        <!-- <subcategories> -->
-            <!-- <item> -->
-                <!-- <title>2025</title> -->
-                <!-- <link>https://raw.githubusercontent.com/Habib4326/Kodi_Piyalist/refs/heads/main/item.xml?year=2025</link> -->
-                <!-- <thumbnail>...</thumbnail> -->
-                <!-- <fanart>...</fanart> -->
-            <!-- </item> -->
-        <!-- </subcategories> -->
-    </item>
+        <!-- এই লিঙ্কটি english_movies_menu.xml ফাইলকে নির্দেশ করছে, যেখানে বছরের সাব-ক্যাটাগরি থাকবে -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Piyalist/refs/heads/main/english_movies_menu.xml</link> 
+        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail> <!-- এটি একটি উদাহরণ থাম্বনেইল, প্রয়োজন অনুযায়ী পরিবর্তন করুন -->
+        <fanart>https://i.postimg.com/d0qj5BgG/fanart.jpg</fanart> <!-- এটি একটি উদাহরণ ফ্যানআর্ট, প্রয়োজন অনুযায়ী পরিবর্তন করুন -->
+    </category>
 
 </content>
-
-
-
-
-    
-
-
