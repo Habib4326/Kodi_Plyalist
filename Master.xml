@@ -2,6 +2,7 @@
 <categories>
     <!-- English Movies Category -->
     <category>
+        <item>2025</item>
         <title>English Movies</title>
         <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
         <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link>
