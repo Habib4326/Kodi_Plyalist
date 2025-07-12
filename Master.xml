@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <category>2025</category>
+        <title>English Movies</title>
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link>
+        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
+    </item>
+</items>
+
+
 <categories>
     <!-- English Movies Category -->
     <category>
