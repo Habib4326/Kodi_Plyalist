@@ -5,7 +5,7 @@
     <category>
         <title>English Movies</title>
         <!-- এই লিঙ্কটি english_movies_menu.xml ফাইলকে নির্দেশ করছে, যেখানে বছরের সাব-ক্যাটাগরি থাকবে -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Hindi-Movies.xml</link> 
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link> 
         <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail> <!-- এটি একটি উদাহরণ থাম্বনেইল, প্রয়োজন অনুযায়ী পরিবর্তন করুন -->
         <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart> <!-- এটি একটি উদাহরণ ফ্যানআর্ট, প্রয়োজন অনুযায়ী পরিবর্তন করুন -->
     </category>
