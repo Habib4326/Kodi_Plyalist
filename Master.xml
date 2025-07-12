@@ -4,7 +4,7 @@
     <category>
         <title>English Movies</title>
         <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/English-Movies.xml</link>
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link>
         <thumbnail>https://i.postimg.cc/yxwTnzzN/file-00000000919061f8ac46a6a93caabdda.png</thumbnail>
         <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
     </category>
