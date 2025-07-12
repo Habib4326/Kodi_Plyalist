@@ -1,52 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<content> <!-- অথবা <items>, এটি অ্যাডঅন ভেদে ভিন্ন হতে পারে -->
 
-<categories>
-    <!-- English Movies Category -->
-    <category>
-        <item>English</item>
-    <category>2025</category>
+    <!-- English Movies প্রধান ক্যাটাগরি -->
+    <item>
         <title>English Movies</title>
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link>
-        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail>
+        <!-- এই লিঙ্কটি এমন একটি রিসোর্সে যাওয়া উচিত যা সাব-ক্যাটাগরিগুলো (যেমন 2025) লিস্ট করবে -->
+        <!-- অথবা, যদি অ্যাডঅন এই ফাইল থেকেই সাব-ক্যাটাগরিগুলো চিনতে পারে, তাহলে নিচের মতো স্ট্রাকচার ব্যবহার করা যেতে পারে -->
+        
+        <!-- এখানে সাব-ক্যাটাগরি হিসেবে 2025 যোগ করা হচ্ছে -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link> 
+        <!-- উপরের লিঙ্কটি একটি উদাহরণ। এটি আপনার নির্দিষ্ট প্লাগইন কিভাবে সাব-ক্যাটাগরি বা বছর দিয়ে ফিল্টার করে তার উপর নির্ভর করবে। -->
+        <!-- যদি item.xml সরাসরি ব্যবহার করতে চান এবং ফিল্টারিং অন্যভাবে হয়: -->
+        <!-- <link>https://raw.githubusercontent.com/Habib4326/Kodi_Piyalist/refs/heads/main/item.xml</link> -->
+        
+        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail> <!-- সম্ভবত ফোল্ডারের আইকন -->
         <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
-    </category>
+        
+        <!-- যদি অ্যাডঅন একই ফাইলে সাব-ক্যাটাগরি লিস্ট সাপোর্ট করে -->
+        <!-- <subcategories> -->
+            <!-- <item> -->
+                <!-- <title>2025</title> -->
+                <!-- <link>https://raw.githubusercontent.com/Habib4326/Kodi_Piyalist/refs/heads/main/item.xml?year=2025</link> -->
+                <!-- <thumbnail>...</thumbnail> -->
+                <!-- <fanart>...</fanart> -->
+            <!-- </item> -->
+        <!-- </subcategories> -->
+    </item>
 
-    <category>
-        <title>English Movies ICC</title>
-        <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/English-movies.xml</link>
-        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail>
-        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
-    </category>
+</content>
 
-    <!-- Hindi Movies Category -->
-    <category>
-        <title>Hindi Movies</title>
-        <!-- এখানে Hindi-Movies.xml এর GitHub Raw লিংক দিন -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Hindi-Movies.xml</link>
-        <thumbnail>https://i.postimg.cc/FFqGh0JQ/file-0000000098b861f88437615bfbac9740.png</thumbnail>
-        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
-    </category>
 
-    <!-- Dubbed Movies Category -->
-    <category>
-        <title>Dubbed Movies</title>
-        <!-- এখানে Dubbed-Movies.xml এর GitHub Raw লিংক দিন -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Dubbed-Movies.xml</link>
-        <thumbnail>https://i.postimg.cc/nhfkDZkR/file-000000003d6461f7b5366f3428e13250.png</thumbnail>
-        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
-    </category>
+
+
     
-    <!-- adults-videos Category -->
-    
-
-    <category>
-        <title>Animation-Movies</title>
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/animation_movies.xml</link>
-        <thumbnail>https://i.postimg.cc/yY3n2yB2/1752228977861.png</thumbnail>
-        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
-    </category>
-    
-</categories>
 
 
