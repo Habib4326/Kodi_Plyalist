@@ -5,9 +5,45 @@
     <category>
         <title>English Movies</title>
         <!-- এই লিঙ্কটি english_movies_menu.xml ফাইলকে নির্দেশ করছে, যেখানে বছরের সাব-ক্যাটাগরি থাকবে -->
-        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/item.xml</link> 
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/English-Movies.xml</link> 
         <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail> <!-- এটি একটি উদাহরণ থাম্বনেইল, প্রয়োজন অনুযায়ী পরিবর্তন করুন -->
         <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart> <!-- এটি একটি উদাহরণ ফ্যানআর্ট, প্রয়োজন অনুযায়ী পরিবর্তন করুন -->
     </category>
 
+<category>
+        <title>English Movies ICC</title>
+        <!-- এখানে English-Movies.xml এর GitHub Raw লিংক দিন -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Main-Directory/English-movies.xml</link>
+        <thumbnail>https://i.postimg.cc/28ZGy34L/file-00000000f97061f7a1f2320d5d5b0066.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
+    </category>
+
+    <!-- Hindi Movies Category -->
+    <category>
+        <title>Hindi Movies</title>
+        <!-- এখানে Hindi-Movies.xml এর GitHub Raw লিংক দিন -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Hindi-Movies.xml</link>
+        <thumbnail>https://i.postimg.cc/FFqGh0JQ/file-0000000098b861f88437615bfbac9740.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
+    </category>
+
+    <!-- Dubbed Movies Category -->
+    <category>
+        <title>Dubbed Movies</title>
+        <!-- এখানে Dubbed-Movies.xml এর GitHub Raw লিংক দিন -->
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/Dubbed-Movies.xml</link>
+        <thumbnail>https://i.postimg.cc/nhfkDZkR/file-000000003d6461f7b5366f3428e13250.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
+    </category>
+    
+    <!-- adults-videos Category -->
+    
+
+    <category>
+        <title>Animation-Movies</title>
+        <link>https://raw.githubusercontent.com/Habib4326/Kodi_Plyalist/refs/heads/main/animation_movies.xml</link>
+        <thumbnail>https://i.postimg.cc/yY3n2yB2/1752228977861.png</thumbnail>
+        <fanart>https://i.postimg.cc/d0qj5BgG/fanart.jpg</fanart>
+    </category>
+    
 </categories>
